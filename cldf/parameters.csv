@@ -1,0 +1,324 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_honey,honey,,,1
+2_beehive,beehive,,,2
+3_hit,hit,,,3
+5_sister,sister,,,5
+6_olderbrother,older brother,,,6
+8_oldersister,older sister,,,8
+9_youngersister,younger sister,,,9
+10_son,son,,,10
+11_daughter,daughter,,,11
+12_shirt,shirt,,,12
+13_cupdrinkingvessel,cup (drinking vessel),,,13
+15_long,long,,,15
+16_easy,easy,,,16
+17_difficult,difficult,,,17
+18_word,word,,,18
+19_language,language,,,19
+20_understand,understand,,,20
+21_find,find,,,21
+22_city,city,,,22
+23_stone,stone,,,23
+24_mountain,mountain,,,24
+25_sour,sour,,,25
+26_geranospizacaerulescens,Geranospiza caerulescens,,,26
+27_britoasellowiana,Britoa sellowiana,,,27
+28_tillandsiameridionalis,Tillandsia meridionalis,,,28
+29_cucurbitelladuriaei,Cucurbitella duriaei,,,29
+30_echinodoruslongipetalus,Echinodorus longipetalus,,,30
+31_polygonumpunctatum,Polygonum punctatum,,,31
+32_polygonumhispidum,Polygonum hispidum,,,32
+33_pithecocteniumcynanchoides,Pithecoctenium cynanchoides,,,33
+34_micruruscorallinus,Micrurus corallinus,,,34
+35_spider,spider,,,35
+36_spiderweb,spider web,,,36
+37_husband,husband,,,37
+38_wife,wife,,,38
+39_sit,sit,,,39
+40_borntobe,born (to be),,,40
+41_fall,fall,,,41
+42_hairhead,hair (head),,,42
+43_leaf,leaf,,,43
+44_feather,feather,,,44
+45_pyrocephalusrubinus,Pyrocephalus rubinus,,,45
+46_animal,animal,,,46
+47_sun,sun,,,47
+48_schinopsisbalansae,Schinopsis balansae,,,48
+49_schinopsislorentzii,Schinopsis lorentzii,,,49
+50_red,red,,,50
+51_pycnoporussanguineus,Pycnoporus sanguineus,,,51
+52_treecf08600,tree (cf 08.600),,,52
+53_ear,ear,,,53
+54_pectisodorata,Pectis odorata,,,54
+55_bee,bee,,,55
+56_hand,hand,,,56
+57_arm,arm,,,57
+58_beard,beard,,,58
+59_mouth,mouth,,,59
+60_doorgate,"door, gate",,,60
+61_chin,chin,,,61
+62_lip,lip,,,62
+63_thumb,thumb,,,63
+64_finger,finger,,,64
+65_largebig,"large, big",,,65
+66_mother,mother,,,66
+67_lake,lake,,,67
+68_womb,womb,,,68
+69_parents,parents,,,69
+70_eyelid,eyelid,,,70
+71_window,window,,,71
+72_house,house,,,72
+73_village,village,,,73
+74_seed,seed,,,74
+75_skinhide,"skin, hide",,,75
+76_cover,cover,,,76
+77_nippleteat,"nipple, teat",,,77
+78_breastofwoman,breast (of woman),,,78
+79_head,head,,,79
+80_beak,beak,,,80
+81_spine,spine,,,81
+82_back,back,,,82
+83_bone,bone,,,83
+84_veinartery,"vein, artery",,,84
+85_blood,blood,,,85
+86_path,path,,,86
+87_place,place,,,87
+88_skull,skull,,,88
+89_fur,fur,,,89
+90_bark,bark,,,90
+91_fishscale,fishscale,,,91
+92_cloud,cloud,,,92
+93_sky,sky,,,93
+94_fingernail,fingernail,,,94
+95_claw,claw,,,95
+96_findorsal,fin (dorsal),,,96
+97_fish,fish,,,97
+98_wing,wing,,,98
+99_palmofhand,palm of hand,,,99
+100_smalllittle,"small, little",,,100
+101_child,child,,,101
+102_horn,horn,,,102
+103_club,club,,,103
+104_soulspirit,"soul, spirit",,,104
+105_shadeshadow,"shade, shadow",,,105
+106_year,year,,,106
+107_summer,summer,,,107
+108_prosopisalba,Prosopis alba,,,108
+109_lightning,lightning,,,109
+110_fightvb,fight (vb),,,110
+111_kill,kill,,,111
+112_guitara,guitara,,,112
+113_horseequine,horse (equine),,,113
+114_tail,tail,,,114
+115_sheep,sheep,,,115
+116_goat,goat,,,116
+117_hegoat,he-goat,,,117
+118_ant,ant,,,118
+119_rheaamericana,Rhea americana,,,119
+120_leg,leg,,,120
+121_footprint,footprint,,,121
+122_altar,altar,,,122
+123_burnvbintrans,burn (vb intrans),,,123
+124_bed,bed,,,124
+125_sleep,sleep,,,125
+126_liedown,lie down,,,126
+127_cousin,cousin,,,127
+128_flea,flea,,,128
+129_dog,dog,,,129
+130_louse,louse,,,130
+131_insect,insect,,,131
+132_float,float,,,132
+133_flyvb,fly (vb),,,133
+134_itch,itch,,,134
+135_two,two,,,135
+136_littlequantityfew,"little (quantity), few",,,136
+137_potter,potter,,,137
+138_hear,hear,,,138
+139_earthgroundsoil,"earth (ground, soil)",,,139
+140_where,where,,,140
+141_how,how,,,141
+142_sap,sap,,,142
+143_plantvb,plant (vb),,,143
+144_mute,mute,,,144
+145_nearadv,near (adv),,,145
+146_faradv,far (adv),,,146
+147_muchmany,"much, many",,,147
+148_short,short,,,148
+149_five,five,,,149
+150_ten,ten,,,150
+151_twenty,twenty,,,151
+152_one,one,,,152
+153_three,three,,,153
+154_four,four,,,154
+155_six,six,,,155
+156_seven,seven,,,156
+157_eight,eight,,,157
+158_nine,nine,,,158
+159_cook,cook,,,159
+160_fox,fox,,,160
+161_wolf,wolf,,,161
+162_drink,drink,,,162
+163_see,see,,,163
+164_dust,dust,,,164
+165_write,write,,,165
+166_deer,deer,,,166
+167_yellow,yellow,,,167
+168_star,star,,,168
+169_knife,knife,,,169
+170_needle,needle,,,170
+171_prochiloduslineatus,Prochilodus lineatus,,,171
+172_castelacoccinea,Castela coccinea,,,172
+173_lizard,lizard,,,173
+174_dove,dove,,,174
+175_crotonbonplandianus,Croton bonplandianus,,,175
+176_solanumaridum,Solanum aridum,,,176
+177_solanumeleagnifolium,Solanum eleagnifolium,,,177
+178_solanumpalinacanthum,Solanum palinacanthum,,,178
+179_solanumamygdalifolium,Solanum amygdalifolium,,,179
+180_solanumargentinum,Solanum argentinum,,,180
+181_solanumglaucophyllum,Solanum glaucophyllum,,,181
+182_solanumhieronymi,Solanum hieronymi,,,182
+183_solanumpalinacanthumdunal,Solanum palinacanthum Dunal,,,183
+184_solanumsisymbriifolium,Solanum sisymbriifolium,,,184
+185_cucumismelo,Cucumis melo,,,185
+186_procyoncancrivorus,Procyon cancrivorus,,,186
+187_shell,shell,,,187
+188_bird,bird,,,188
+189_smellvbtrans,smell (vb trans),,,189
+190_chenopodiumambrosioides,Chenopodium ambrosioides,,,190
+191_machetornisrixosa,Machetornis rixosa,,,191
+192_grass,grass,,,192
+193_serrasalmusspilopleura,Serrasalmus spilopleura,,,193
+194_serrasalmusmarginatus,Serrasalmus marginatus,,,194
+195_mylossomaduriventre,Mylossoma duriventre,,,195
+196_piaractusmesopotamicus,Piaractus mesopotamicus,,,196
+197_pseudoplatystoma,Pseudoplatystoma,,,197
+198_pseudoplatystomacorruscans,Pseudoplatystoma corruscans,,,198
+199_pseudoplatystomafasciatum,Pseudoplatystoma fasciatum,,,199
+200_salminusbrasiliensis,Salminus brasiliensis,,,200
+201_testicle,testicle,,,201
+203_passifloracincinnata,Passiflora cincinnata,,,203
+205_passifloramisera,Passiflora misera,,,205
+206_passifloramooreana,Passiflora mooreana,,,206
+207_passifloramorifolia,Passiflora morifolia,,,207
+208_commelinaerecta,Commelina erecta,,,208
+209_oldman,old man,,,209
+210_oldwoman,old woman,,,210
+211_mule,mule,,,211
+212_heterantherapeduncularis,Heteranthera peduncularis,,,212
+213_sicalisflaveola,Sicalis flaveola,,,213
+214_himantopusmelanurus,Himantopus melanurus,,,214
+215_peltophorumdubium,Peltophorum dubium,,,215
+216_hyptislappacea,Hyptis lappacea,,,216
+217_aloysiapolystachya,Aloysia polystachya,,,217
+218_atelocynusmicrotis,Atelocynus microtis,,,218
+219_bidenspilosa,Bidens pilosa,,,219
+220_bidenssubalternans,Bidens subalternans,,,220
+221_boerhaviadiffusa,Boerhavia diffusa,,,221
+222_boerhaviacoccinea,Boerhavia coccinea,,,222
+223_busarellusnigricollis,Busarellus nigricollis,,,223
+224_busarellusnigricollisleucocephalus,Busarellus nigricollis leucocephalus,,,224
+225_clematismontevidensis,Clematis montevidensis,,,225
+226_crotalariaincana,Crotalaria incana,,,226
+227_molothrusbonariensis,Molothrus bonariensis,,,227
+228_ricinuscommunis,Ricinus communis,,,228
+229_phoradendronliga,Phoradendron liga,,,229
+230_rostrhamussociabilis,Rostrhamus sociabilis,,,230
+231_vallesiaglabra,Vallesia glabra,,,231
+232_thaliageniculata,Thalia geniculata,,,232
+233_phyllostylonrhamnoides,Phyllostylon rhamnoides,,,233
+234_battarreastevenii,Battarrea stevenii,,,234
+235_calycophyllummultiflorum,Calycophyllum multiflorum,,,235
+236_heimiasalicifolia,Heimia salicifolia,,,236
+237_sennachloroclada,Senna chloroclada,,,237
+238_sennamorongii,Senna morongii,,,238
+239_sennaobtusifolia,Senna obtusifolia,,,239
+240_sennaoccidentalis,Senna occidentalis,,,240
+241_sennapendula,Senna pendula,,,241
+242_sennapendulavareriocarpa,Senna pendula var. eriocarpa,,,242
+243_sennasp,Senna sp.,,,243
+244_bahuiniaargentinensis,Bahuinia argentinensis,,,244
+245_bauhiniaargentinensis,Bauhinia argentinensis,,,245
+247_assdonkey,"ass, donkey",,,247
+248_black,black,,,248
+249_white,white,,,249
+250_snail,snail,,,250
+251_foot,foot,,,251
+252_tapirusterrestris,Tapirus terrestris,,,252
+253_flower,flower,,,253
+254_penis,penis,,,254
+255_chaunatorquata,Chauna torquata,,,255
+256_tongue,tongue,,,256
+257_cow,cow,,,257
+258_bear,bear,,,258
+259_chest,chest,,,259
+260_ox,ox,,,260
+261_bull,bull,,,261
+262_wasp,wasp,,,262
+263_poison,poison,,,263
+264_eyelash,eyelash,,,264
+265_crocodilealligator,"crocodile, alligator",,,265
+266_heart,heart,,,266
+267_under,under,,,267
+268_everyall,"every, all",,,268
+269_know,know,,,269
+270_goose,goose,,,270
+271_cold,cold,,,271
+272_nest,nest,,,272
+273_upabove,"up, above",,,273
+274_wakeup,wake up,,,274
+275_tapiocamanioccassava,"tapioca, manioc, cassava",,,275
+276_sweetpotato,sweet potato,,,276
+277_stand,stand,,,277
+278_cat,cat,,,278
+279_ashes,ashes,,,279
+280_intestinesguts,"intestines, guts",,,280
+281_eat,eat,,,281
+282_cryweep,"cry, weep",,,282
+283_buy,buy,,,283
+284_come,come,,,284
+285_personhumanbeing,"person, human being",,,285
+286_elbow,elbow,,,286
+287_father,father,,,287
+288_give,give,,,288
+289_hawk,hawk,,,289
+290_fruit,fruit,,,290
+291_grasshopper,grasshopper,,,291
+292_maizecorn,"maize, corn",,,292
+293_lung,lung,,,293
+294_parrot,parrot,,,294
+295_mosquito,mosquito,,,295
+296_name,name,,,296
+297_old,old,,,297
+298_owl,owl,,,298
+299_pus,pus,,,299
+300_ripe,ripe,,,300
+301_road,road,,,301
+302_root,root,,,302
+303_ropecord,"rope, cord",,,303
+304_thunder,thunder,,,304
+305_tobacco,tobacco,,,305
+306_urinate,urinate,,,306
+307_pig,pig,,,307
+308_pistiastratiotes,Pistia stratiotes,,,308
+309_cynodondactylon,Cynodon dactylon,,,309
+310_paspalumplicatulum,Paspalum plicatulum,,,310
+311_paspalumrepens,Paspalum repens,,,311
+312_paspalumunispicatum,Paspalum unispicatum,,,312
+313_dendrocygnabicolor,Dendrocygna bicolor,,,313
+314_eichhorniaazurea,Eichhornia azurea,,,314
+315_hymenachneamplexicaulis,Hymenachne amplexicaulis,,,315
+316_aramidesypecaha,Aramides ypecaha,,,316
+317_turdusamaurochalinus,Turdus amaurochalinus,,,317
+318_zeamays,Zea mays,,,318
+320_aramusguaraunaguarauna,Aramus guarauna guarauna,,,320
+321_echinopsisrhodotricha,Echinopsis rhodotricha,,,321
+322_citrulluslanatus,Citrullus lanatus,,,322
+323_tayassupecari,Tayassu pecari,,,323
+324_gossypiumhirsutum,Gossypium hirsutum,,,324
+325_ipomoeacarnea,Ipomoea carnea,,,325
+326_tamanduatetradactyla,Tamandua tetradactyla,,,326
+327_crotophagaani,Crotophaga ani,,,327
+328_crotophagamajor,Crotophaga major,,,328
+329_hold,hold,,,329
+330_ortaliscanicollis,Ortalis canicollis,,,330
