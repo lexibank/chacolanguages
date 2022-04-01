@@ -99,7 +99,7 @@ class Dataset(BaseDataset):
                                             Value=val.strip() or form.strip() or "?",
                                             Form=form or val.strip() or "?",
                                             Segments=tks,
-                                            Source="Deepadung2015",
+                                            Source=sources[lang],
                                             Partial_Cognacy=" ".join([str(x) for x in
                                                 cogids]),
                                             Morpheme_Glosses=morphemes,

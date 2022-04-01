@@ -1,27 +1,27 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,Dataset,Sources
-Abipon,Abipón,abip1241,Abipon,axb,South America,-29,-61,Guaicuruan,,base,najlis1966
-Ava,Ava Guaraní,east2555,Eastern Bolivian Guaraní,gui,South America,-20.42,-63.37,Tupian,,base,dietrich2015
-Ayoreo,Ayoreo,ayor1240,Ayoreo,ayo,South America,-19.22,-60.22,Zamucoan,,base plants,"benz2020, schmeda1998, briggs2015"
-Cerriteno,Toba de Cerrito,toba1269,Toba,tob,South America,-27.3247044,-57.6695154,Guaicuruan,,base,messineo2009
-Chamacoco,Chamacoco,cham1315,Chamacoco,ceg,South America,-20.59,-58.2,Zamucoan,,base,ciucci2013
-Chorote,Iyojwa'ja Chorote,iyoj1235,Iyojwa'ja Chorote,crt,South America,-22.19,-63.24,Matacoan,,base plants,"drayson2009, scarpa2010"
-Enlhet,Enlhet,nort2971,Enlhet Norte,enl,South America,-22.54,-58.98,Enlhet-Enenlhet,,plants base,"kalisch1997, kalisch2015, arenas1981"
-EnxetSur,Enxet Sur,sout2989,Enxet Sur,enx,South America,-23.43,-57.95,Enlhet-Enenlhet,,plants,curtis2018
-Guarani,Guaraní Paraguayo,para1311,Paraguayan Guaraní,gug,South America,-25.61,-57.09,Tupian,,base plants,"guasch1995, seelwische1980, carol2018"
-GuaraniIzoceno,Guaraní Izoceño,izoc1240,Izoceño,,South America,,,Tupian,,plants,izoceno2002
-Iyowujwa,Iyówuj'wa,iyow1239,Iyo'wujwa Chorote,crq,South America,-22.21,-62.65,Matacoan,,plants,scarpa2010
-Kadiweo,Kadiweo,kadi1248,Kadiwéu,kbc,South America,-19.72,-57.58,Guaicuruan,,base,griffiths2002
-Lule,Lule,lule1238,Lule,ule,South America,-25.22,-61.89,Lule-Vilela,,base,machoni1732
-Maka,Maká,maca1260,Maca,mca,South America,-25.01,-57.37,Matacoan,,base plants,"gerzenstein1999, arenas1983"
-Manjui,Iyoʼwujwa Chorote,iyow1239,Iyo'wujwa Chorote,crq,South America,-22.48,-62.3,Matacoan,,base plants,carol2018
-Mapudungun,Mapudungun,mapu1245,Mapudungun,arn,South America,-38.74,-71.28,Araucanian,,base,"catrileo2017, catrileo2015"
-Mbya,Mbya,mbya1239,Mbyá Guaraní,gun,South America,-26.02, -52.71,Tupian,,base,cadogan1992
-Mocovi,Mocoví,moco1246,Mocoví,moc,South America,-28.1,-60.41,Guaicuruan,,base plants,"buckwalter2004, buckwalter2015b, rosso2010"
-Nivacle,Nivaclé,niva1238,Nivaclé,cag,South America,-22.86,-61.76,Matacoan,,base plants,seelwische1980
-Pilaga,Pilagá,pila1245,Pilagá,plg,South America,-25.01,-60.15,Guaicuruan,,base plants,"vidal2010, filipov1993"
-Quichua,Quichua Santiagueño,sant1432,Santiago del Estero Quichua,qus,South America,-27.82,-63.25,Quechua,,base,bravo1975
-Tapiete,Tapiete,tapi1253,Tapieté,tpj,South America,-21.42,-62.68,Tupian,,plants,gonzalez2011
-Toba,Toba,toba1269,Toba,tob,South America,-23.77,-61.96,Guaicuruan,,base plants,"buckwalter1980, martinez2009, cuneo2009, buckwalter2015"
-TobaPilaga,Toba-pilagá,toba1270,Toba-Pilagá,,South America,-23.4989,-61.6489,Guaicuruan,,plants,arenas1993
-Vilela,Vilela,vile1241,Vilela,vil,South America,-27.41,-58.97,Lule-Vilela,,base,golluscio2009
-Wichi,Wichí ,wich1261,Wichi,,,-23.16,-62.18,Matacoan,,base plants,"braunstein2015, suarez2010"
+Abipon,Abipón,abip1241,,,,-29,-61,Guaicuruan,,base,najlis1966
+Ava,Ava Guaraní,east2555,,,,-20.42,-63.37,Tupian,,base,dietrich2015
+Ayoreo,Ayoreo,ayor1240,,,,-19.22,-60.22,Zamucoan,,base plants,"benz2020, schmeda1998, briggs2015"
+Cerriteno,Toba de Cerrito,toba1269,,,,-27.3247044,-57.6695154,Guaicuruan,,base,messineo2009
+Chamacoco,Chamacoco,cham1315,,,,-20.59,-58.2,Zamucoan,,base,ciucci2013
+Chorote,Iyojwa'ja Chorote,iyoj1235,,,,-22.19,-63.24,Matacoan,,base plants,"drayson2009, scarpa2010"
+Enlhet,Enlhet,nort2971,,,,-22.54,-58.98,Enlhet-Enenlhet,,plants base,"kalisch1997, kalisch2015, arenas1981"
+EnxetSur,Enxet Sur,sout2989,,,,-23.43,-57.95,Enlhet-Enenlhet,,plants,curtis2018
+Guarani,Guaraní Paraguayo,para1311,,,,-25.61,-57.09,Tupian,,base plants,"guasch1995, seelwische1980, carol2018"
+GuaraniIzoceno,Guaraní Izoceño,izoc1240,,,,,,Tupian,,plants,izoceno2002
+Iyowujwa,Iyówuj'wa,iyow1239,,,,-22.21,-62.65,Matacoan,,plants,scarpa2010
+Kadiweo,Kadiweo,kadi1248,,,,-19.72,-57.58,Guaicuruan,,base,griffiths2002
+Lule,Lule,lule1238,,,,-25.22,-61.89,Lule-Vilela,,base,machoni1732
+Maka,Maká,maca1260,,,,-25.01,-57.37,Matacoan,,base plants,"gerzenstein1999, arenas1983"
+Manjui,Iyoʼwujwa Chorote,iyow1239,,,,-22.48,-62.3,Matacoan,,base plants,carol2018
+Mapudungun,Mapudungun,mapu1245,,,,-38.74,-71.28,Araucanian,,base,"catrileo2017, catrileo2015"
+Mbya,Mbya,mbya1239,,,,-26.02, -52.71,Tupian,,base,cadogan1992
+Mocovi,Mocoví,moco1246,,,,-28.1,-60.41,Guaicuruan,,base plants,"buckwalter2004, buckwalter2015b, rosso2010"
+Nivacle,Nivaclé,niva1238,,,,-22.86,-61.76,Matacoan,,base plants,seelwische1980
+Pilaga,Pilagá,pila1245,,,,-25.01,-60.15,Guaicuruan,,base plants,"vidal2010, filipov1993"
+Quichua,Quichua Santiagueño,sant1432,,,,-27.82,-63.25,Quechua,,base,bravo1975
+Tapiete,Tapiete,tapi1253,,,,-21.42,-62.68,Tupian,,plants,gonzalez2011
+Toba,Toba,toba1269,,,,-23.77,-61.96,Guaicuruan,,base plants,"buckwalter1980, martinez2009, cuneo2009, buckwalter2015"
+TobaPilaga,Toba-pilagá,toba1270,,,,-23.4989,-61.6489,Guaicuruan,,plants,arenas1993
+Vilela,Vilela,vile1241,,,,-27.41,-58.97,Lule-Vilela,,base,golluscio2009
+Wichi,Wichí ,wich1261,,,,-23.16,-62.18,Matacoan,,base plants,"braunstein2015, suarez2010"
