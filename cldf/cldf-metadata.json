@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "+++ add later +++",
+    "dc:bibliographicCitation": "Brid, Nicol\u00e1s, Cristina Messineo, and Johann-Mattis List (2022): Lexical Database of Chaco Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chacolanguages",
             "rdf:type": "prov:Entity",
-            "dc:created": "742f58c",
+            "dc:created": "5cd99cb",
             "dc:title": "Repository"
         },
         {

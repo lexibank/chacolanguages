@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > +++ add later +++
+  > Brid, Nicolás, Cristina Messineo, and Johann-Mattis List (2022): Lexical Database of Chaco Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -24,7 +24,7 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Varieties:** 26
 - **Concepts:** 323
 - **Lexemes:** 6,969
-- **Sources:** 39
+- **Sources:** 40
 - **Synonymy:** 1.39
 - **Invalid lexemes:** 0
 - **Tokens:** 48,915
