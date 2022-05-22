@@ -69,6 +69,7 @@ class Dataset(BaseDataset):
                 GBIF_Name=concept["GBIF_NAME"]
             )
             concepts[concept["ENGLISH"]] = idx
+
         args.writer.add_languages()
         sources = {}
         for lang in self.languages:
@@ -90,9 +91,6 @@ class Dataset(BaseDataset):
                 if not lang.strip():
                     errors.add(("language", idx, lang))
                     erred = True
-                if not concept.strip():
-                    errors.add(("concept", idx, concept))
-                    erred = True
                 if not tks:
                     errors.add(("tokens", idx, lang+"-"+concept+"-"+" ".join(tks)))
                     erred = True
@@ -106,10 +104,12 @@ class Dataset(BaseDataset):
                                             Source=sources[lang],
                                             Partial_Cognacy=" ".join([str(x) for x in
                                                 cogids]),
-                                            Morpheme_Glosses=morphemes,
-                                            Borrowings=borids,
-                                            Patterns=patids
+                                            Morpheme_Glosses=" ".join(morphemes) or "?",
+                                            Borrowings=borids or 0,
+                                            Patterns=patids or 0
                                             )
+            else:
+                pass 
     
         for row in sorted(errors):
             print("{0:10} {1:10} {2:10}".format(*row))

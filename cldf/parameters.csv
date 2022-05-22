@@ -42,81 +42,81 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 42_hairhead,hair (head),2648,HAIR (HEAD),42,,
 43_leaf,leaf,628,LEAF,43,,
 44_feather,feather,1201,FEATHER,44,,
-45_pyrocephalusrubinus,Pyrocephalus rubinus,,,45,2483647,"Pyrocephalus rubinus (Boddaert
-46	animal	619	ANIMAL	animal		
-47	sun	1343	SUN	sol		
-48	Schinopsis balansae				3190533	Schinopsis balansae Engl.
-49	Schinopsis lorentzii				3190531	Schinopsis lorentzii Engl.
-50	red	156	RED	rojo		
-51	Pycnoporus sanguineus				5246472	Pycnoporus sanguineus (L.) Murrill
-52	tree (cf 08.600)	906	TREE	árbol		
-53	ear	1247	EAR	oreja		
-54	Pectis odorata				5405564	Pectis odorata Griseb.
-55	bee	665	BEE	abeja		
-56	hand	1277	HAND	mano		
-57	arm	1673	ARM	brazo		
-58	beard	678	BEARD	barba		
-59	mouth	674	MOUTH	boca		
-60	door, gate	1567	DOOR	puerta		
-61	chin	1510	CHIN	mentón, barbilla		
-62	lip	478	LIP	labio		
-63	thumb	1781	THUMB	pulgar		
-64	finger	1303	FINGER	dedo		
-65	large, big	1202	BIG	grande		
-66	mother	1216	MOTHER	madre		
-67	lake	624	LAKE	lago		
-68	womb	804	WOMB	matriz, vientre		
-69	parents	505	PARENTS	padres		
-70	eyelid	17	EYELID	párpado		
-71	window	1375	WINDOW	ventana		
-72	house	1252	HOUSE	casa		
-73	village	930	VILLAGE	pueblo		
-74	seed	714	SEED	semilla		
-75	skin, hide	763	SKIN	piel, cutis, pellejo		
-76	cover	761	COVER	cubrir		
-77	nipple, teat	796	NIPPLE	pezón		
-78	breast (of woman)	1402	BREAST	seno		
-79	head	1256	HEAD	cabeza		
-80	beak	73	BEAK	pico		
-81	spine	805	SPINE	espinazo, espina dorsal		
-82	back	1291	BACK	espalda		
-83	bone	1394	BONE	hueso		
-84	vein, artery	525	BLOOD VESSEL	vena, arteria		
-85	blood	946	BLOOD	sangre		
-86	path	2252	PATH	camino, senda		
-87	place	723	PLACE (POSITION)	lugar, sitio		
-88	skull	1605	SKULL	cráneo, calavera		
-89	fur	580	FUR	piel (de animal)		
-90	bark	1204	BARK	corteza		
-91	fishscale	266	SCALE	escama		
-92	cloud	1489	CLOUD	nube		
-93	sky	1732	SKY	cielo		
-94	fingernail	1258	FINGERNAIL	uña		
-95	claw	72	CLAW	garra		
-96	fin (dorsal)	213	FIN	aleta		
-97	fish	227	FISH	pez, pescado		
-98	wing	1257	WING	ala		
-99	palm of hand	1183	PALM OF HAND	palma de la mano		
-100	small, little	1246	SMALL	chico, pequeño		
-101	child	1304	CHILD (YOUNG HUMAN)	niño		
-102	horn	1393	HORN (ANATOMY)	cuerno		
-103	club	1763	CLUB	macana, garrote		
-104	soul, spirit	811	SOUL	alma		
-105	shade, shadow	1388	SHADE	sombra		
-106	year	1226	YEAR	año		
-107	summer	1342	SUMMER	verano		
-108	Prosopis alba				5358528	Prosopis alba Griseb.
-109	lightning	1654	LIGHTNING	relámpago		
-110	fight (vb)	1423	FIGHT	pelear		
-111	kill	1417	KILL	matar		
-112	guitara					
-113	horse (equine)	615	HORSE	caballo		
-114	tail	1220	TAIL	cola		
-115	sheep	1331	SHEEP	oveja		
-116	goat	1502	GOAT	cabra		
-117	he-goat	2475	MALE GOAT	chivo, macho cabrío		
-118	ant	587	ANT	hormiga		
-119	Rhea americana				2495165	Rhea americana (Linnaeus"
+45_pyrocephalusrubinus,Pyrocephalus rubinus,,,45,2483647,"Pyrocephalus rubinus (Boddaert, 1783)"
+46_animal,animal,619,ANIMAL,46,,
+47_sun,sun,1343,SUN,47,,
+48_schinopsisbalansae,Schinopsis balansae,,,48,3190533,Schinopsis balansae Engl.
+49_schinopsislorentzii,Schinopsis lorentzii,,,49,3190531,Schinopsis lorentzii Engl.
+50_red,red,156,RED,50,,
+51_pycnoporussanguineus,Pycnoporus sanguineus,,,51,5246472,Pycnoporus sanguineus (L.) Murrill
+52_treecf08600,tree (cf 08.600),906,TREE,52,,
+53_ear,ear,1247,EAR,53,,
+54_pectisodorata,Pectis odorata,,,54,5405564,Pectis odorata Griseb.
+55_bee,bee,665,BEE,55,,
+56_hand,hand,1277,HAND,56,,
+57_arm,arm,1673,ARM,57,,
+58_beard,beard,678,BEARD,58,,
+59_mouth,mouth,674,MOUTH,59,,
+60_doorgate,"door, gate",1567,DOOR,60,,
+61_chin,chin,1510,CHIN,61,,
+62_lip,lip,478,LIP,62,,
+63_thumb,thumb,1781,THUMB,63,,
+64_finger,finger,1303,FINGER,64,,
+65_largebig,"large, big",1202,BIG,65,,
+66_mother,mother,1216,MOTHER,66,,
+67_lake,lake,624,LAKE,67,,
+68_womb,womb,804,WOMB,68,,
+69_parents,parents,505,PARENTS,69,,
+70_eyelid,eyelid,17,EYELID,70,,
+71_window,window,1375,WINDOW,71,,
+72_house,house,1252,HOUSE,72,,
+73_village,village,930,VILLAGE,73,,
+74_seed,seed,714,SEED,74,,
+75_skinhide,"skin, hide",763,SKIN,75,,
+76_cover,cover,761,COVER,76,,
+77_nippleteat,"nipple, teat",796,NIPPLE,77,,
+78_breastofwoman,breast (of woman),1402,BREAST,78,,
+79_head,head,1256,HEAD,79,,
+80_beak,beak,73,BEAK,80,,
+81_spine,spine,805,SPINE,81,,
+82_back,back,1291,BACK,82,,
+83_bone,bone,1394,BONE,83,,
+84_veinartery,"vein, artery",525,BLOOD VESSEL,84,,
+85_blood,blood,946,BLOOD,85,,
+86_path,path,2252,PATH,86,,
+87_place,place,723,PLACE (POSITION),87,,
+88_skull,skull,1605,SKULL,88,,
+89_fur,fur,580,FUR,89,,
+90_bark,bark,1204,BARK,90,,
+91_fishscale,fishscale,266,SCALE,91,,
+92_cloud,cloud,1489,CLOUD,92,,
+93_sky,sky,1732,SKY,93,,
+94_fingernail,fingernail,1258,FINGERNAIL,94,,
+95_claw,claw,72,CLAW,95,,
+96_findorsal,fin (dorsal),213,FIN,96,,
+97_fish,fish,227,FISH,97,,
+98_wing,wing,1257,WING,98,,
+99_palmofhand,palm of hand,1183,PALM OF HAND,99,,
+100_smalllittle,"small, little",1246,SMALL,100,,
+101_child,child,1304,CHILD (YOUNG HUMAN),101,,
+102_horn,horn,1393,HORN (ANATOMY),102,,
+103_club,club,1763,CLUB,103,,
+104_soulspirit,"soul, spirit",811,SOUL,104,,
+105_shadeshadow,"shade, shadow",1388,SHADE,105,,
+106_year,year,1226,YEAR,106,,
+107_summer,summer,1342,SUMMER,107,,
+108_prosopisalba,Prosopis alba,,,108,5358528,Prosopis alba Griseb.
+109_lightning,lightning,1654,LIGHTNING,109,,
+110_fightvb,fight (vb),1423,FIGHT,110,,
+111_kill,kill,1417,KILL,111,,
+112_guitara,guitara,,,112,,
+113_horseequine,horse (equine),615,HORSE,113,,
+114_tail,tail,1220,TAIL,114,,
+115_sheep,sheep,1331,SHEEP,115,,
+116_goat,goat,1502,GOAT,116,,
+117_hegoat,he-goat,2475,MALE GOAT,117,,
+118_ant,ant,587,ANT,118,,
+119_rheaamericana,Rhea americana,,,119,2495165,"Rhea americana (Linnaeus, 1758)"
 120_leg,leg,1297,LEG,120,,
 121_footprint,footprint,318,FOOTPRINT,121,,
 122_altar,altar,853,ALTAR,122,,
@@ -168,36 +168,36 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 168_star,star,1430,STAR,168,,
 169_knife,knife,1352,KNIFE,169,,
 170_needle,needle,1382,NEEDLE (FOR SEWING),170,,
-171_prochiloduslineatus,Prochilodus lineatus,,,171,2352154,"Prochilodus lineatus (Valenciennes
-172	Castela coccinea				3709153	Castela coccinea Griseb.
-173	lizard	632	LIZARD	lagartija		
-174	dove	1853	DOVE	paloma		
-175	Croton bonplandianus				3058543	Croton bonplandianus Baill.
-176	Solanum aridum				2932285	Solanum aridum Morong
-177	Solanum eleagnifolium				7299960	Solanum eleagnifolium
-178	Solanum palinacanthum				2929551	Solanum palinacanthum Dunal
-179	Solanum amygdalifolium				2929794	Solanum amygdalifolium Steud.
-180	Solanum argentinum				2932402	Solanum argentinum Bitter & Lillo
-181	Solanum glaucophyllum				2929370	Solanum glaucophyllum Desf.
-182	Solanum hieronymi				2930183	Solanum hieronymi Kuntze
-183	Solanum palinacanthum Dunal				2929551	Solanum palinacanthum Dunal
-184	Solanum sisymbriifolium				2932184	Solanum sisymbriifolium Lam.
-185	Cucumis melo				2874570	Cucumis melo L.
-186	Procyon cancrivorus				9518324	Procyon cancrivorus G
-187	shell	598	SHELL	valva		
-188	bird	937	BIRD	pájaro, ave		
-189	smell (vb trans)	1586	SMELL (PERCEIVE)	oler, olfatear		
-190	Chenopodium ambrosioides				5568446	
-191	Machetornis rixosa				2482934	Machetornis rixosa (Vieillot"
+171_prochiloduslineatus,Prochilodus lineatus,,,171,2352154,"Prochilodus lineatus (Valenciennes, 1837)"
+172_castelacoccinea,Castela coccinea,,,172,3709153,Castela coccinea Griseb.
+173_lizard,lizard,632,LIZARD,173,,
+174_dove,dove,1853,DOVE,174,,
+175_crotonbonplandianus,Croton bonplandianus,,,175,3058543,Croton bonplandianus Baill.
+176_solanumaridum,Solanum aridum,,,176,2932285,Solanum aridum Morong
+177_solanumeleagnifolium,Solanum eleagnifolium,,,177,7299960,Solanum eleagnifolium
+178_solanumpalinacanthum,Solanum palinacanthum,,,178,2929551,Solanum palinacanthum Dunal
+179_solanumamygdalifolium,Solanum amygdalifolium,,,179,2929794,Solanum amygdalifolium Steud.
+180_solanumargentinum,Solanum argentinum,,,180,2932402,Solanum argentinum Bitter & Lillo
+181_solanumglaucophyllum,Solanum glaucophyllum,,,181,2929370,Solanum glaucophyllum Desf.
+182_solanumhieronymi,Solanum hieronymi,,,182,2930183,Solanum hieronymi Kuntze
+183_solanumpalinacanthumdunal,Solanum palinacanthum Dunal,,,183,2929551,Solanum palinacanthum Dunal
+184_solanumsisymbriifolium,Solanum sisymbriifolium,,,184,2932184,Solanum sisymbriifolium Lam.
+185_cucumismelo,Cucumis melo,,,185,2874570,Cucumis melo L.
+186_procyoncancrivorus,Procyon cancrivorus,,,186,9518324,Procyon cancrivorus G
+187_shell,shell,598,SHELL,187,,
+188_bird,bird,937,BIRD,188,,
+189_smellvbtrans,smell (vb trans),1586,SMELL (PERCEIVE),189,,
+190_chenopodiumambrosioides,Chenopodium ambrosioides,,,190,5568446,
+191_machetornisrixosa,Machetornis rixosa,,,191,2482934,"Machetornis rixosa (Vieillot, 1819)"
 192_grass,grass,606,GRASS,192,,
-193_serrasalmusspilopleura,Serrasalmus spilopleura,,,193,2354120,"Serrasalmus spilopleura Kner
-194	Serrasalmus marginatus				2354121	Serrasalmus marginatus Valenciennes"
-195_mylossomaduriventre,Mylossoma duriventre,,,195,2352710,"Mylossoma duriventre (Cuvier
-196	Piaractus mesopotamicus				2353219	Piaractus mesopotamicus (Holmberg"
-197_pseudoplatystoma,Pseudoplatystoma,,,197,2338658,"Pseudoplatystoma Bleeker
-198	Pseudoplatystoma corruscans				2338660	Pseudoplatystoma corruscans (Spix & Agassiz"
-199_pseudoplatystomafasciatum,Pseudoplatystoma fasciatum,,,199,2338673,"Pseudoplatystoma fasciatum (Linnaeus
-200	Salminus brasiliensis				2354769	Salminus brasiliensis (Cuvier"
+193_serrasalmusspilopleura,Serrasalmus spilopleura,,,193,2354120,"Serrasalmus spilopleura Kner, 1858"
+194_serrasalmusmarginatus,Serrasalmus marginatus,,,194,2354121,"Serrasalmus marginatus Valenciennes, 1837"
+195_mylossomaduriventre,Mylossoma duriventre,,,195,2352710,"Mylossoma duriventre (Cuvier, 1818)"
+196_piaractusmesopotamicus,Piaractus mesopotamicus,,,196,2353219,"Piaractus mesopotamicus (Holmberg, 1887)"
+197_pseudoplatystoma,Pseudoplatystoma,,,197,2338658,"Pseudoplatystoma Bleeker, 1862"
+198_pseudoplatystomacorruscans,Pseudoplatystoma corruscans,,,198,2338660,"Pseudoplatystoma corruscans (Spix & Agassiz, 1829)"
+199_pseudoplatystomafasciatum,Pseudoplatystoma fasciatum,,,199,2338673,"Pseudoplatystoma fasciatum (Linnaeus, 1766)"
+200_salminusbrasiliensis,Salminus brasiliensis,,,200,2354769,"Salminus brasiliensis (Cuvier, 1816)"
 201_testicle,testicle,797,TESTICLES,201,,
 203_passifloracincinnata,Passiflora cincinnata,,,203,2874200,Passiflora cincinnata Mast.
 205_passifloramisera,Passiflora misera,,,205,3587005,Passiflora misera Kunth
@@ -208,116 +208,119 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 210_oldwoman,old woman,907,OLD WOMAN,210,,
 211_mule,mule,890,MULE,211,,
 212_heterantherapeduncularis,Heteranthera peduncularis,,,212,2766167,Heteranthera peduncularis Benth.
-213_sicalisflaveola,Sicalis flaveola,,,213,2491862,"Sicalis flaveola (Linnaeus
-214	Himantopus melanurus				5229127	Himantopus melanurus Vieillot"
+213_sicalisflaveola,Sicalis flaveola,,,213,2491862,"Sicalis flaveola (Linnaeus, 1766)"
+214_himantopusmelanurus,Himantopus melanurus,,,214,5229127,"Himantopus melanurus Vieillot, 1817"
 215_peltophorumdubium,Peltophorum dubium,,,215,2952798,Peltophorum dubium Taub.
 216_hyptislappacea,Hyptis lappacea,,,216,7309321,Hyptis lappacea Benth.
 217_aloysiapolystachya,Aloysia polystachya,,,217,5667405,Aloysia polystachya (Griseb.) Moldenke
-218_atelocynusmicrotis,Atelocynus microtis,,,218,2434454,"Atelocynus microtis (Sclater
-219	Bidens pilosa				5391845	Bidens pilosa L.
-220	Bidens subalternans				5391882	Bidens subalternans DC.
-221	Boerhavia diffusa				3086282	Boerhavia diffusa L.
-222	Boerhavia coccinea				3086287	Boerhavia coccinea Mill.
-223	Busarellus nigricollis				2480692	Busarellus nigricollis (Latham"
-224_busarellusnigricollisleucocephalus,Busarellus nigricollis leucocephalus,,,224,5844491,"Busarellus nigricollis leucocephalus (Vieillot
-225	Clematis montevidensis				7278116	Clematis montevidensis Spreng.
-226	Crotalaria incana				2942375	Crotalaria incana L.
-227	Molothrus bonariensis				2484396	Molothrus bonariensis (Gmelin"
+218_atelocynusmicrotis,Atelocynus microtis,,,218,2434454,"Atelocynus microtis (Sclater, 1883)"
+219_bidenspilosa,Bidens pilosa,,,219,5391845,Bidens pilosa L.
+220_bidenssubalternans,Bidens subalternans,,,220,5391882,Bidens subalternans DC.
+221_boerhaviadiffusa,Boerhavia diffusa,,,221,3086282,Boerhavia diffusa L.
+222_boerhaviacoccinea,Boerhavia coccinea,,,222,3086287,Boerhavia coccinea Mill.
+223_busarellusnigricollis,Busarellus nigricollis,,,223,2480692,"Busarellus nigricollis (Latham, 1790)"
+224_busarellusnigricollisleucocephalus,Busarellus nigricollis leucocephalus,,,224,5844491,"Busarellus nigricollis leucocephalus (Vieillot, 1816)"
+225_clematismontevidensis,Clematis montevidensis,,,225,7278116,Clematis montevidensis Spreng.
+226_crotalariaincana,Crotalaria incana,,,226,2942375,Crotalaria incana L.
+227_molothrusbonariensis,Molothrus bonariensis,,,227,2484396,"Molothrus bonariensis (Gmelin, 1789)"
 228_ricinuscommunis,Ricinus communis,,,228,5380041,Ricinus communis L.
 229_phoradendronliga,Phoradendron liga,,,229,4068886,Phoradendron liga Eichler
-230_rostrhamussociabilis,Rostrhamus sociabilis,,,230,2480415,"Rostrhamus sociabilis (Vieillot
-231	Vallesia glabra				5414418	Vallesia glabra Link
-232	Thalia geniculata				5303044	Thalia geniculata L.
-233	Phyllostylon rhamnoides				4160095	Phyllostylon rhamnoides (J.Poiss.) Taub.
-234	Battarrea stevenii				2535676	Battarrea phalloides (Dicks.) Pers.
-235	Calycophyllum multiflorum				2904021	Calycophyllum multiflorum Griseb.
-236	Heimia salicifolia				5420914	Heimia salicifolia Link
-237	Senna chloroclada				2957726	Senna chloroclada (Harms) H.S.Irwin & Barneby
-238	Senna morongii				2957888	Senna morongii (Britton) H.S.Irwin & Barneby
-239	Senna obtusifolia				2957408	Senna obtusifolia (L.) H.S.Irwin & Barneby
-240	Senna occidentalis				2957966	Senna occidentalis (L.) Link
-241	Senna pendula				2957187	Senna pendula (Willd.) H.S.Irwin & Barneby
-242	Senna pendula var. eriocarpa				2957204	Senna pendula var. eriocarpa (Griseb.) H.S.Irwin & Barneby
-243	Senna sp.				2957478	Senna splendida (Vogel) H.S.Irwin & Barneby
-244	Bahuinia argentinensis				2953119	Bauhinia argentinensis Burkart
-245	Bauhinia argentinensis				2953119	Bauhinia argentinensis Burkart
-246	Bahuinia sp.				2952935	Bauhinia L.
-247	ass, donkey	1862	DONKEY	asno, burro		
-248	black	163	BLACK	negro		
-249	white	1335	WHITE	blanco		
-250	snail	1543	SNAIL	caracol		
-251	foot	1301	FOOT	pie		
-252	Tapirus terrestris				2440898	Tapirus terrestris (Linnaeus"
+230_rostrhamussociabilis,Rostrhamus sociabilis,,,230,2480415,"Rostrhamus sociabilis (Vieillot, 1817)"
+231_vallesiaglabra,Vallesia glabra,,,231,5414418,Vallesia glabra Link
+232_thaliageniculata,Thalia geniculata,,,232,5303044,Thalia geniculata L.
+233_phyllostylonrhamnoides,Phyllostylon rhamnoides,,,233,4160095,Phyllostylon rhamnoides (J.Poiss.) Taub.
+234_battarreastevenii,Battarrea stevenii,,,234,2535676,Battarrea phalloides (Dicks.) Pers.
+235_calycophyllummultiflorum,Calycophyllum multiflorum,,,235,2904021,Calycophyllum multiflorum Griseb.
+236_heimiasalicifolia,Heimia salicifolia,,,236,5420914,Heimia salicifolia Link
+237_sennachloroclada,Senna chloroclada,,,237,2957726,Senna chloroclada (Harms) H.S.Irwin & Barneby
+238_sennamorongii,Senna morongii,,,238,2957888,Senna morongii (Britton) H.S.Irwin & Barneby
+239_sennaobtusifolia,Senna obtusifolia,,,239,2957408,Senna obtusifolia (L.) H.S.Irwin & Barneby
+240_sennaoccidentalis,Senna occidentalis,,,240,2957966,Senna occidentalis (L.) Link
+241_sennapendula,Senna pendula,,,241,2957187,Senna pendula (Willd.) H.S.Irwin & Barneby
+242_sennapendulavareriocarpa,Senna pendula var. eriocarpa,,,242,2957204,Senna pendula var. eriocarpa (Griseb.) H.S.Irwin & Barneby
+243_sennasp,Senna sp.,,,243,2957478,Senna splendida (Vogel) H.S.Irwin & Barneby
+244_bahuiniaargentinensis,Bahuinia argentinensis,,,244,2953119,Bauhinia argentinensis Burkart
+245_bauhiniaargentinensis,Bauhinia argentinensis,,,245,2953119,Bauhinia argentinensis Burkart
+247_assdonkey,"ass, donkey",1862,DONKEY,247,,
+248_black,black,163,BLACK,248,,
+249_white,white,1335,WHITE,249,,
+250_snail,snail,1543,SNAIL,250,,
+251_foot,foot,1301,FOOT,251,,
+252_tapirusterrestris,Tapirus terrestris,,,252,2440898,"Tapirus terrestris (Linnaeus, 1758)"
 253_flower,flower,239,FLOWER,253,,
 254_penis,penis,1222,PENIS,254,,
-255_chaunatorquata,Chauna torquata,,,255,5959222,"Chauna torquata (Oken
-256	tongue	1205	TONGUE	lengua		
-257	cow	1007	COW	vaca		
-258	bear	1820	BEAR	oso		
-259	chest	1592	CHEST	pecho		
-260	ox	1169	OX	buey		
-261	bull	1008	BULL	toro		
-262	wasp	1517	WASP	avispa		
-263	poison	655	POISON	veneno		
-264	eyelash	1540	EYELASH	pestaña		
-265	crocodile, alligator	1857	CROCODILE	cocodrilo, caimán		
-266	heart	1223	HEART	corazón		
-267	under	1485	BELOW OR UNDER	debajo		
-268	every, all	98	ALL	cada uno, todo		
-269	know	1410	KNOW (SOMETHING)	saber		
-270	goose	1187	GOOSE	ganso		
-271	cold	1287	COLD	frío		
-272	nest	539	NEST	nido		
-273	up, above	1591	UP	arriba, encima		
-274	wake up	1602	WAKE UP	despertarse		
-275	tapioca, manioc, cassava	925	CASSAVA	mandioca, yuca		
-276	sweet potato	159	SWEET POTATO	camote, batata		
-277	stand	1442	STAND	poner(se) de pie		
-278	cat	1208	CAT	gato		
-279	ashes	646	ASH	cenizas		
-280	intestines, guts	1991	INTESTINES	intestinos		
-281	eat	1336	EAT	comer		
-282	cry, weep	1839	CRY	llorar		
-283	buy	1869	BUY	comprar		
-284	come	1446	COME	venir		
-285	person, human being	683	PERSON	persona		
-286	elbow	981	ELBOW	codo		
-287	father	1217	FATHER	padre		
-288	give	1447	GIVE	dar		
-289	hawk	307	HAWK	gavilán, halcón		
-290	fruit	1507	FRUIT	fruta		
-291	grasshopper	607	GRASSHOPPER	saltamontes		
-292	maize, corn	506	MAIZE	maíz		
-293	lung	688	LUNG	pulmón		
-294	parrot	882	PARROT	loro		
-295	mosquito	1509	MOSQUITO	mosquito		
-296	name	1405	NAME	nombre		
-297	old	1229	OLD	viejo		
-298	owl	735	OWL	lechuza, buho		
-299	pus	1808	PUS	pus		
-300	ripe	178	RIPE	maduro		
-301	road	667	ROAD	carretera		
-302	root	670	ROOT	raíz		
-303	rope, cord	1218	ROPE	cuerda, soga		
-304	thunder	1150	THUNDER	trueno		
-305	tobacco	974	TOBACCO	tabaco		
-306	urinate	592	PISS	orinar		
-307	pig	1337	PIG	cerdo, puerco		
-308	Pistia stratiotes				2870583	Pistia stratiotes L.
-309	Cynodon dactylon				6109637	Cynodon dactylon (L.) Pers.
-310	Paspalum plicatulum				2705584	Paspalum plicatulum Michx.
-311	Paspalum repens				2705655	Paspalum repens P.J.Bergius
-312	Paspalum unispicatum				2705658	Paspalum unispicatum (Scribn. & Merr.) Nash
-313	Dendrocygna bicolor				2498402	Dendrocygna bicolor (Vieillot"
+255_chaunatorquata,Chauna torquata,,,255,5959222,"Chauna torquata (Oken, 1816)"
+256_tongue,tongue,1205,TONGUE,256,,
+257_cow,cow,1007,COW,257,,
+258_bear,bear,1820,BEAR,258,,
+259_chest,chest,1592,CHEST,259,,
+260_ox,ox,1169,OX,260,,
+261_bull,bull,1008,BULL,261,,
+262_wasp,wasp,1517,WASP,262,,
+263_poison,poison,655,POISON,263,,
+264_eyelash,eyelash,1540,EYELASH,264,,
+265_crocodilealligator,"crocodile, alligator",1857,CROCODILE,265,,
+266_heart,heart,1223,HEART,266,,
+267_under,under,1485,BELOW OR UNDER,267,,
+268_everyall,"every, all",98,ALL,268,,
+269_know,know,1410,KNOW (SOMETHING),269,,
+270_goose,goose,1187,GOOSE,270,,
+271_cold,cold,1287,COLD,271,,
+272_nest,nest,539,NEST,272,,
+273_upabove,"up, above",1591,UP,273,,
+274_wakeup,wake up,1602,WAKE UP,274,,
+275_tapiocamanioccassava,"tapioca, manioc, cassava",925,CASSAVA,275,,
+276_sweetpotato,sweet potato,159,SWEET POTATO,276,,
+277_stand,stand,1442,STAND,277,,
+278_cat,cat,1208,CAT,278,,
+279_ashes,ashes,646,ASH,279,,
+280_intestinesguts,"intestines, guts",1991,INTESTINES,280,,
+281_eat,eat,1336,EAT,281,,
+282_cryweep,"cry, weep",1839,CRY,282,,
+283_buy,buy,1869,BUY,283,,
+284_come,come,1446,COME,284,,
+285_personhumanbeing,"person, human being",683,PERSON,285,,
+286_elbow,elbow,981,ELBOW,286,,
+287_father,father,1217,FATHER,287,,
+288_give,give,1447,GIVE,288,,
+289_hawk,hawk,307,HAWK,289,,
+290_fruit,fruit,1507,FRUIT,290,,
+291_grasshopper,grasshopper,607,GRASSHOPPER,291,,
+292_maizecorn,"maize, corn",506,MAIZE,292,,
+293_lung,lung,688,LUNG,293,,
+294_parrot,parrot,882,PARROT,294,,
+295_mosquito,mosquito,1509,MOSQUITO,295,,
+296_name,name,1405,NAME,296,,
+297_old,old,1229,OLD,297,,
+298_owl,owl,735,OWL,298,,
+299_pus,pus,1808,PUS,299,,
+300_ripe,ripe,178,RIPE,300,,
+301_road,road,667,ROAD,301,,
+302_root,root,670,ROOT,302,,
+303_ropecord,"rope, cord",1218,ROPE,303,,
+304_thunder,thunder,1150,THUNDER,304,,
+305_tobacco,tobacco,974,TOBACCO,305,,
+306_urinate,urinate,592,PISS,306,,
+307_pig,pig,1337,PIG,307,,
+308_pistiastratiotes,Pistia stratiotes,,,308,2870583,Pistia stratiotes L.
+309_cynodondactylon,Cynodon dactylon,,,309,6109637,Cynodon dactylon (L.) Pers.
+310_paspalumplicatulum,Paspalum plicatulum,,,310,2705584,Paspalum plicatulum Michx.
+311_paspalumrepens,Paspalum repens,,,311,2705655,Paspalum repens P.J.Bergius
+312_paspalumunispicatum,Paspalum unispicatum,,,312,2705658,Paspalum unispicatum (Scribn. & Merr.) Nash
+313_dendrocygnabicolor,Dendrocygna bicolor,,,313,2498402,"Dendrocygna bicolor (Vieillot, 1816)"
 314_eichhorniaazurea,Eichhornia azurea,,,314,2765950,Eichhornia azurea Kunth
 315_hymenachneamplexicaulis,Hymenachne amplexicaulis,,,315,2705781,Hymenachne amplexicaulis (Rudge) Nees
-316_aramidesypecaha,Aramides ypecaha,,,316,2474657,"Aramides ypecaha (Vieillot
-317	Turdus amaurochalinus				2490752	Turdus amaurochalinus Cabanis"
+316_aramidesypecaha,Aramides ypecaha,,,316,2474657,"Aramides ypecaha (Vieillot, 1819)"
+317_turdusamaurochalinus,Turdus amaurochalinus,,,317,2490752,"Turdus amaurochalinus Cabanis, 1850"
 318_zeamays,Zea mays,,,318,5290052,Zea mays L.
+320_aramusguaraunaguarauna,Aramus guarauna guarauna,,,320,7191383,Aramus guarauna guarauna
+321_echinopsisrhodotricha,Echinopsis rhodotricha,,,321,7281220,Echinopsis rhodotricha K.Schum.
+322_citrulluslanatus,Citrullus lanatus,,,322,2874621,Citrullus lanatus (Thunb.) Matsumura & Nakai
+323_tayassupecari,Tayassu pecari,,,323,2440993,"Tayassu pecari (Link, 1795)"
 324_gossypiumhirsutum,Gossypium hirsutum,,,324,3152661,Gossypium hirsutum L.
 325_ipomoeacarnea,Ipomoea carnea,,,325,2928590,Ipomoea carnea Jacq.
-326_tamanduatetradactyla,Tamandua tetradactyla,,,326,2436340,"Tamandua tetradactyla (Linnaeus
-327	Crotophaga ani				2496209	Crotophaga ani Linnaeus"
-328_crotophagamajor,Crotophaga major,,,328,2496210,"Crotophaga major Gmelin
-329	hold	1448	HOLD	tener (en mano), apoyar		
-330	Ortalis canicollis				5229443	Ortalis canicollis (Wagler"
+326_tamanduatetradactyla,Tamandua tetradactyla,,,326,2436340,"Tamandua tetradactyla (Linnaeus, 1758)"
+327_crotophagaani,Crotophaga ani,,,327,2496209,"Crotophaga ani Linnaeus, 1758"
+328_crotophagamajor,Crotophaga major,,,328,2496210,"Crotophaga major Gmelin, 1788"
+329_hold,hold,1448,HOLD,329,,
+330_ortaliscanicollis,Ortalis canicollis,,,330,5229443,"Ortalis canicollis (Wagler, 1830)"
