@@ -14,6 +14,8 @@ from unicodedata import normalize
 @attr.s
 class CustomConcept(Concept):
     Number = attr.ib(default=None)
+    GBIF_ID = attr.ib(default=None)
+    GBIF_Name = attr.ib(default=None)
 
 
 
@@ -61,8 +63,10 @@ class Dataset(BaseDataset):
                 ID=idx,
                 Name=concept["ENGLISH"],
                 Number=concept["NUMBER"],
-                #Concepticon_ID=concept.concepticon_id,
-                #Concepticon_Gloss=concept.concepticon_gloss,
+                Concepticon_ID=concept["CONCEPTICON_ID"],
+                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                GBIF_ID=concept["GBIF_ID"],
+                GBIF_Name=concept["GBIF_NAME"]
             )
             concepts[concept["ENGLISH"]] = idx
         args.writer.add_languages()

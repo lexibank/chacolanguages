@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chacolanguages",
             "rdf:type": "prov:Entity",
-            "dc:created": "5cd99cb",
+            "dc:created": "10109d5",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 6969,
+            "dc:extent": 2603,
             "tableSchema": {
                 "columns": [
                     {
@@ -254,7 +254,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 323,
+            "dc:extent": 131,
             "tableSchema": {
                 "columns": [
                     {
@@ -280,6 +280,14 @@
                     {
                         "datatype": "string",
                         "name": "Number"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GBIF_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "GBIF_Name"
                     }
                 ],
                 "primaryKey": [
