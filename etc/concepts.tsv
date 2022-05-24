@@ -24,15 +24,15 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 23	stone 668 ROCK piedra					
 24	mountain 639 MOUNTAIN montaña					
 25	sour 1906 SOUR ácido								
-26	Geranospiza caerulescens				2480435	Geranospiza caerulescens (Vieillot, 1817) Animalia Aves
-27	Britoa sellowiana				3180975 Campomanesia laurifolia Gardner  Magnoliopsida
-28	Tillandsia meridionalis			 2695059 Tillandsia recurvifolia Hook.  Liliopsida
-29	Cucurbitella duriaei				5537213 Cucurbitella asperata (Gillies ex Hook. & Arn.) Walp. Magnoliopsida
-30	Echinodorus longipetalus				5328794 Echinodorus longipetalus Micheli  Liliopsida
-31	Polygonum punctatum				6390957 Persicaria punctata (Elliott) Small  Magnoliopsida
-32	Polygonum hispidum								
-33	Pithecoctenium cynanchoides				7939692 Amphilophium carolinae (Lindl.) L.G.Lohmann Magnoliopsida
-34	Micrurus corallinus				5227011 Micrurus corallinus (Merrem, 1820) Reptilia
+26	Geranospiza caerulescens				2480435	Geranospiza caerulescens (Vieillot, 1817) Animalia Aves Geranospiza
+27	Britoa sellowiana				3180975 Campomanesia laurifolia Gardner Plantae Magnoliopsida Campomanesia
+28	Tillandsia meridionalis			 2695059 Tillandsia recurvifolia Hook. Plantae Liliopsida Tillandsia
+29	Cucurbitella duriaei				5537213 Cucurbitella asperata (Gillies ex Hook. & Arn.) Walp. Plantae Magnoliopsida Cucurbitella
+30	Echinodorus longipetalus				5328794 Echinodorus longipetalus Micheli Plantae Liliopsida Echinodorus
+31	Polygonum punctatum				6390957 Persicaria punctata (Elliott) Small Plantae Magnoliopsida Persicaria
+32	Polygonum hispidum     Polygonum hispidum Kunth Plantae Magnoliopsida Persicaria
+33	Pithecoctenium cynanchoides				7939692 Amphilophium carolinae (Lindl.) L.G.Lohmann Plantae Magnoliopsida Amphilophium
+34	Micrurus corallinus				5227011 Micrurus corallinus (Merrem, 1820) Animalia Reptilia Micrurus
 35	spider	843	SPIDER	araña					
 36	spider web	1065	SPIDER WEB	telaraña					
 37	husband	1200	HUSBAND	marido, esposo					
@@ -188,7 +188,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 187	shell	598	SHELL	valva					
 188	bird	937	BIRD	pájaro, ave					
 189	smell (vb trans)	1586	SMELL (PERCEIVE)	oler, olfatear					
-190	Chenopodium ambrosioides				5568446 Dysphania ambrosioides (L.) Mosyakin & Clemants Magnoliopsida
+190	Chenopodium ambrosioides				5568446 Dysphania ambrosioides (L.) Mosyakin & Clemants Plantae Magnoliopsida Dysphania
 191	Machetornis rixosa				2482934	Machetornis rixosa (Vieillot, 1819)	Animalia	Aves	Machetornis
 192	grass	606	GRASS	hierba, pasto				 
 193	Serrasalmus spilopleura				2354120	Serrasalmus spilopleura Kner, 1858	Animalia		Serrasalmus
