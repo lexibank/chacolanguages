@@ -1,7 +1,7 @@
 NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDOM	CLASS	GENUS
 1	honey	942	HONEY	miel					
 2	beehive	88	BEEHIVE	colmena					
-3	hit 1433 HIT golpear					   
+3	hit 1433 HIT golpear					
 4	brother	1262	BROTHER	hermano					
 5	sister	1263	SISTER	hermana					
 6	older brother	1759	OLDER BROTHER	hermano mayor					
@@ -24,14 +24,14 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 23	stone 668 ROCK piedra					
 24	mountain 639 MOUNTAIN montaña					
 25	sour 1906 SOUR ácido								
-26	Geranospiza caerulescens				2480435	Geranospiza caerulescens (Vieillot, 1817) Animalia  Aves
+26	Geranospiza caerulescens				2480435	Geranospiza caerulescens (Vieillot, 1817) Animalia Aves
 27	Britoa sellowiana				3180975 Campomanesia laurifolia Gardner  Magnoliopsida
 28	Tillandsia meridionalis			 2695059 Tillandsia recurvifolia Hook.  Liliopsida
-29	Cucurbitella duriaei				5537213 Cucurbitella asperata (Gillies ex Hook. & Arn.) Walp.  Magnoliopsida
+29	Cucurbitella duriaei				5537213 Cucurbitella asperata (Gillies ex Hook. & Arn.) Walp. Magnoliopsida
 30	Echinodorus longipetalus				5328794 Echinodorus longipetalus Micheli  Liliopsida
 31	Polygonum punctatum				6390957 Persicaria punctata (Elliott) Small  Magnoliopsida
 32	Polygonum hispidum								
-33	Pithecoctenium cynanchoides				7939692 Amphilophium carolinae (Lindl.) L.G.Lohmann  Magnoliopsida
+33	Pithecoctenium cynanchoides				7939692 Amphilophium carolinae (Lindl.) L.G.Lohmann Magnoliopsida
 34	Micrurus corallinus				5227011 Micrurus corallinus (Merrem, 1820) Reptilia
 35	spider	843	SPIDER	araña					
 36	spider web	1065	SPIDER WEB	telaraña					
