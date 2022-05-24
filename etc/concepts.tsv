@@ -1,7 +1,7 @@
 NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDOM	CLASS	GENUS
 1	honey	942	HONEY	miel					
 2	beehive	88	BEEHIVE	colmena					
-3	hit								
+3	hit 1433 HIT golpear								
 4	brother	1262	BROTHER	hermano					
 5	sister	1263	SISTER	hermana					
 6	older brother	1759	OLDER BROTHER	hermano mayor					
@@ -11,7 +11,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 10	son	1620	SON	hijo					
 11	daughter	1357	DAUGHTER	hija					
 12	shirt	1622	SHIRT	camisa					
-13	cup (drinking vessel)								
+13	cup (drinking vessel) 476 CUP taza								
 14	trousers	809	TROUSERS	pantalones, calzones					
 15	long	1203	LONG	largo					
 16	easy	686	EASY	fácil					
@@ -20,19 +20,19 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 19	language	1307	LANGUAGE	lengua, idioma					
 20	understand	1536	UNDERSTAND	entender					
 21	find	719	FIND	encontrar, hallar					
-22	city								
-23	stone								
-24	mountain								
-25	sour								
-26	Geranospiza caerulescens								
-27	Britoa sellowiana								
-28	Tillandsia meridionalis								
-29	Cucurbitella duriaei								
-30	Echinodorus longipetalus								
-31	Polygonum punctatum								
+22	city 2547 CITY ciudad								
+23	stone 668 ROCK piedra								
+24	mountain 639 MOUNTAIN montaña								
+25	sour 1906 SOUR ácido								
+26	Geranospiza caerulescens				2480435	Geranospiza caerulescens (Vieillot, 1817) Animalia Aves			
+27	Britoa sellowiana				3180975 Campomanesia laurifolia Gardner Magnoliopsida				
+28	Tillandsia meridionalis			 2695059 Tillandsia recurvifolia Hook. Liliopsida				
+29	Cucurbitella duriaei				5537213 Cucurbitella asperata (Gillies ex Hook. & Arn.) Walp. Magnoliopsida				
+30	Echinodorus longipetalus				5328794 Echinodorus longipetalus Micheli Liliopsida				
+31	Polygonum punctatum				6390957 Persicaria punctata (Elliott) Small Magnoliopsida				
 32	Polygonum hispidum								
-33	Pithecoctenium cynanchoides								
-34	Micrurus corallinus								
+33	Pithecoctenium cynanchoides				7939692 Amphilophium carolinae (Lindl.) L.G.Lohmann Magnoliopsida				
+34	Micrurus corallinus				5227011 Micrurus corallinus (Merrem, 1820) Reptilia				
 35	spider	843	SPIDER	araña					
 36	spider web	1065	SPIDER WEB	telaraña					
 37	husband	1200	HUSBAND	marido, esposo					
@@ -110,7 +110,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 109	lightning	1654	LIGHTNING	relámpago					
 110	fight (vb)	1423	FIGHT	pelear					
 111	kill	1417	KILL	matar					
-112	guitara								
+112	guitara 3090 GUITAR guitarra								
 113	horse (equine)	615	HORSE	caballo					
 114	tail	1220	TAIL	cola					
 115	sheep	1331	SHEEP	oveja					
@@ -137,9 +137,9 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 136	little (quantity), few	1242	FEW	poco					
 137	potter	359	POTTER	alfarero					
 138	hear	1408	HEAR	oír					
-139	earth (ground, soil)								
-140	where								
-141	how								
+139	earth (ground, soil) 1228 EARTH (SOIL) tierra, suelo								
+140	where 1237 WHERE dónde								
+141	how 1239 HOW cómo								
 142	sap	345	SAP	savia					
 143	plant (vb)	1486	PLANT (SOMETHING)	plantar, sembrar					
 144	mute	1666	MUTE	mudo					
@@ -188,7 +188,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 187	shell	598	SHELL	valva					
 188	bird	937	BIRD	pájaro, ave					
 189	smell (vb trans)	1586	SMELL (PERCEIVE)	oler, olfatear					
-190	Chenopodium ambrosioides				5568446				
+190	Chenopodium ambrosioides				5568446 Dysphania ambrosioides (L.) Mosyakin & Clemants Magnoliopsida				
 191	Machetornis rixosa				2482934	Machetornis rixosa (Vieillot, 1819)	Animalia	Aves	Machetornis
 192	grass	606	GRASS	hierba, pasto					
 193	Serrasalmus spilopleura				2354120	Serrasalmus spilopleura Kner, 1858	Animalia		Serrasalmus
@@ -209,7 +209,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 208	Commelina erecta				2764389	Commelina erecta L.	Plantae	Liliopsida	Commelina
 209	old man	406	OLD MAN	hombre viejo					
 210	old woman	907	OLD WOMAN	mujer vieja					
-211	mule	890	MULE	mulo					
+211	mule	890	MULE	mula					
 212	Heteranthera peduncularis				2766167	Heteranthera peduncularis Benth.	Plantae		Heteranthera
 213	Sicalis flaveola				2491862	Sicalis flaveola (Linnaeus, 1766)	Animalia	Aves	Sicalis
 214	Himantopus melanurus				5229127	Himantopus melanurus Vieillot, 1817	Animalia		Himantopus
