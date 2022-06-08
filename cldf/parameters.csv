@@ -1,7 +1,7 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 1_honey,honey,942,HONEY,1,,
 2_beehive,beehive,88,BEEHIVE,2,,
-3_hit,hit,,,3,,
+3_hit,hit,1433,HIT,3,,
 4_brother,brother,1262,BROTHER,4,,
 5_sister,sister,1263,SISTER,5,,
 6_olderbrother,older brother,1759,OLDER BROTHER,6,,
@@ -10,7 +10,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 10_son,son,1620,SON,10,,
 11_daughter,daughter,1357,DAUGHTER,11,,
 12_shirt,shirt,1622,SHIRT,12,,
-13_cupdrinkingvessel,cup (drinking vessel),,,13,,
+13_cupdrinkingvessel,cup (drinking vessel),476,CUP,13,,
 14_trousers,trousers,809,TROUSERS,14,,
 15_long,long,1203,LONG,15,,
 16_easy,easy,686,EASY,16,,
@@ -19,19 +19,19 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 19_language,language,1307,LANGUAGE,19,,
 20_understand,understand,1536,UNDERSTAND,20,,
 21_find,find,719,FIND,21,,
-22_city,city,,,22,,
-23_stone,stone,,,23,,
-24_mountain,mountain,,,24,,
-25_sour,sour,,,25,,
-26_geranospizacaerulescens,Geranospiza caerulescens,,,26,,
-27_britoasellowiana,Britoa sellowiana,,,27,,
-28_tillandsiameridionalis,Tillandsia meridionalis,,,28,,
-29_cucurbitelladuriaei,Cucurbitella duriaei,,,29,,
-30_echinodoruslongipetalus,Echinodorus longipetalus,,,30,,
-31_polygonumpunctatum,Polygonum punctatum,,,31,,
-32_polygonumhispidum,Polygonum hispidum,,,32,,
-33_pithecocteniumcynanchoides,Pithecoctenium cynanchoides,,,33,,
-34_micruruscorallinus,Micrurus corallinus,,,34,,
+22_city,city,2547,CITY,22,,
+23_stone,stone,668,ROCK,23,,
+24_mountain,mountain,639,MOUNTAIN,24,,
+25_sour,sour,1906,SOUR,25,,
+26_geranospizacaerulescens,Geranospiza caerulescens,,,26,2480435,"Geranospiza caerulescens (Vieillot, 1817)"
+27_britoasellowiana,Britoa sellowiana,,,27,3180975,Campomanesia laurifolia Gardner
+28_tillandsiameridionalis,Tillandsia meridionalis,,,28,2695059,Tillandsia recurvifolia Hook.
+29_cucurbitelladuriaei,Cucurbitella duriaei,,,29,5537213,Cucurbitella asperata (Gillies ex Hook. & Arn.) Walp. 
+30_echinodoruslongipetalus,Echinodorus longipetalus,,,30,5328794,Echinodorus longipetalus Micheli
+31_polygonumpunctatum,Polygonum punctatum,,,31,6390957,Persicaria punctata (Elliott) Small 
+32_polygonumhispidum,Polygonum hispidum,,,32,,Polygonum hispidum Kunth
+33_pithecocteniumcynanchoides,Pithecoctenium cynanchoides,,,33,7939692,Amphilophium carolinae (Lindl.) L.G.Lohmann 
+34_micruruscorallinus,Micrurus corallinus,,,34,5227011,"Micrurus corallinus (Merrem, 1820) "
 35_spider,spider,843,SPIDER,35,,
 36_spiderweb,spider web,1065,SPIDER WEB,36,,
 37_husband,husband,1200,HUSBAND,37,,
@@ -109,7 +109,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 109_lightning,lightning,1654,LIGHTNING,109,,
 110_fightvb,fight (vb),1423,FIGHT,110,,
 111_kill,kill,1417,KILL,111,,
-112_guitara,guitara,,,112,,
 113_horseequine,horse (equine),615,HORSE,113,,
 114_tail,tail,1220,TAIL,114,,
 115_sheep,sheep,1331,SHEEP,115,,
@@ -136,9 +135,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 136_littlequantityfew,"little (quantity), few",1242,FEW,136,,
 137_potter,potter,359,POTTER,137,,
 138_hear,hear,1408,HEAR,138,,
-139_earthgroundsoil,"earth (ground, soil)",,,139,,
-140_where,where,,,140,,
-141_how,how,,,141,,
+139_earthgroundsoil,"earth (ground, soil)",1228,EARTH (SOIL),139,,
+140_where,where,1237,WHERE,140,,
+141_how,how,1239,HOW,141,,
 142_sap,sap,345,SAP,142,,
 143_plantvb,plant (vb),1486,PLANT (SOMETHING),143,,
 144_mute,mute,1666,MUTE,144,,
@@ -187,7 +186,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 187_shell,shell,598,SHELL,187,,
 188_bird,bird,937,BIRD,188,,
 189_smellvbtrans,smell (vb trans),1586,SMELL (PERCEIVE),189,,
-190_chenopodiumambrosioides,Chenopodium ambrosioides,,,190,5568446,
+190_chenopodiumambrosioides,Chenopodium ambrosioides,,,190,5568446,Dysphania ambrosioides (L.) Mosyakin & Clemants
 191_machetornisrixosa,Machetornis rixosa,,,191,2482934,"Machetornis rixosa (Vieillot, 1819)"
 192_grass,grass,606,GRASS,192,,
 193_serrasalmusspilopleura,Serrasalmus spilopleura,,,193,2354120,"Serrasalmus spilopleura Kner, 1858"
