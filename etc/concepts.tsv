@@ -200,9 +200,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 199	Pseudoplatystoma fasciatum				2338673	Pseudoplatystoma fasciatum (Linnaeus, 1766)	Animalia		Pseudoplatystoma
 200	Salminus brasiliensis				2354769	Salminus brasiliensis (Cuvier, 1816)	Animalia		Salminus
 201	testicle	797	TESTICLES	testículo					
-202	Passiflora capsularis				7313548	Passiflora capsularis L.	Plantae		Passiflora
 203	Passiflora cincinnata				2874200	Passiflora cincinnata Mast.	Plantae	Magnoliopsida	Passiflora
-204	Passiflora edulis				2874190	Passiflora edulis Sims	Plantae		Passiflora
 205	Passiflora misera				3587005	Passiflora misera Kunth	Plantae	Magnoliopsida	Passiflora
 206	Passiflora mooreana				3586744	Passiflora mooreana Hook.f.	Plantae	Magnoliopsida	Passiflora
 207	Passiflora morifolia				2874201	Passiflora morifolia Mast.	Plantae	Magnoliopsida	Passiflora
@@ -242,9 +240,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 241	Senna pendula				2957187	Senna pendula (Willd.) H.S.Irwin & Barneby	Plantae	Magnoliopsida	Senna
 242	Senna pendula var. eriocarpa				2957204	Senna pendula var. eriocarpa (Griseb.) H.S.Irwin & Barneby	Plantae		Senna
 243	Senna sp.				2957478	Senna splendida (Vogel) H.S.Irwin & Barneby	Plantae		Senna
-244	Bahuinia argentinensis				2953119	Bauhinia argentinensis Burkart	Plantae		Bauhinia
 245	Bauhinia argentinensis				2953119	Bauhinia argentinensis Burkart	Plantae	Magnoliopsida	Bauhinia
-246	Bahuinia sp.				2952935	Bauhinia L.	Plantae		Bauhinia
 247	ass, donkey	1862	DONKEY	asno, burro					
 248	black	163	BLACK	negro					
 249	white	1335	WHITE	blanco					
