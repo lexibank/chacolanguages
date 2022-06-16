@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chacolanguages",
             "rdf:type": "prov:Entity",
-            "dc:created": "9f21f8f",
+            "dc:created": "242699b",
             "dc:title": "Repository"
         },
         {
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 7004,
+            "dc:extent": 7092,
             "tableSchema": {
                 "columns": [
                     {
@@ -254,7 +254,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 324,
+            "dc:extent": 323,
             "tableSchema": {
                 "columns": [
                     {

@@ -78,6 +78,7 @@ class Dataset(BaseDataset):
         # we combine with the manually edited wordlist to retrieve the lexeme
         # values
         errors = set()
+        visited = set()
         wl = Wordlist(self.raw_dir.joinpath('wordlist.tsv').as_posix())
         for (
                 idx, lang, concept, val, form, tks, cogids, morphemes, borids,
@@ -95,6 +96,7 @@ class Dataset(BaseDataset):
                     errors.add(("tokens", idx, lang+"-"+concept+"-"+" ".join(tks)))
                     erred = True
                 if not erred:
+                    visited.add(concept)
                     args.writer.add_form_with_segments(
                                             Parameter_ID=concepts[concept.strip()],
                                             Language_ID=lang,
@@ -113,4 +115,6 @@ class Dataset(BaseDataset):
     
         for row in sorted(errors):
             print("{0:10} {1:10} {2:10}".format(*row))
+        for concept in [x for x in concepts if x not in visited]:
+            print("Missing concept {0}".format(concept))
 
