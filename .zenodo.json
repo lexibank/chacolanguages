@@ -5,7 +5,17 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Nicol\u00e1s Brid"
+        },
+        {
+            "name": "Cristina Messineo"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
     "contributors": [],
     "communities": [
         {

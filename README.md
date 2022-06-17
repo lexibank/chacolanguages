@@ -31,6 +31,17 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Segments:** 157 (0 BIPA errors, 0 CTLS sound class errors, 157 CLTS modified)
 - **Inventory size (avg):** 39.31
 
+# Contributors
+
+Name | GitHub user | Description | Role
+--- | --- | --- | ---
+Nicolás Brid | | maintainer, data collection | Author
+Cristina Messineo | | maintainer, data collection | Author
+Johann-Mattis List | @LinguList | maintainer, CLDF conversion | Author 
+
+
+
+
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
