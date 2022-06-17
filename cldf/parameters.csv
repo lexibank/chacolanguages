@@ -5,6 +5,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 4_brother,brother,1262,BROTHER,4,,
 5_sister,sister,1263,SISTER,5,,
 6_olderbrother,older brother,1759,OLDER BROTHER,6,,
+7_youngerbrother,younger brother,1760,YOUNGER BROTHER,7,,
 8_oldersister,older sister,1758,OLDER SISTER,8,,
 9_youngersister,younger sister,1761,YOUNGER SISTER,9,,
 10_son,son,1620,SON,10,,
@@ -311,14 +312,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 311_aramidesypecaha,Aramides ypecaha,,,311,2474657,"Aramides ypecaha (Vieillot, 1819)"
 312_turdusamaurochalinus,Turdus amaurochalinus,,,312,2490752,"Turdus amaurochalinus Cabanis, 1850"
 313_zeamays,Zea mays,,,313,5290052,Zea mays L.
-315_aramusguaraunaguarauna,Aramus guarauna guarauna,,,315,7191383,Aramus guarauna guarauna
-316_echinopsisrhodotricha,Echinopsis rhodotricha,,,316,7281220,Echinopsis rhodotricha K.Schum.
-317_citrulluslanatus,Citrullus lanatus,,,317,2874621,Citrullus lanatus (Thunb.) Matsumura & Nakai
-318_tayassupecari,Tayassu pecari,,,318,2440993,"Tayassu pecari (Link, 1795)"
-319_gossypiumhirsutum,Gossypium hirsutum,,,319,3152661,Gossypium hirsutum L.
-320_ipomoeacarnea,Ipomoea carnea,,,320,2928590,Ipomoea carnea Jacq.
-321_tamanduatetradactyla,Tamandua tetradactyla,,,321,2436340,"Tamandua tetradactyla (Linnaeus, 1758)"
-322_crotophagaani,Crotophaga ani,,,322,2496209,"Crotophaga ani Linnaeus, 1758"
-323_crotophagamajor,Crotophaga major,,,323,2496210,"Crotophaga major Gmelin, 1788"
-324_hold,hold,1448,HOLD,324,,
-325_ortaliscanicollis,Ortalis canicollis,,,325,5229443,"Ortalis canicollis (Wagler, 1830)"
+314_aramusguaraunaguarauna,Aramus guarauna guarauna,,,314,7191383,Aramus guarauna guarauna
+315_echinopsisrhodotricha,Echinopsis rhodotricha,,,315,7281220,Echinopsis rhodotricha K.Schum.
+316_citrulluslanatus,Citrullus lanatus,,,316,2874621,Citrullus lanatus (Thunb.) Matsumura & Nakai
+317_tayassupecari,Tayassu pecari,,,317,2440993,"Tayassu pecari (Link, 1795)"
+318_gossypiumhirsutum,Gossypium hirsutum,,,318,3152661,Gossypium hirsutum L.
+319_ipomoeacarnea,Ipomoea carnea,,,319,2928590,Ipomoea carnea Jacq.
+320_tamanduatetradactyla,Tamandua tetradactyla,,,320,2436340,"Tamandua tetradactyla (Linnaeus, 1758)"
+321_crotophagaani,Crotophaga ani,,,321,2496209,"Crotophaga ani Linnaeus, 1758"
+322_crotophagamajor,Crotophaga major,,,322,2496210,"Crotophaga major Gmelin, 1788"
+323_hold,hold,1448,HOLD,323,,
+324_ortaliscanicollis,Ortalis canicollis,,,324,5229443,"Ortalis canicollis (Wagler, 1830)"
