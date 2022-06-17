@@ -1,4 +1,4 @@
-# CLDF dataset accompanying Brid et al.'s "omparative Wordlist for the Languages of the Gran Chaco Area" from 2022
+# CLDF dataset accompanying Brid et al.'s "Comparative Wordlist for the Languages of the Gran Chaco Area" from 2022
 
 ## How to cite
 

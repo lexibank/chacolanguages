@@ -7,13 +7,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset accompanying Brid et al.'s \"omparative Wordlist for the Languages of the Gran Chaco Area\" from 2022",
+    "dc:title": "CLDF dataset accompanying Brid et al.'s \"Comparative Wordlist for the Languages of the Gran Chaco Area\" from 2022",
     "dcat:accessURL": "https://github.com/lexibank/chacolanguages",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/chacolanguages",
             "rdf:type": "prov:Entity",
-            "dc:created": "e18dc7d",
+            "dc:created": "ebd78ce",
             "dc:title": "Repository"
         },
         {
