@@ -22,12 +22,12 @@ This dataset is licensed under a CC-BY-4.0 license
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 26
-- **Concepts:** 323
-- **Lexemes:** 7,115
+- **Concepts:** 324
+- **Lexemes:** 7,118
 - **Sources:** 40
 - **Synonymy:** 1.39
 - **Invalid lexemes:** 0
-- **Tokens:** 50,138
+- **Tokens:** 50,177
 - **Segments:** 157 (0 BIPA errors, 0 CLTS sound class errors, 157 CLTS modified)
 - **Inventory size (avg):** 39.31
 
