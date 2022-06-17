@@ -5,6 +5,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 4_brother,brother,1262,BROTHER,4,,
 5_sister,sister,1263,SISTER,5,,
 6_olderbrother,older brother,1759,OLDER BROTHER,6,,
+7_youngerbrother,younger brother,1760,YOUNGER BROTHER,7,,
 8_oldersister,older sister,1758,OLDER SISTER,8,,
 9_youngersister,younger sister,1761,YOUNGER SISTER,9,,
 10_son,son,1620,SON,10,,
@@ -179,7 +180,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 180_solanumargentinum,Solanum argentinum,,,180,2932402,Solanum argentinum Bitter & Lillo
 181_solanumglaucophyllum,Solanum glaucophyllum,,,181,2929370,Solanum glaucophyllum Desf.
 182_solanumhieronymi,Solanum hieronymi,,,182,2930183,Solanum hieronymi Kuntze
-183_solanumpalinacanthumdunal,Solanum palinacanthum Dunal,,,183,2929551,Solanum palinacanthum Dunal
 184_solanumsisymbriifolium,Solanum sisymbriifolium,,,184,2932184,Solanum sisymbriifolium Lam.
 185_cucumismelo,Cucumis melo,,,185,2874570,Cucumis melo L.
 186_procyoncancrivorus,Procyon cancrivorus,,,186,9518324,Procyon cancrivorus G
@@ -238,7 +238,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,GBIF_ID,GBIF_Name
 241_sennapendula,Senna pendula,,,241,2957187,Senna pendula (Willd.) H.S.Irwin & Barneby
 242_sennapendulavareriocarpa,Senna pendula var. eriocarpa,,,242,2957204,Senna pendula var. eriocarpa (Griseb.) H.S.Irwin & Barneby
 243_sennasp,Senna sp.,,,243,2957478,Senna splendida (Vogel) H.S.Irwin & Barneby
-244_bahuiniaargentinensis,Bahuinia argentinensis,,,244,2953119,Bauhinia argentinensis Burkart
 245_bauhiniaargentinensis,Bauhinia argentinensis,,,245,2953119,Bauhinia argentinensis Burkart
 247_assdonkey,"ass, donkey",1862,DONKEY,247,,
 248_black,black,163,BLACK,248,,
