@@ -1,10 +1,10 @@
-# CLDF dataset accompanying Brid et al.'s "Lexical Database of Chaco Languages" from 2022
+# CLDF dataset accompanying Brid et al.'s "omparative Wordlist for the Languages of the Gran Chaco Area" from 2022
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Brid, Nicolás, Cristina Messineo, and Johann-Mattis List (2022): Lexical Database of Chaco Languages. Leipzig: Max Planck Institute for Evolutionary Anthropology.
+  > Brid, Nicolás, Cristina Messineo, and Johann-Mattis List (2022): A Comparative Wordlist for the Languages of the Gran Chaco Area. Leipzig: Max Planck Institute for Evolutionary Anthropology.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
