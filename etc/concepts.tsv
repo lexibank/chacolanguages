@@ -142,7 +142,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 141	how	1239	HOW	cómo					
 142	sap	345	SAP	savia					
 143	plant (vb)	1486	PLANT (SOMETHING)	plantar, sembrar					
-144	mute	1666	MUTE	mudo					
+144	mute	2320	MUTE PERSON	mudo					
 145	near (adv)	1942	NEAR	cerca					
 146	far (adv)	1406	FAR	lejos					
 147	much, many	1198	MANY	mucho					
@@ -270,7 +270,7 @@ NUMBER	ENGLISH	CONCEPTICON_ID	CONCEPTICON_GLOSS	SPANISH	GBIF_ID	GBIF_NAME	KINGDO
 269	wake up	1602	WAKE UP	despertarse					
 270	tapioca, manioc, cassava	925	CASSAVA	mandioca, yuca					
 271	sweet potato	159	SWEET POTATO	camote, batata					
-272	stand	1442	STAND	poner(se) de pie					
+272	stand	570	STAND UP	poner(se) de pie					
 273	cat	1208	CAT	gato					
 274	ashes	646	ASH	cenizas					
 275	intestines, guts	1991	INTESTINES	intestinos					
