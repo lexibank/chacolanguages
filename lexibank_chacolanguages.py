@@ -57,18 +57,18 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
 
         concepts = {}
-        for concept in self.concepts: #conceptlists[0].concepts.values():
-            idx = concept["NUMBER"].split("-")[-1] + "_" + slug(concept["ENGLISH"])
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["ENGLISH"],
-                Number=concept["NUMBER"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                GBIF_ID=concept["GBIF_ID"],
-                GBIF_Name=concept["GBIF_NAME"]
+                Name=concept.english,
+                Number=concept.number,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
+                GBIF_ID=concept.attributes["gbif_id"],
+                GBIF_Name=concept.attributes["gbif_name"]
             )
-            concepts[concept["ENGLISH"]] = idx
+            concepts[concept.english] = idx
 
         args.writer.add_languages()
         sources = {}
