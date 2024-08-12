@@ -3,12 +3,9 @@ from pathlib import Path
 
 from pylexibank import Concept, Language, FormSpec, Lexeme
 from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import progressbar
 from lingpy import Wordlist
 from pyedictor import fetch
-
 from clldutils.misc import slug
-from unicodedata import normalize
 
 
 @attr.s
@@ -16,7 +13,6 @@ class CustomConcept(Concept):
     Number = attr.ib(default=None)
     GBIF_ID = attr.ib(default=None)
     GBIF_Name = attr.ib(default=None)
-
 
 
 @attr.s
@@ -43,14 +39,12 @@ class Dataset(BaseDataset):
     concept_class = CustomConcept
     language_class = CustomLanguage
     lexeme_class = CustomLexeme
-    form_spec = FormSpec(
-            separators=',',
-            )
+    form_spec = FormSpec(separators=',',)
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
-    def cmd_download(self, args):
+    def cmd_download(self, _):
         print('updating ...')
-        with open(self.raw_dir.joinpath("wordlist.tsv"), "w",
-                encoding="utf-8") as f:
+        with open(self.raw_dir.joinpath("wordlist.tsv"), "w", encoding="utf-8") as f:
             f.write(fetch("chacolanguages"))
 
     def cmd_makecldf(self, args):
@@ -104,17 +98,15 @@ class Dataset(BaseDataset):
                                             Form=form or val.strip() or "?",
                                             Segments=tks,
                                             Source=sources[lang],
-                                            Partial_Cognacy=" ".join([str(x) for x in
-                                                cogids]),
+                                            Partial_Cognacy=" ".join([str(x) for x in cogids]),
                                             Morpheme_Glosses=" ".join(morphemes) or "?",
                                             Borrowings=borids or 0,
                                             Patterns=patids or 0
                                             )
             else:
-                pass 
-    
+                pass
+
         for row in sorted(errors):
             print("{0:10} {1:10} {2:10}".format(*row))
         for concept in [x for x in concepts if x not in visited]:
             print("Missing concept {0}".format(concept))
-
