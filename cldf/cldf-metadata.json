@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/chacolanguages",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-10-g6d988ce",
+            "dc:created": "v0.2-12-gedb0941",
             "dc:title": "Repository"
         },
         {
@@ -45,7 +45,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.4"
+            "dc:description": "3.12.5"
         },
         {
             "dc:title": "python-packages",

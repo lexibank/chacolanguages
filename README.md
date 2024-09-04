@@ -30,7 +30,7 @@ Conceptlists in Concepticon:
 - **Varieties:** 26 (linked to 24 different Glottocodes)
 - **Concepts:** 323 (linked to 223 different Concepticon concept sets)
 - **Lexemes:** 7,088
-- **Sources:** 40
+- **Sources:** 39
 - **Synonymy:** 1.39
 - **Invalid lexemes:** 0
 - **Tokens:** 49,920
