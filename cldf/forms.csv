@@ -682,7 +682,7 @@ Ayoreo-151_twenty-2,,Ayoreo,151_twenty,chejañu; chejna yu,chejna yu,tʃ e n̥ a
 Ayoreo-300_tobacco-1,,Ayoreo,300_tobacco,sidi,sidi,s i d i,,benz2020;schmeda1998;briggs2015,,,,,1644 360,0,0,?
 Ayoreo-295_ripe-1,,Ayoreo,295_ripe,timate; kangurai,timate,t i m a t e,,benz2020;schmeda1998;briggs2015,,,,,1650,0,0,?
 Ayoreo-295_ripe-2,,Ayoreo,295_ripe,timate; kangurai,kanguraa,k a ŋ u ɹ aː,,benz2020;schmeda1998;briggs2015,,,,,1651 1652,0,0,?
-Ayoreo-270_tapiocamanioccassava-1,,Ayoreo,270_tapiocamanioccassava,bacaode; pejei,bacaode,b a k a o d e,,benz2020;schmeda1998;briggs2015,,,,,1660,0,0,?
+Ayoreo-270_tapiocamanioccassava-1,,Ayoreo,270_tapiocamanioccassava,bacaode; pejei,bacaode,b a k a o d e,,benz2020;schmeda1998;briggs2015,,,,,0,0,0,?
 Ayoreo-270_tapiocamanioccassava-2,,Ayoreo,270_tapiocamanioccassava,bacaode; pejei,pejei,p e h ei,,benz2020;schmeda1998;briggs2015,,,,,1661,0,0,?
 Ayoreo-157_eight-1,,Ayoreo,157_eight,gadiogui ti; gadiog iji yijmanuña,gadiogui ti,g a d j o k + i t i,,benz2020;schmeda1998;briggs2015,,,,,1665 1666,0,0,three there
 Ayoreo-157_eight-2,,Ayoreo,157_eight,gadiogui ti; gadiog iji yijmanuña,gadiog iji yijman+uña,g a d j o g + i h i + j i + m̥ a n u ɲ a,,benz2020;schmeda1998;briggs2015,,,,,1665 1667 1668 1669,0,0,three _:loc _:poss hands
@@ -2190,10 +2190,10 @@ Lule-273_cat-2,,Lule,273_cat,sotó,sotó,s o t o,,machoni1878,,,,,776,0,0,?
 Lule-273_cat-3,,Lule,273_cat,uylapíp,uylapíp,w i l a p i p,,machoni1878,,,,,2714,0,0,?
 Lule-55_bee-1,,Lule,55_bee,yana acuá,yana acuá,j a n a + a k w a,,machoni1878,,,,,1494 1492,0,0,? ?
 Lule-55_bee-2,,Lule,55_bee,yalám acuá,yalám acuá,j a l a m + a k w a,,machoni1878,,,,,2193 1492,0,0,? ?
-Lule-55_bee-3,,Lule,55_bee,ané acuá,ané acuá,a n e + a k u a,,machoni1878,,,,,1494 1492,0,0,? ?
-Lule-55_bee-4,,Lule,55_bee,cués umué acuá,cués umué acuá,k u e s + u m u e + a k u a,,machoni1878,,,,,4407 2193 1492,0,0,? ?
+Lule-55_bee-3,,Lule,55_bee,ané acuá,ané acuá,a n e + a k w a,,machoni1878,,,,,1494 1492,0,0,? ?
+Lule-55_bee-4,,Lule,55_bee,cués umué acuá,cués umué acuá,k u e s + u m u e + a k w a,,machoni1878,,,,,4407 2193 1492,0,0,? ?
 Lule-55_bee-5,,Lule,55_bee,coalecs acua,coalecs+acua,k o a l e k s + a k w a,,machoni1878,,,,,4408 1492,0,0,? ?
-Lule-55_bee-6,,Lule,55_bee,amil acuá,amil acuá,a m i l + a k u a,,machoni1878,,,,,2193 1492,0,0,? ?
+Lule-55_bee-6,,Lule,55_bee,amil acuá,amil acuá,a m i l + a k w a,,machoni1878,,,,,2193 1492,0,0,? ?
 Lule-289_parrot-1,,Lule,289_parrot,ele,ele,e l e,,machoni1878,,,,,2194,0,0,?
 Lule-128_flea-1,,Lule,128_flea,pinpin,pinpin,p i n p i n,,machoni1878,,,,,3457,0,0,?
 Lule-166_deer-1,,Lule,166_deer,shalá,shalá,s ʔ a l a,,machoni1878,,,,,4410,0,0,?
@@ -3142,273 +3142,273 @@ Mbya-269_wakeup-1,,Mbya,269_wakeup,mbovy,mbovy,ⁿb o ʋ ɨ,,cadogan1992,,,,,193
 Mbya-87_place-1,,Mbya,87_place,t-enda,t+enda,t + e ⁿd a,,cadogan1992,,,,,1961 515,0,0,_:poss place
 Mbya-105_shadeshadow-1,,Mbya,105_shadeshadow,"ãngue, kuaray'ã",ãngue,ã ŋ ɣʷ e,,cadogan1992,,,,,1978,0,0,?
 Mbya-105_shadeshadow-2,,Mbya,105_shadeshadow,"ãngue, kuaray'ã",kuaray'ã,k u a r a ɨ ʔ + ã,,cadogan1992,,,,,523,0,0,sun _:less
-Mocovi-85_blood-1,,Mocovi,85_blood,leuo',le+uo',l e + w o ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5337 2479,0,0,_:poss blood
-Mocovi-59_mouth-1,,Mocovi,59_mouth,lap,l+ap,l + a p,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2005 2006,0,0,_:poss mouth
-Mocovi-79_head-1,,Mocovi,79_head,lqahic,l+qahic,l + q a h i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2007 2008,0,0,_:poss head
-Mocovi-56_hand-1,,Mocovi,56_hand,napoquena,na+poquena,n a + p o k e n a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,11 12,0,0,_:poss hand
-Mocovi-53_ear-1,,Mocovi,53_ear,lque'la,l+que'la,l + k e + ʔ l a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2013 4234,0,0,_:poss _:/ke ear
-Mocovi-50_red-1,,Mocovi,50_red,toc,toc,t o k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1137,0,0,?
-Mocovi-163_see-1,,Mocovi,163_see,ỹauana,ỹ+auan+a,j + a w a n + a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3162 1145 1144,0,0,_:3sg see _:3O
-Mocovi-37_husband-1,,Mocovi,37_husband,loua,lo+ua,l o + w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5340 26,0,0,_:poss spouse
-Mocovi-37_husband-2,,Mocovi,37_husband,lashilaxaua,l+ashilaxaua,l + a ʃ i l a ʁ a w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5340 5341 26,0,0,_:poss spouse
-Mocovi-38_wife-1,,Mocovi,38_wife,loua,lo+ua,l o + w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5342 29,0,0,_:poss wife
-Mocovi-38_wife-2,,Mocovi,38_wife,lashilaxaua,l+ashilaxaua,l + a ʃ i l a ʁ a w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5342 5343 29,0,0,_:poss wife
-Mocovi-138_hear-1,,Mocovi,138_hear,qaa,qaa,q aː,,buckwalter2004;buckwalter2015b;rosso2010,,,,,34,0,0,?
-Mocovi-138_hear-2,,Mocovi,138_hear,'xaỹa,'xaỹa,ʔ ʁ a j a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5344,0,0,?
-Mocovi-187_bird-1,,Mocovi,187_bird,qo'o,qo'o,q o ʔ o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,37,0,0,?
-Mocovi-97_fish-1,,Mocovi,97_fish,nallin,nallin,n a ʎ i n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,559,0,0,?
-Mocovi-130_louse-1,,Mocovi,130_louse,lapaxat,l+apaxat,l + a p a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2501 2030,0,0,_:poss louse
-Mocovi-129_dog-1,,Mocovi,129_dog,pioq,pioq,p j o q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,44,0,0,?
-Mocovi-251_tongue-1,,Mocovi,251_tongue,lo'legaxanaxat,l+o'legaxanaxat,l + o ʔ l e g a ʁ a n a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,46 3174 5346 1160,0,0,_:poss tongue
-Mocovi-78_breastofwoman-1,,Mocovi,78_breastofwoman,lo'ueete,l+o'ueete,l + o ʔ u eː t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4252 49,0,0,_:poss breast
-Mocovi-98_wing-1,,Mocovi,98_wing,laua,l+aua,l + a w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2032 50,0,0,_:poss wing
-Mocovi-82_back-1,,Mocovi,82_back,lelaq,le+laq,l e + l a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2033 2034,0,0,_:poss back
-Mocovi-83_bone-1,,Mocovi,83_bone,lpi'nec,l+pi'nec,l + p i ʔ n e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2035 54,0,0,_:poss bone
-Mocovi-120_leg-1,,Mocovi,120_leg,lichi,li+chi,l i + tʃ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2036 56,0,0,_:poss leg
-Mocovi-246_foot-1,,Mocovi,246_foot,lapia',l+apia',l + a p j a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4256 572,0,0,_:poss foot
-Mocovi-261_heart-1,,Mocovi,261_heart,le'taxanata,le+'taxanata,l e + ʔ t a ʁ a n a t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2043 5348,0,0,_:poss heart
-Mocovi-125_sleep-1,,Mocovi,125_sleep,laq,laq,l a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,576,0,0,?
-Mocovi-114_tail-1,,Mocovi,114_tail,lqai'it,l+qai'it,l + q ai ʔ i t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2046 65,0,0,_:poss tail
-Mocovi-111_kill-1,,Mocovi,111_kill,ỹalauat,ỹ+alauat,j + a l a w a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2049 2050,0,0,_:3sg kill
-Mocovi-75_skinhide-1,,Mocovi,75_skinhide,loshicmaxa,l+oshicmaxa,l + o ʃ i k m a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,6 5350,0,0,_:poss skin
-Mocovi-44_feather-1,,Mocovi,44_feather,laue,l+aue,l + a w e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2054 2055,0,0,_:poss hair
-Mocovi-139_earthgroundsoil-1,,Mocovi,139_earthgroundsoil,laua,laua,l a w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,583,0,0,?
-Mocovi-154_four-1,,Mocovi,154_four,cuaatrolqai',cuaatro+lqai',k w aː t r o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4081 4269,0,0,?
-Mocovi-167_yellow-1,,Mocovi,167_yellow,qoñi,qoñi,q o ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,88,0,0,?
-Mocovi-133_flyvb-1,,Mocovi,133_flyvb,ỹo,ỹo,j o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1205,0,0,fly
-Mocovi-297_root-1,,Mocovi,297_root,lpa'a',l+pa'a',l + p a ʔ a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5355 90,0,0,_:poss root
-Mocovi-67_lake-1,,Mocovi,67_lake,latogot,latogot,l a t o g o t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5356,0,0,?
-Mocovi-243_black-1,,Mocovi,243_black,naue',n+aue',n + a w e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,95 93,0,0,_:3sg black
-Mocovi-164_dust-1,,Mocovi,164_dust,lamoxoỹaga,l+amoxo+ỹaga,l + a m o ʁ o + j a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5360 3856 1219,0,0,_:poss dusty _:nmlz
-Mocovi-168_star-1,,Mocovi,168_star,huaqajñi,huaqajñi,w a q a h ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2071 2073,0,0,?
-Mocovi-280_personhumanbeing-1,,Mocovi,280_personhumanbeing,qom,qom,q o m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4084,0,0,?
-Mocovi-66_mother-1,,Mocovi,66_mother,late'e,l+ate'e,l + a t e ʔ e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2555 80,0,0,_:poss mother
-Mocovi-145_nearadv-1,,Mocovi,145_nearadv,sqoỹoxa,s+qoỹoxa,s + q o j o ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3861 5365,0,0,not far
-Mocovi-92_cloud-1,,Mocovi,92_cloud,naueguelec,naueguelec,n a w e g e l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5366,0,0,?
-Mocovi-279_come-1,,Mocovi,279_come,anac,anac,a n a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,621 113 4289,0,0,?
-Mocovi-279_come-2,,Mocovi,279_come,nac,nac,n a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,113 4289,0,0,?
-Mocovi-279_come-3,,Mocovi,279_come,naata,naa+ta,n aː + t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,113 622,0,0,come _:asp
-Mocovi-43_leaf-1,,Mocovi,43_leaf,laue,l+aue,l + a w e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2081 2082,0,0,_:poss hair
-Mocovi-93_sky-1,,Mocovi,93_sky,piguim,piguim,p i g i m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,115,0,0,?
-Mocovi-140_where-1,,Mocovi,140_where,hua'gue,hua'+gue,w a ʔ + g e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2089 639,0,0,go _:loc
-Mocovi-298_ropecord-1,,Mocovi,298_ropecord,lequet,lequet,l e + k e t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,643,0,0,_:poss cord
-Mocovi-141_how-1,,Mocovi,141_how,negué',negué',n e g e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,645,0,0,?
-Mocovi-153_three-1,,Mocovi,153_three,treesolqai',treesolqai',t r eː s o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2091 126,0,0,?
-Mocovi-244_white-1,,Mocovi,244_white,ỹ-alagaq,ỹ-alagaq,j + a l a g a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4647 128,0,0,_:3sg white
-Mocovi-146_faradv-1,,Mocovi,146_faradv,qoỹoqojlec,qo+ỹoq+oj+lec,q o j o q o + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3282 5377 1291 5378,0,0,far _:loc
-Mocovi-146_faradv-2,,Mocovi,146_faradv,ỹoxalom,ỹoxalom,j o ʁ a l o m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5377 5379,0,0,?
-Mocovi-106_year-1,,Mocovi,106_year,ñaaxa,ñaaxa,ɲ aː ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,651,0,0,?
-Mocovi-162_drink-1,,Mocovi,162_drink,ne'et,ne'et,n e ʔ e t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,138,0,0,?
-Mocovi-248_flower-1,,Mocovi,248_flower,lenoỹaxai,l+enoỹaxai,l + e n o j + a ʁ ai,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2099 5382,0,0,_:poss blossom _:nmlz
-Mocovi-41_fall-1,,Mocovi,41_fall,huaañi,huaa+ñi,w aː + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2590 1304,0,0,fall _:dir
-Mocovi-41_fall-2,,Mocovi,41_fall,najñi,na+jñi,n a + h ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1304 4652,0,0,fall _:dir
-Mocovi-41_fall-3,,Mocovi,41_fall,nalaqachiguiñi,nalaqa+chigui+ñi,n a l a q a tʃ i g i + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1305 3289 1304,0,0,fall _:dir
-Mocovi-41_fall-4,,Mocovi,41_fall,naquetañi,na+que+ta+ñi,n a k + t a + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1304 1305 3289 5383,0,0,come _:asp _:dir
-Mocovi-41_fall-5,,Mocovi,41_fall,taañigui,taa+ñigui,t aː + ɲ i + g i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3289 1304,0,0,go _:dir _:loc
-Mocovi-41_fall-6,,Mocovi,41_fall,ỹodoochiguiñi,ỹodoo+chigui+ñi,j + o d oː + tʃ i g i + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3289 1305 1304,0,0,_:3sg fall _:asp _:dir
-Mocovi-264_know-1,,Mocovi,264_know,ỹa'den,ỹa'den,j a ʔ d e n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,149,0,0,?
-Mocovi-274_ashes-1,,Mocovi,274_ashes,alo,alo,a l o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1311,0,0,?
-Mocovi-65_largebig-1,,Mocovi,65_largebig,lo,lo,l o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,153,0,0,?
-Mocovi-65_largebig-2,,Mocovi,65_largebig,late'ogue',late'ogue',l a t e ʔ o g e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5384,0,0,?
-Mocovi-65_largebig-3,,Mocovi,65_largebig,lecaic,le+caic,l e + k a i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,153 155 5385 2101,0,0,_:3sg be.big
-Mocovi-148_short-1,,Mocovi,148_short,se ladoguec,se+ladoguec,s e + l a d o g e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2102 5386,0,0,not long
-Mocovi-149_five-1,,Mocovi,149_five,shiincolqai',shiincolqai',ʃ iː ŋ k o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5391 5392,0,0,?
-Mocovi-276_eat-1,,Mocovi,276_eat,ỹa'ic,ỹ+a'ic,j + a ʔ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,167,0,0,_:3sg eat
-Mocovi-191_grass-1,,Mocovi,191_grass,'uaqapi,'uaqapi,ʔ u a q a + p i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,674,0,0,grass _:pl
-Mocovi-152_one-1,,Mocovi,152_one,óna,óna,o n a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2113,0,0,?
-Mocovi-263_everyall-1,,Mocovi,263_everyall,imaa,imaa,i m aː,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3879,0,0,?
-Mocovi-263_everyall-2,,Mocovi,263_everyall,nemeeta,ne+meeta,n e + m eː t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,677 3879 169,0,0,_:3sg complete
-Mocovi-291_name-1,,Mocovi,291_name,leenaxat,l+eenaxat,l + eː n a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2615 4095,0,0,_:poss name
-Mocovi-292_old-1,,Mocovi,292_old,itereta,iter+eta,i + t e r + e t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1345 2116 682,0,0,_:3sg worn.out _:?
-Mocovi-292_old-2,,Mocovi,292_old,leteraxaic,le+ter+axai+c,l e + t e r + a ʁ ai + k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2115 682 2116 5393,0,0,_:poss worn.out _:adj _:masc
-Mocovi-292_old-3,,Mocovi,292_old,leto,leto,l e + t o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,682,0,0,_:poss old
-Mocovi-292_old-4,,Mocovi,292_old,ñaaue,ñaaue,ɲ aː u e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1344 1345,0,0,?
-Mocovi-292_old-5,,Mocovi,292_old,qo'xoic,qo'xoi+c,q o ʔ ʁ oi + k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2116 5393,0,0,old _:masc
-Mocovi-282_father-1,,Mocovi,282_father,leta'a,le+ta'a,l e + t a ʔ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,176 177,0,0,_:poss father
-Mocovi-100_smalllittle-1,,Mocovi,100_smalllittle,cocho'qui',cocho'qui',k o tʃ o ʔ k i ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1356,0,0,?
-Mocovi-100_smalllittle-2,,Mocovi,100_smalllittle,lote',lote',l o t e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2618,0,0,?
-Mocovi-135_two-1,,Mocovi,135_two,doosolqai',doosolqai',d oː s o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2119 687,0,0,?
-Mocovi-15_long-1,,Mocovi,15_long,ladoc,ladoc,l a d o k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,187,0,0,?
-Mocovi-275_intestinesguts-1,,Mocovi,275_intestinesguts,lauelese',l+auel+ese',l + a w e l e s e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2627 2121,0,0,_:poss interior _:?
-Mocovi-188_smellvbtrans-1,,Mocovi,188_smellvbtrans,nomaqatecshiguim,nomaqatec+shiguim,n o m a q a t e k + ʃ i g i m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5398 3349,0,0,? _:up
-Mocovi-52_treecf08600-1,,Mocovi,52_treecf08600,qo'paq,qo+'paq,q o ʔ + p a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5399 194,0,0,_:/qo tree
-Mocovi-47_sun-1,,Mocovi,47_sun,ra'aasa,ra'aasa,r a ʔ aː s a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,198,0,0,?
-Mocovi-283_give-1,,Mocovi,283_give,nañan,nañ+an,n a ɲ + a n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5402 213,0,0,_:3sg give
-Mocovi-283_give-2,,Mocovi,283_give,ỹaan,ỹ+aan,j + aː n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2133 213,0,0,_:3sg give
-Mocovi-136_littlequantityfew-1,,Mocovi,136_littlequantityfew,sqalo,s+qalo,s + q a l o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5403 1406,0,0,not much
-Mocovi-136_littlequantityfew-2,,Mocovi,136_littlequantityfew,sqovite',sqo+vite',s q o + w i t e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5403 3195,0,0,not much
-Mocovi-147_muchmany-1,,Mocovi,147_muchmany,te'tegue,te'tegue,t e ʔ t e g e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3382,0,0,?
-Mocovi-147_muchmany-2,,Mocovi,147_muchmany,chalego,chalego,tʃ a l e g o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,217 2653,0,0,?
-Mocovi-147_muchmany-3,,Mocovi,147_muchmany,chalo,chalo,tʃ a l o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,217 1411,0,0,?
-Mocovi-147_muchmany-4,,Mocovi,147_muchmany,viteu',viteu',w i t e w ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2654,0,0,?
-Mocovi-266_cold-1,,Mocovi,266_cold,om,om,o m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3390,0,0,?
-Mocovi-39_sit-1,,Mocovi,39_sit,icanlec,i+can+lec,i + k a n + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,222 1415 5404,0,0,_:3sg put _:loc
-Mocovi-39_sit-2,,Mocovi,39_sit,nelec,ne+lec,n e + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,221 5404,0,0,sit _:loc
-Mocovi-39_sit-3,,Mocovi,39_sit,nqa'xanlec,n+qa'xan+lec,n + q a ʔ ʁ a n + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,221 2138 5404,0,0,_:3sg put _:loc
-Mocovi-39_sit-4,,Mocovi,39_sit,neetashi'me,ne+etashi'me,n e + t a + ʃ i ʔ m + e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,221 5405,0,0,stay _:asp _:dir _:loc
-Mocovi-39_sit-5,,Mocovi,39_sit,nqa'aamñi,n+qa'aam+ñi,n + q a ʔ aː m + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5406 2138 221,0,0,_:3sg sit _:dir
-Mocovi-285_fruit-1,,Mocovi,285_fruit,la,la,l a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2144,0,0,?
-Mocovi-323_hold-1,,Mocovi,323_hold,icoñita'guit,i+coñi+ta'guit,i + k o ɲ i + t a ʔ + g i t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2661 730 4367,0,0,_:3sg hold _:asp _:loc
-Mocovi-323_hold-2,,Mocovi,323_hold,lo'qa'a,lo'qa'a,l o ʔ q a ʔ + a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3398,0,0,hold _:loc
-Mocovi-323_hold-3,,Mocovi,323_hold,naqajñi,n+aqaj+ñi,n + a q a h + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5033 3398 730,0,0,_:3sg hold _:loc
-Mocovi-323_hold-4,,Mocovi,323_hold,necontagui,necon+tagui,n + e k o n + t a + g i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,730 1427,0,0,_:3sg hold _:asp _:loc
-Mocovi-323_hold-5,,Mocovi,323_hold,icona,i+cona,i + k o n a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2661 730,0,0,_:3sg hold
-Mocovi-46_animal-1,,Mocovi,46_animal,lalo,la+lo,l a + l o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2663 5409,0,0,_:poss animal
-Mocovi-46_animal-2,,Mocovi,46_animal,isecỹac,isecỹac,i s e k j a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2147,0,0,?
-Mocovi-290_mosquito-1,,Mocovi,290_mosquito,'ỹat,'ỹat,ˀj a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,232,0,0,?
-Mocovi-35_spider-1,,Mocovi,35_spider,palachiregaxa,palachiregaxa,p a l a tʃ i r e g a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2148,0,0,?
-Mocovi-95_claw-1,,Mocovi,95_claw,lenat,le+nat,l e + n a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5036 2150,0,0,_:poss nail
-Mocovi-57_arm-1,,Mocovi,57_arm,lqai'laxat,l+qai'laxat,l + q ai ʔ l + a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5410 5411,0,0,_:poss hug _:nmlz
-Mocovi-57_arm-2,,Mocovi,57_arm,laua,l+aua,l + a w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5410 739,0,0,_:poss arm
-Mocovi-102_horn-1,,Mocovi,102_horn,lasote,la+sote,l a + s o t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2154 237,0,0,_:poss horn
-Mocovi-58_beard-1,,Mocovi,58_beard,laqareue,l+aqareue,l + a q a r + e w e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2156 239 239,0,0,_:poss chin hair
-Mocovi-254_chest-1,,Mocovi,254_chest,lotogue,l+otogue,l + o t o g e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4386 2161,0,0,_:poss chest
-Mocovi-254_chest-2,,Mocovi,254_chest,lo'ueete,l+o'ueete,l + o ʔ u eː t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4386 2160,0,0,_:poss chest
-Mocovi-61_chin-1,,Mocovi,61_chin,laqa',l+aqa',l + a q a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2162 2163,0,0,_:poss chin
-Mocovi-62_lip-1,,Mocovi,62_lip,laapi',l+aapi',l + aː p i ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5413 2165,0,0,_:poss lip
-Mocovi-62_lip-2,,Mocovi,62_lip,laqa',l+aqa',l + a q a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5413 2164,0,0,_:poss lip
-Mocovi-62_lip-3,,Mocovi,62_lip,niñip,niñip,n + i ɲ i p,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1443,0,0,_:poss lip
-Mocovi-64_finger-1,,Mocovi,64_finger,lpalaaqate,l+palaaqate,l + p a l aː q a t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2170 244,0,0,_:poss finger
-Mocovi-281_elbow-1,,Mocovi,281_elbow,lqo'gue,l+qo'gue,l + q o ʔ g e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2171 245,0,0,_:poss elbow
-Mocovi-94_fingernail-1,,Mocovi,94_fingernail,lenat,le+nat,l e + n a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2680 2172,0,0,_:poss nail
-Mocovi-299_thunder-1,,Mocovi,299_thunder,nalataxa,nalataxa,n a l a t a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4119,0,0,?
-Mocovi-299_thunder-2,,Mocovi,299_thunder,soxonaxa,soxonaxa,s o ʁ o n a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2174,0,0,?
-Mocovi-109_lightning-1,,Mocovi,109_lightning,nqai'legaxa,nqai'legaxa,n + q ai ʔ l e g + a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,255,0,0,_:3sg strike _:nmlz
-Mocovi-126_liedown-1,,Mocovi,126_liedown,nqa'paxanegue,nqa'paxan+egue,n + q a ʔ p a ʁ a n + e g e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5417 4397,0,0,_:3sg lie.down _:loc
-Mocovi-126_liedown-2,,Mocovi,126_liedown,nenantañi,nenanta+ñi,n e + n a n + t a + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5418 259,0,0,_:3sg lie _:asp _:dir
-Mocovi-126_liedown-3,,Mocovi,126_liedown,ladogoỹalec,ladogoỹa+lec,l a d o g + o j a + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4397 4396,0,0,long _:vblz _:loc
-Mocovi-126_liedown-4,,Mocovi,126_liedown,icanagui,icana+gui,i + k a n + a g i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4395 5419,0,0,_:3sg lie.down _:loc
-Mocovi-72_house-1,,Mocovi,72_house,lauo',la+uo',l a + w o ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2179 2699,0,0,_:poss house
-Mocovi-72_house-2,,Mocovi,72_house,la'a',l+a'a',l + a ʔ a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2179 4695,0,0,_:poss house
-Mocovi-101_child-1,,Mocovi,101_child,noctoqui',noctoqui',n o k t o k i ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2180,0,0,?
-Mocovi-296_road-1,,Mocovi,296_road,llicyaxac,ll+icyaxac,ʎ + i k + ʒ a ʁ a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5422 2182,0,0,_:poss road ?
-Mocovi-296_road-2,,Mocovi,296_road,nayic,nayic,n a ʒ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2182,0,0,?
-Mocovi-150_ten-1,,Mocovi,150_ten,diesolqai',dies+olqai',d j e s o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3441 5423,0,0,?
-Mocovi-132_float-1,,Mocovi,132_float,naỹoxonshiguim,na+ỹoxon+shiguim,n a + j o + ʁ o n + ʃ i g i m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2186 2185 2187,0,0,_:3sg fly _:vblz _:dir
-Mocovi-132_float-2,,Mocovi,132_float,ỹaỹoxontac,ỹa+ỹoxon+tac,j a + j o + ʁ o n + t a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2184 2185 1477,0,0,_:3sg fly _:vblz _:asp
-Mocovi-110_fightvb-1,,Mocovi,110_fightvb,iloquin,i+loqui+n,i + l o k i + n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1479 273 1480,0,0,_:3sg fight _:asp
-Mocovi-110_fightvb-2,,Mocovi,110_fightvb,nalauat,n+alauat,n + a l a w a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1480 3443,0,0,_:3sg kill
-Mocovi-110_fightvb-3,,Mocovi,110_fightvb,nco'ua,n+co'ua,n + k o ʔ u a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1480 2708,0,0,_:3sg fight
-Mocovi-110_fightvb-4,,Mocovi,110_fightvb,nouaxan,nouaxan,n o + w a ʁ a n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,771,0,0,_:3sg hit
-Mocovi-293_owl-1,,Mocovi,293_owl,quichiguiguit,quichiguiguit,k i tʃ i g i g i t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4698,0,0,?
-Mocovi-293_owl-2,,Mocovi,293_owl,chirit,chirit,tʃ i r i t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4130,0,0,?
-Mocovi-273_cat-1,,Mocovi,273_cat,regat,regat,r e g a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2192,0,0,?
-Mocovi-273_cat-2,,Mocovi,273_cat,pollo',pollo',p o ʎ o ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5426,0,0,?
-Mocovi-55_bee-1,,Mocovi,55_bee,qoñi' lauoic,qoñi' lauoic,q o ɲ i ʔ + l a w oi k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1494 283,0,0,honey bee
-Mocovi-55_bee-2,,Mocovi,55_bee,rapic lauoic,rapic lauoic,r a p i k + l a w oi k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2718 283,0,0,honey bee
-Mocovi-55_bee-3,,Mocovi,55_bee,rapic lapaxat,rapic lapaxat,r a p i k + l + a p a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2718 2718,0,0,honey _:poss insect
-Mocovi-55_bee-4,,Mocovi,55_bee,naqatec lauoic,naqatec lauoic,n a q a t e k + l a w oi k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1492 283,0,0,lechiguana/take.out bee
-Mocovi-289_parrot-1,,Mocovi,289_parrot,tallic lase,tallic lase,t a ʎ i k + l a s e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5427 2194,0,0,? _:fem
-Mocovi-289_parrot-2,,Mocovi,289_parrot,eele',eele',eː l e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2194,0,0,?
-Mocovi-289_parrot-3,,Mocovi,289_parrot,quillic,quillic,k i ʎ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,284,0,0,?
-Mocovi-128_flea-1,,Mocovi,128_flea,pioq lapaxat,pioq l+apaxat,p j o q + l + a p a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,287 289 290,0,0,dog _:poss insect
-Mocovi-166_deer-1,,Mocovi,166_deer,peele,peele,p eː l e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4410,0,0,?
-Mocovi-118_ant-1,,Mocovi,118_ant,chinaq,chinaq,tʃ i n a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5429 299,0,0,?
-Mocovi-99_palmofhand-1,,Mocovi,99_palmofhand,napoquena lauel,na+poquena la+uel,n a + p o k e n a + l a + w e l,,buckwalter2004;buckwalter2015b;rosso2010,,,,,300 301 302 303,0,0,_:poss hand _:poss interior
-Mocovi-89_fur-1,,Mocovi,89_fur,loshicmaxa,loshicmaxa,l + o ʃ i k m a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5430,0,0,_:poss fur
-Mocovi-42_hairhead-1,,Mocovi,42_hairhead,laue,l+aue,l + a w e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2207 2208,0,0,_:poss hair
-Mocovi-249_penis-1,,Mocovi,249_penis,nco'ue,n+co'ue,n + k o ˀw e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5431,0,0,_:poss penis
-Mocovi-249_penis-2,,Mocovi,249_penis,no'lo,no'lo,n + o ʔ l o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5431,0,0,_:poss penis
-Mocovi-88_skull-1,,Mocovi,88_skull,lqahic lpi'nec,l+qahic l+pi'nec,l + q a h i k + l + p i ʔ n e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2210 2211 2212 2213,0,0,_:poss head _:poss bone
-Mocovi-288_lung-1,,Mocovi,288_lung,lachi,l+achi,l + a tʃ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2220 2221,0,0,_:poss lung
-Mocovi-200_testicle-1,,Mocovi,200_testicle,lola,l+ola,l o + l a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5437 4711,0,0,_:poss testicle
-Mocovi-124_bed-1,,Mocovi,124_bed,lómala',l+ómala',l + o m a l a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2230 2233,0,0,_:poss bed
-Mocovi-124_bed-2,,Mocovi,124_bed,lo'paxala',l+o'pa+xala',l + o ʔ p + a ʁ a + l a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2230 819 2232 2233,0,0,_:poss ? _:val _:loc
-Mocovi-143_plantvb-1,,Mocovi,143_plantvb,ỹanñi,ỹ+an+ñi,j + a n + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2767 3494 823,0,0,_:3sg put _:dir
-Mocovi-73_village-1,,Mocovi,73_village,na'a',na'a',n a ʔ a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2774,0,0,?
-Mocovi-60_doorgate-1,,Mocovi,60_doorgate,lasom,lasom,l + a s o m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,324,0,0,_:poss door
-Mocovi-76_cover-1,,Mocovi,76_cover,nalolec,n+alo+lec,n + a l o + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5448 5449,0,0,_:3sg extend _:loc
-Mocovi-76_cover-2,,Mocovi,76_cover,napoñi,n+apo+ñi,n + a p o + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4718 2783 5448,0,0,_:3sg close _:dir
-Mocovi-76_cover-3,,Mocovi,76_cover,no'qajlec,no'qa+jlec,n o ʔ q a t + l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5448 5449,0,0,fill _:loc
-Mocovi-76_cover-4,,Mocovi,76_cover,ỹapo'ñigui,ỹa+po'+ñigui,j + a p o ʔ + ɲ i + g i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5450 2783 5448,0,0,_:3sg close _:dir _:loc
-Mocovi-278_buy-1,,Mocovi,278_buy,reshiujnaxana,re+shiujn+axan+a,r e + ʃ j u h n + a ʁ a n + a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1563 5451 2237 2789,0,0,_:3sg buy _:val _:3O
-Mocovi-123_burnvbintrans-1,,Mocovi,123_burnvbintrans,nachipishiguim,nachipi+shiguim,n a tʃ i p i + ʃ i g i m,,buckwalter2004;buckwalter2015b;rosso2010,,,,,328 4721,0,0,burn _:dir
-Mocovi-123_burnvbintrans-2,,Mocovi,123_burnvbintrans,ỹavic,ỹ+avic,j + a w i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2790 325,0,0,_:3sg burn
-Mocovi-158_nine-1,,Mocovi,158_nine,nueevolqai',nueevolqai',n w eː w o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3509 4441,0,0,?
-Mocovi-103_club-1,,Mocovi,103_club,nepon,nepon,n e + p o n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,334,0,0,_:poss club
-Mocovi-271_sweetpotato-1,,Mocovi,271_sweetpotato,huatáta,huatáta,w a t a t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,846,0,0,?
-Mocovi-156_seven-1,,Mocovi,156_seven,sietolqai',siet+olqai',s j e t o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,847 3909,0,0,?
-Mocovi-86_path-1,,Mocovi,86_path,llicyaxac,ll+icyaxac,ʎ + i k + ʒ a ʁ a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5460 2242,0,0,_:poss path ?
-Mocovi-86_path-2,,Mocovi,86_path,nayic,nayic,n a ʒ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2242,0,0,?
-Mocovi-169_knife-1,,Mocovi,169_knife,lecat,lecat,l + e k a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5462,0,0,_:poss knife
-Mocovi-170_needle-1,,Mocovi,170_needle,na,na,n a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1596,0,0,?
-Mocovi-104_soulspirit-1,,Mocovi,104_soulspirit,la'al,l+a'al,l + a ʔ a l,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2821 344,0,0,_:poss soul
-Mocovi-104_soulspirit-2,,Mocovi,104_soulspirit,lqui'i,l+qui'i,l + k i ʔ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2821 344,0,0,_:poss soul
-Mocovi-277_cryweep-1,,Mocovi,277_cryweep,noỹen,noỹen,n + o j e n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4156,0,0,_:3sg cry
-Mocovi-277_cryweep-2,,Mocovi,277_cryweep,naualaxañi,n+aualaxa+ñi,n + a w a l a ʁ a + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5467 3915 4156,0,0,_:3sg scream _:dir
-Mocovi-155_six-1,,Mocovi,155_six,saisolqai',saisolqai',s ai s o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5468 5469,0,0,?
-Mocovi-287_maizecorn-1,,Mocovi,287_maizecorn,nasoolec,nasoolec,n a s oː l e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,350,0,0,?
-Mocovi-206_oldman-1,,Mocovi,206_oldman,qo'xoic,qo'xoic,q o ʔ ʁ oi + k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,355,0,0,old _:masc
-Mocovi-300_tobacco-1,,Mocovi,300_tobacco,laseerec,l+aseerec,l + a s eː r e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4736 2248,0,0,_:poss tobacco
-Mocovi-295_ripe-1,,Mocovi,295_ripe,yi,yi,j i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5475,0,0,?
-Mocovi-270_tapiocamanioccassava-1,,Mocovi,270_tapiocamanioccassava,mayóca,mayóca,m a ʒ o k a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,884,0,0,?
-Mocovi-157_eight-1,,Mocovi,157_eight,'oocholqai','oocholqai',ʔ oː tʃ o l q ai ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5477 5478,0,0,?
-Mocovi-159_cook-1,,Mocovi,159_cook,ỹanaq,ỹ+anaq,j + a n a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,901 1699,0,0,_:3sg cook
-Mocovi-207_oldwoman-1,,Mocovi,207_oldwoman,qo'xoi,qo'xoi,q o ʔ ʁ oi,,buckwalter2004;buckwalter2015b;rosso2010,,,,,389,0,0,?
-Mocovi-142_sap-1,,Mocovi,142_sap,nate,nate,n a t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,906,0,0,?
-Mocovi-36_spiderweb-1,,Mocovi,36_spiderweb,palachiregaxa lala',palachiregaxa la+la',p a l a tʃ i r e g a ʁ a + l a + l a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2271 5490 2876,0,0,spider _:poss ?
-Mocovi-252_cow-1,,Mocovi,252_cow,huaca,huaca,w a k a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,297,0,0,?
-Mocovi-173_lizard-1,,Mocovi,173_lizard,lecolaxaraic,lecolaxaraic,l e k o l a ʁ a r ai k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2274 395 5495 4482 394,0,0,?
-Mocovi-267_nest-1,,Mocovi,267_nest,lauaquiaxaqui,l+auaqu+iaxaqui,l + a w a k + j a ʁ a k i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2276 5110 5496 2278,0,0,_:poss hole _:nmlz
-Mocovi-267_nest-2,,Mocovi,267_nest,lco'viichaxaqui,l+co'vii+chaxaqui,l + k o ˀw iː + tʃ a ʁ a k i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2276 5496 2278,0,0,_:poss egg _:nmlz
-Mocovi-116_goat-1,,Mocovi,116_goat,quetaq,quetaq,k e t a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1725,0,0,?
-Mocovi-117_hegoat-1,,Mocovi,117_hegoat,quetaq,quetaq,k e t a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1734,0,0,?
-Mocovi-302_pig-1,,Mocovi,302_pig,cos,cos,k o s,,buckwalter2004;buckwalter2015b;rosso2010,,,,,920,0,0,?
-Mocovi-174_dove-1,,Mocovi,174_dove,cocon,cocon,k o k o n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,406,0,0,?
-Mocovi-174_dove-2,,Mocovi,174_dove,coviguiñic,coviguiñic,k o w i g i ɲ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,406,0,0,?
-Mocovi-174_dove-3,,Mocovi,174_dove,co'toco',co'toco',k o ʔ t o k o ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,923,0,0,?
-Mocovi-260_crocodilealligator-1,,Mocovi,260_crocodilealligator,naanoc,naanoc,n aː n o k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1747,0,0,?
-Mocovi-186_shell-1,,Mocovi,186_shell,recona,recona,r e k o n a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5120,0,0,?
-Mocovi-186_shell-2,,Mocovi,186_shell,naqalligo,naqalligo,n a q a ʎ i g o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5509,0,0,?
-Mocovi-245_snail-1,,Mocovi,245_snail,leta'guellic,let+a'guellic,l e t + a ʔ g e + ʎ + i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,3623 421,0,0,wet _:loc _:poss path
-Mocovi-160_fox-1,,Mocovi,160_fox,nouaxaỹaxa,nouaxaỹaxa,n o w a ʁ a j a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,940,0,0,?
-Mocovi-113_horseequine-1,,Mocovi,113_horseequine,shipgaq,shipgaq,ʃ i p g a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,435,0,0,?
-Mocovi-91_fishscale-1,,Mocovi,91_fishscale,leso,l+eso,l e + s o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2938 444,0,0,_:poss fishscale
-Mocovi-2_beehive-1,,Mocovi,2_beehive,le'xona,le'xona,l e ʔ ʁ o n a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5535,0,0,?
-Mocovi-115_sheep-1,,Mocovi,115_sheep,qagreta,qagreta,q a g r e t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2311,0,0,?
-Mocovi-96_findorsal-1,,Mocovi,96_findorsal,lelaxase,lelax+ase,l e + l a ʁ a + s e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5536 2949,0,0,_:poss back _:?
-Mocovi-256_bull-1,,Mocovi,256_bull,tooro,tooro,t oː r o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2312,0,0,?
-Mocovi-255_ox-1,,Mocovi,255_ox,tooro,tooro,t oː r o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1805,0,0,?
-Mocovi-255_ox-2,,Mocovi,255_ox,lauegaxanaxala',l+aueg+axan+axala',l + a w e g + a ʁ a n + a ʁ a l a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5540 454 5541 1805 5542,0,0,_:poss carry _:val _:nmlz
-Mocovi-255_ox-3,,Mocovi,255_ox,ñii'lola,ñii'lola,ɲ iː ʔ l o l a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5542,0,0,?
-Mocovi-253_bear-1,,Mocovi,253_bear,layoraxai late'e,layoraxai l+ate'e,l a ʒ o r a ʁ ai + l + a t e ʔ e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5543 5544 455,0,0,anteater _:poss mother
-Mocovi-242_assdonkey-1,,Mocovi,242_assdonkey,'ashin,'ashin,ʔ a ʃ i n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,457,0,0,?
-Mocovi-284_hawk-1,,Mocovi,284_hawk,niviguiñic,niviguiñic,n i w i g i ɲ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5545,0,0,?
-Mocovi-284_hawk-2,,Mocovi,284_hawk,qatañiguit,qatañiguit,q a t a ɲ i g i t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,458,0,0,?
-Mocovi-257_wasp-1,,Mocovi,257_wasp,rapic,rapic,r a p i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2966,0,0,?
-Mocovi-257_wasp-2,,Mocovi,257_wasp,lauanate' leta'a,laua+nate' le+ta'a,l a w a + n a t e ʔ + l e + t a ʔ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,459 2964 460,0,0,earth _:? _:poss father
-Mocovi-70_eyelid-1,,Mocovi,70_eyelid,nqote lapo',n+qote la+po',n + q o t e + l a + p o ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2332 986 2334 5550,0,0,_:poss eye _:poss cover
-Mocovi-70_eyelid-2,,Mocovi,70_eyelid,nqote laqa',n+qote la+qa',n + q o t e + l a + q a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2332 986 2334 5550,0,0,_:poss eye _:poss chin
-Mocovi-40_borntobe-1,,Mocovi,40_borntobe,ne'qaañi,ne'qaa+ñi,n e ʔ q aː + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2990 2339 2338,0,0,be.born _:down
-Mocovi-259_eyelash-1,,Mocovi,259_eyelash,rade,r+ade,r + a d e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,474 1831,0,0,_:poss eyelash
-Mocovi-121_footprint-1,,Mocovi,121_footprint,lliguiñi,lligui+ñi,ʎ + i g i + ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,482 1855,0,0,_:poss path/go _:dir
-Mocovi-258_poison-1,,Mocovi,258_poison,ledoonaxa,le+doon+axa,l e + d oː n + a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5173 1014 2353,0,0,_:poss poison _:nmlz
-Mocovi-301_urinate-1,,Mocovi,301_urinate,nqo'xon,n+qo'xon,n + q o ʔ ʁ o n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5566 3994,0,0,_:3sg urinate
-Mocovi-77_nippleteat-1,,Mocovi,77_nippleteat,lo'ueete lqahic,l+o'ueete l+qahic,l + o ʔ u eː t e + l + q a h i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5567 3032 5568 1023,0,0,_:poss breast _:poss head
-Mocovi-81_spine-1,,Mocovi,81_spine,lelaq lpi'nec,le+laq l+pi'nec,l e + l a q + l + p i ʔ n e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2378 3053 6 54,0,0,_:poss back _:poss bone
-Mocovi-294_pus-1,,Mocovi,294_pus,li'i,l+i'i,l + i ʔ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4944 3067,0,0,_:poss pus
-Mocovi-68_womb-1,,Mocovi,68_womb,lco'oxoqui,l+co'o+xoqui,l + k o ʔ o + ʁ o k i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,6 4813 1054 497,0,0,_:poss conceive :nmlz
-Mocovi-84_veinartery-1,,Mocovi,84_veinartery,lo'oota,lo'oota,l o + ʔ oː t a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,498,0,0,_:poss vein
-Mocovi-144_mute-1,,Mocovi,144_mute,moorotec,moorotec,m oː r o t e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1068 5593,0,0,?
-Mocovi-63_thumb-1,,Mocovi,63_thumb,lpalaaqate late'ogue',l+palaaqate l+ate'ogue',l + p a l aː q a t e + l + a t e ʔ o g e ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2407 2406 5596 1919,0,0,_:poss finger _:poss big
-Mocovi-80_beak-1,,Mocovi,80_beak,laapi',l+aapi',l + aː p i ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5413 2165,0,0,_:poss lip
-Mocovi-134_itch-1,,Mocovi,134_itch,reshiqui,re+shiqui,r e + ʃ i k i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5602 2423,0,0,_:3sg itch
-Mocovi-269_wakeup-1,,Mocovi,269_wakeup,nelouec,ne+lo+uec,n e + l o + w e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1933 2426 2427,0,0,_:3sg look _:dir
-Mocovi-269_wakeup-2,,Mocovi,269_wakeup,nqo'xon,n+qo'xon,n + q o ʔ ʁ o n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1933 3092,0,0,_:3sg wake.up
-Mocovi-71_window-1,,Mocovi,71_window,nqote,n+qote,n + q o t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1943 1944,0,0,_:poss eye
-Mocovi-127_cousin-1,,Mocovi,127_cousin,lqaỹa liỹa,l+qaỹa l+iỹa,l + q a j a + l + i j a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2436 514 5606 2435,0,0,_:poss sibling _:poss other
-Mocovi-87_place-1,,Mocovi,87_place,la'a',l+a'a',l + a ʔ a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5608,0,0,_:poss place
-Mocovi-87_place-2,,Mocovi,87_place,loma',lo+ma',l o + m a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5609 3807,0,0,_:poss place
-Mocovi-87_place-3,,Mocovi,87_place,lo'ueetqa',l+o'ueetqa',l + o ʔ u eː t q a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5609 2439 5610,0,0,_:poss place
-Mocovi-87_place-4,,Mocovi,87_place,laa'yi,l+aa'yi,l + aː ʔ ʒ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5608,0,0,_:poss place
-Mocovi-137_potter-1,,Mocovi,137_potter,cá'maq ỹo'ueetac ano no'xona 'laua,cá'maq ỹo+'uee+tac ana no'xona 'la+ua,k a ʔ m a q + j + o ʔ u eː + t a k + a n a + n o ʔ ʁ o n a + ʔ l a + w a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4036 5614 5615 1105 5616 1104 5617 5234,0,0,_:det _:3sg make _:asp _:det clay earth
-Mocovi-105_shadeshadow-1,,Mocovi,105_shadeshadow,la'al,l+a'al,l + a ʔ a l,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5621 2440,0,0,_:poss shade
-Mocovi-69_parents-1,,Mocovi,69_parents,leta'al,le+ta'al,l e + t a ʔ a l,,buckwalter2004;buckwalter2015b;rosso2010,,,,,4563 1980,0,0,_:poss father _:pauc
-Mocovi-165_write-1,,Mocovi,165_write,ỹiriñi,ỹi+r+iñi,j i + r + i ɲ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1987 5626 1985,0,0,_:3sg write _:dir
-Mocovi-165_write-2,,Mocovi,165_write,ỹi',ỹi',j i ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1987,0,0,?
-Mocovi-165_write-3,,Mocovi,165_write,deraxan,de+r+axan,d e + r + a ʁ a n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1983 5626 5240,0,0,_:3sg write _:val
-Mocovi-122_altar-1,,Mocovi,122_altar,ncopatoxolate,n+copat+oxo+late,n + k o p a t + o ʁ o + l a t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,1995 5633 4050,0,0,_:poss burn _:val _:loc
-Mocovi-107_summer-1,,Mocovi,107_summer,ñaaxa,ñaaxa,ɲ aː ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,5637 1122,0,0,?
+Mocovi-85_blood-1,,Mocovi,85_blood,leuo',le+uo',l e + w o ʔ,,buckwalter2015b;rosso2010,,,,,5337 2479,0,0,_:poss blood
+Mocovi-59_mouth-1,,Mocovi,59_mouth,lap,l+ap,l + a p,,buckwalter2015b;rosso2010,,,,,2005 2006,0,0,_:poss mouth
+Mocovi-79_head-1,,Mocovi,79_head,lqahic,l+qahic,l + q a h i k,,buckwalter2015b;rosso2010,,,,,2007 2008,0,0,_:poss head
+Mocovi-56_hand-1,,Mocovi,56_hand,napoquena,na+poquena,n a + p o k e n a,,buckwalter2015b;rosso2010,,,,,11 12,0,0,_:poss hand
+Mocovi-53_ear-1,,Mocovi,53_ear,lque'la,l+que'la,l + k e + ʔ l a,,buckwalter2015b;rosso2010,,,,,2013 4234,0,0,_:poss _:/ke ear
+Mocovi-50_red-1,,Mocovi,50_red,toc,toc,t o k,,buckwalter2015b;rosso2010,,,,,1137,0,0,?
+Mocovi-163_see-1,,Mocovi,163_see,ỹauana,ỹ+auan+a,j + a w a n + a,,buckwalter2015b;rosso2010,,,,,3162 1145 1144,0,0,_:3sg see _:3O
+Mocovi-37_husband-1,,Mocovi,37_husband,loua,lo+ua,l o + w a,,buckwalter2015b;rosso2010,,,,,5340 26,0,0,_:poss spouse
+Mocovi-37_husband-2,,Mocovi,37_husband,lashilaxaua,l+ashilaxaua,l + a ʃ i l a ʁ a w a,,buckwalter2015b;rosso2010,,,,,5340 5341 26,0,0,_:poss spouse
+Mocovi-38_wife-1,,Mocovi,38_wife,loua,lo+ua,l o + w a,,buckwalter2015b;rosso2010,,,,,5342 29,0,0,_:poss wife
+Mocovi-38_wife-2,,Mocovi,38_wife,lashilaxaua,l+ashilaxaua,l + a ʃ i l a ʁ a w a,,buckwalter2015b;rosso2010,,,,,5342 5343 29,0,0,_:poss wife
+Mocovi-138_hear-1,,Mocovi,138_hear,qaa,qaa,q aː,,buckwalter2015b;rosso2010,,,,,34,0,0,?
+Mocovi-138_hear-2,,Mocovi,138_hear,'xaỹa,'xaỹa,ʔ ʁ a j a,,buckwalter2015b;rosso2010,,,,,5344,0,0,?
+Mocovi-187_bird-1,,Mocovi,187_bird,qo'o,qo'o,q o ʔ o,,buckwalter2015b;rosso2010,,,,,37,0,0,?
+Mocovi-97_fish-1,,Mocovi,97_fish,nallin,nallin,n a ʎ i n,,buckwalter2015b;rosso2010,,,,,559,0,0,?
+Mocovi-130_louse-1,,Mocovi,130_louse,lapaxat,l+apaxat,l + a p a ʁ a t,,buckwalter2015b;rosso2010,,,,,2501 2030,0,0,_:poss louse
+Mocovi-129_dog-1,,Mocovi,129_dog,pioq,pioq,p j o q,,buckwalter2015b;rosso2010,,,,,44,0,0,?
+Mocovi-251_tongue-1,,Mocovi,251_tongue,lo'legaxanaxat,l+o'legaxanaxat,l + o ʔ l e g a ʁ a n a ʁ a t,,buckwalter2015b;rosso2010,,,,,46 3174 5346 1160,0,0,_:poss tongue
+Mocovi-78_breastofwoman-1,,Mocovi,78_breastofwoman,lo'ueete,l+o'ueete,l + o ʔ u eː t e,,buckwalter2015b;rosso2010,,,,,4252 49,0,0,_:poss breast
+Mocovi-98_wing-1,,Mocovi,98_wing,laua,l+aua,l + a w a,,buckwalter2015b;rosso2010,,,,,2032 50,0,0,_:poss wing
+Mocovi-82_back-1,,Mocovi,82_back,lelaq,le+laq,l e + l a q,,buckwalter2015b;rosso2010,,,,,2033 2034,0,0,_:poss back
+Mocovi-83_bone-1,,Mocovi,83_bone,lpi'nec,l+pi'nec,l + p i ʔ n e k,,buckwalter2015b;rosso2010,,,,,2035 54,0,0,_:poss bone
+Mocovi-120_leg-1,,Mocovi,120_leg,lichi,li+chi,l i + tʃ i,,buckwalter2015b;rosso2010,,,,,2036 56,0,0,_:poss leg
+Mocovi-246_foot-1,,Mocovi,246_foot,lapia',l+apia',l + a p j a ʔ,,buckwalter2015b;rosso2010,,,,,4256 572,0,0,_:poss foot
+Mocovi-261_heart-1,,Mocovi,261_heart,le'taxanata,le+'taxanata,l e + ʔ t a ʁ a n a t a,,buckwalter2015b;rosso2010,,,,,2043 5348,0,0,_:poss heart
+Mocovi-125_sleep-1,,Mocovi,125_sleep,laq,laq,l a q,,buckwalter2015b;rosso2010,,,,,576,0,0,?
+Mocovi-114_tail-1,,Mocovi,114_tail,lqai'it,l+qai'it,l + q ai ʔ i t,,buckwalter2015b;rosso2010,,,,,2046 65,0,0,_:poss tail
+Mocovi-111_kill-1,,Mocovi,111_kill,ỹalauat,ỹ+alauat,j + a l a w a t,,buckwalter2015b;rosso2010,,,,,2049 2050,0,0,_:3sg kill
+Mocovi-75_skinhide-1,,Mocovi,75_skinhide,loshicmaxa,l+oshicmaxa,l + o ʃ i k m a ʁ a,,buckwalter2015b;rosso2010,,,,,6 5350,0,0,_:poss skin
+Mocovi-44_feather-1,,Mocovi,44_feather,laue,l+aue,l + a w e,,buckwalter2015b;rosso2010,,,,,2054 2055,0,0,_:poss hair
+Mocovi-139_earthgroundsoil-1,,Mocovi,139_earthgroundsoil,laua,laua,l a w a,,buckwalter2015b;rosso2010,,,,,583,0,0,?
+Mocovi-154_four-1,,Mocovi,154_four,cuaatrolqai',cuaatro+lqai',k w aː t r o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,4081 4269,0,0,?
+Mocovi-167_yellow-1,,Mocovi,167_yellow,qoñi,qoñi,q o ɲ i,,buckwalter2015b;rosso2010,,,,,88,0,0,?
+Mocovi-133_flyvb-1,,Mocovi,133_flyvb,ỹo,ỹo,j o,,buckwalter2015b;rosso2010,,,,,1205,0,0,fly
+Mocovi-297_root-1,,Mocovi,297_root,lpa'a',l+pa'a',l + p a ʔ a ʔ,,buckwalter2015b;rosso2010,,,,,5355 90,0,0,_:poss root
+Mocovi-67_lake-1,,Mocovi,67_lake,latogot,latogot,l a t o g o t,,buckwalter2015b;rosso2010,,,,,5356,0,0,?
+Mocovi-243_black-1,,Mocovi,243_black,naue',n+aue',n + a w e ʔ,,buckwalter2015b;rosso2010,,,,,95 93,0,0,_:3sg black
+Mocovi-164_dust-1,,Mocovi,164_dust,lamoxoỹaga,l+amoxo+ỹaga,l + a m o ʁ o + j a ʁ a,,buckwalter2015b;rosso2010,,,,,5360 3856 1219,0,0,_:poss dusty _:nmlz
+Mocovi-168_star-1,,Mocovi,168_star,huaqajñi,huaqajñi,w a q a h ɲ i,,buckwalter2015b;rosso2010,,,,,2071 2073,0,0,?
+Mocovi-280_personhumanbeing-1,,Mocovi,280_personhumanbeing,qom,qom,q o m,,buckwalter2015b;rosso2010,,,,,4084,0,0,?
+Mocovi-66_mother-1,,Mocovi,66_mother,late'e,l+ate'e,l + a t e ʔ e,,buckwalter2015b;rosso2010,,,,,2555 80,0,0,_:poss mother
+Mocovi-145_nearadv-1,,Mocovi,145_nearadv,sqoỹoxa,s+qoỹoxa,s + q o j o ʁ a,,buckwalter2015b;rosso2010,,,,,3861 5365,0,0,not far
+Mocovi-92_cloud-1,,Mocovi,92_cloud,naueguelec,naueguelec,n a w e g e l e k,,buckwalter2015b;rosso2010,,,,,5366,0,0,?
+Mocovi-279_come-1,,Mocovi,279_come,anac,anac,a n a k,,buckwalter2015b;rosso2010,,,,,621 113 4289,0,0,?
+Mocovi-279_come-2,,Mocovi,279_come,nac,nac,n a k,,buckwalter2015b;rosso2010,,,,,113 4289,0,0,?
+Mocovi-279_come-3,,Mocovi,279_come,naata,naa+ta,n aː + t a,,buckwalter2015b;rosso2010,,,,,113 622,0,0,come _:asp
+Mocovi-43_leaf-1,,Mocovi,43_leaf,laue,l+aue,l + a w e,,buckwalter2015b;rosso2010,,,,,2081 2082,0,0,_:poss hair
+Mocovi-93_sky-1,,Mocovi,93_sky,piguim,piguim,p i g i m,,buckwalter2015b;rosso2010,,,,,115,0,0,?
+Mocovi-140_where-1,,Mocovi,140_where,hua'gue,hua'+gue,w a ʔ + g e,,buckwalter2015b;rosso2010,,,,,2089 639,0,0,go _:loc
+Mocovi-298_ropecord-1,,Mocovi,298_ropecord,lequet,lequet,l e + k e t,,buckwalter2015b;rosso2010,,,,,643,0,0,_:poss cord
+Mocovi-141_how-1,,Mocovi,141_how,negué',negué',n e g e ʔ,,buckwalter2015b;rosso2010,,,,,645,0,0,?
+Mocovi-153_three-1,,Mocovi,153_three,treesolqai',treesolqai',t r eː s o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,2091 126,0,0,?
+Mocovi-244_white-1,,Mocovi,244_white,ỹ-alagaq,ỹ-alagaq,j + a l a g a q,,buckwalter2015b;rosso2010,,,,,4647 128,0,0,_:3sg white
+Mocovi-146_faradv-1,,Mocovi,146_faradv,qoỹoqojlec,qo+ỹoq+oj+lec,q o j o q o + l e k,,buckwalter2015b;rosso2010,,,,,3282 5377 1291 5378,0,0,far _:loc
+Mocovi-146_faradv-2,,Mocovi,146_faradv,ỹoxalom,ỹoxalom,j o ʁ a l o m,,buckwalter2015b;rosso2010,,,,,5377 5379,0,0,?
+Mocovi-106_year-1,,Mocovi,106_year,ñaaxa,ñaaxa,ɲ aː ʁ a,,buckwalter2015b;rosso2010,,,,,651,0,0,?
+Mocovi-162_drink-1,,Mocovi,162_drink,ne'et,ne'et,n e ʔ e t,,buckwalter2015b;rosso2010,,,,,138,0,0,?
+Mocovi-248_flower-1,,Mocovi,248_flower,lenoỹaxai,l+enoỹaxai,l + e n o j + a ʁ ai,,buckwalter2015b;rosso2010,,,,,2099 5382,0,0,_:poss blossom _:nmlz
+Mocovi-41_fall-1,,Mocovi,41_fall,huaañi,huaa+ñi,w aː + ɲ i,,buckwalter2015b;rosso2010,,,,,2590 1304,0,0,fall _:dir
+Mocovi-41_fall-2,,Mocovi,41_fall,najñi,na+jñi,n a + h ɲ i,,buckwalter2015b;rosso2010,,,,,1304 4652,0,0,fall _:dir
+Mocovi-41_fall-3,,Mocovi,41_fall,nalaqachiguiñi,nalaqa+chigui+ñi,n a l a q a tʃ i g i + ɲ i,,buckwalter2015b;rosso2010,,,,,1305 3289 1304,0,0,fall _:dir
+Mocovi-41_fall-4,,Mocovi,41_fall,naquetañi,na+que+ta+ñi,n a k + t a + ɲ i,,buckwalter2015b;rosso2010,,,,,1304 1305 3289 5383,0,0,come _:asp _:dir
+Mocovi-41_fall-5,,Mocovi,41_fall,taañigui,taa+ñigui,t aː + ɲ i + g i,,buckwalter2015b;rosso2010,,,,,3289 1304,0,0,go _:dir _:loc
+Mocovi-41_fall-6,,Mocovi,41_fall,ỹodoochiguiñi,ỹodoo+chigui+ñi,j + o d oː + tʃ i g i + ɲ i,,buckwalter2015b;rosso2010,,,,,3289 1305 1304,0,0,_:3sg fall _:asp _:dir
+Mocovi-264_know-1,,Mocovi,264_know,ỹa'den,ỹa'den,j a ʔ d e n,,buckwalter2015b;rosso2010,,,,,149,0,0,?
+Mocovi-274_ashes-1,,Mocovi,274_ashes,alo,alo,a l o,,buckwalter2015b;rosso2010,,,,,1311,0,0,?
+Mocovi-65_largebig-1,,Mocovi,65_largebig,lo,lo,l o,,buckwalter2015b;rosso2010,,,,,153,0,0,?
+Mocovi-65_largebig-2,,Mocovi,65_largebig,late'ogue',late'ogue',l a t e ʔ o g e ʔ,,buckwalter2015b;rosso2010,,,,,5384,0,0,?
+Mocovi-65_largebig-3,,Mocovi,65_largebig,lecaic,le+caic,l e + k a i k,,buckwalter2015b;rosso2010,,,,,153 155 5385 2101,0,0,_:3sg be.big
+Mocovi-148_short-1,,Mocovi,148_short,se ladoguec,se+ladoguec,s e + l a d o g e k,,buckwalter2015b;rosso2010,,,,,2102 5386,0,0,not long
+Mocovi-149_five-1,,Mocovi,149_five,shiincolqai',shiincolqai',ʃ iː ŋ k o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,5391 5392,0,0,?
+Mocovi-276_eat-1,,Mocovi,276_eat,ỹa'ic,ỹ+a'ic,j + a ʔ i k,,buckwalter2015b;rosso2010,,,,,167,0,0,_:3sg eat
+Mocovi-191_grass-1,,Mocovi,191_grass,'uaqapi,'uaqapi,ʔ u a q a + p i,,buckwalter2015b;rosso2010,,,,,674,0,0,grass _:pl
+Mocovi-152_one-1,,Mocovi,152_one,óna,óna,o n a,,buckwalter2015b;rosso2010,,,,,2113,0,0,?
+Mocovi-263_everyall-1,,Mocovi,263_everyall,imaa,imaa,i m aː,,buckwalter2015b;rosso2010,,,,,3879,0,0,?
+Mocovi-263_everyall-2,,Mocovi,263_everyall,nemeeta,ne+meeta,n e + m eː t a,,buckwalter2015b;rosso2010,,,,,677 3879 169,0,0,_:3sg complete
+Mocovi-291_name-1,,Mocovi,291_name,leenaxat,l+eenaxat,l + eː n a ʁ a t,,buckwalter2015b;rosso2010,,,,,2615 4095,0,0,_:poss name
+Mocovi-292_old-1,,Mocovi,292_old,itereta,iter+eta,i + t e r + e t a,,buckwalter2015b;rosso2010,,,,,1345 2116 682,0,0,_:3sg worn.out _:?
+Mocovi-292_old-2,,Mocovi,292_old,leteraxaic,le+ter+axai+c,l e + t e r + a ʁ ai + k,,buckwalter2015b;rosso2010,,,,,2115 682 2116 5393,0,0,_:poss worn.out _:adj _:masc
+Mocovi-292_old-3,,Mocovi,292_old,leto,leto,l e + t o,,buckwalter2015b;rosso2010,,,,,682,0,0,_:poss old
+Mocovi-292_old-4,,Mocovi,292_old,ñaaue,ñaaue,ɲ aː u e,,buckwalter2015b;rosso2010,,,,,1344 1345,0,0,?
+Mocovi-292_old-5,,Mocovi,292_old,qo'xoic,qo'xoi+c,q o ʔ ʁ oi + k,,buckwalter2015b;rosso2010,,,,,2116 5393,0,0,old _:masc
+Mocovi-282_father-1,,Mocovi,282_father,leta'a,le+ta'a,l e + t a ʔ a,,buckwalter2015b;rosso2010,,,,,176 177,0,0,_:poss father
+Mocovi-100_smalllittle-1,,Mocovi,100_smalllittle,cocho'qui',cocho'qui',k o tʃ o ʔ k i ʔ,,buckwalter2015b;rosso2010,,,,,1356,0,0,?
+Mocovi-100_smalllittle-2,,Mocovi,100_smalllittle,lote',lote',l o t e ʔ,,buckwalter2015b;rosso2010,,,,,2618,0,0,?
+Mocovi-135_two-1,,Mocovi,135_two,doosolqai',doosolqai',d oː s o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,2119 687,0,0,?
+Mocovi-15_long-1,,Mocovi,15_long,ladoc,ladoc,l a d o k,,buckwalter2015b;rosso2010,,,,,187,0,0,?
+Mocovi-275_intestinesguts-1,,Mocovi,275_intestinesguts,lauelese',l+auel+ese',l + a w e l e s e ʔ,,buckwalter2015b;rosso2010,,,,,2627 2121,0,0,_:poss interior _:?
+Mocovi-188_smellvbtrans-1,,Mocovi,188_smellvbtrans,nomaqatecshiguim,nomaqatec+shiguim,n o m a q a t e k + ʃ i g i m,,buckwalter2015b;rosso2010,,,,,5398 3349,0,0,? _:up
+Mocovi-52_treecf08600-1,,Mocovi,52_treecf08600,qo'paq,qo+'paq,q o ʔ + p a q,,buckwalter2015b;rosso2010,,,,,5399 194,0,0,_:/qo tree
+Mocovi-47_sun-1,,Mocovi,47_sun,ra'aasa,ra'aasa,r a ʔ aː s a,,buckwalter2015b;rosso2010,,,,,198,0,0,?
+Mocovi-283_give-1,,Mocovi,283_give,nañan,nañ+an,n a ɲ + a n,,buckwalter2015b;rosso2010,,,,,5402 213,0,0,_:3sg give
+Mocovi-283_give-2,,Mocovi,283_give,ỹaan,ỹ+aan,j + aː n,,buckwalter2015b;rosso2010,,,,,2133 213,0,0,_:3sg give
+Mocovi-136_littlequantityfew-1,,Mocovi,136_littlequantityfew,sqalo,s+qalo,s + q a l o,,buckwalter2015b;rosso2010,,,,,5403 1406,0,0,not much
+Mocovi-136_littlequantityfew-2,,Mocovi,136_littlequantityfew,sqovite',sqo+vite',s q o + w i t e ʔ,,buckwalter2015b;rosso2010,,,,,5403 3195,0,0,not much
+Mocovi-147_muchmany-1,,Mocovi,147_muchmany,te'tegue,te'tegue,t e ʔ t e g e,,buckwalter2015b;rosso2010,,,,,3382,0,0,?
+Mocovi-147_muchmany-2,,Mocovi,147_muchmany,chalego,chalego,tʃ a l e g o,,buckwalter2015b;rosso2010,,,,,217 2653,0,0,?
+Mocovi-147_muchmany-3,,Mocovi,147_muchmany,chalo,chalo,tʃ a l o,,buckwalter2015b;rosso2010,,,,,217 1411,0,0,?
+Mocovi-147_muchmany-4,,Mocovi,147_muchmany,viteu',viteu',w i t e w ʔ,,buckwalter2015b;rosso2010,,,,,2654,0,0,?
+Mocovi-266_cold-1,,Mocovi,266_cold,om,om,o m,,buckwalter2015b;rosso2010,,,,,3390,0,0,?
+Mocovi-39_sit-1,,Mocovi,39_sit,icanlec,i+can+lec,i + k a n + l e k,,buckwalter2015b;rosso2010,,,,,222 1415 5404,0,0,_:3sg put _:loc
+Mocovi-39_sit-2,,Mocovi,39_sit,nelec,ne+lec,n e + l e k,,buckwalter2015b;rosso2010,,,,,221 5404,0,0,sit _:loc
+Mocovi-39_sit-3,,Mocovi,39_sit,nqa'xanlec,n+qa'xan+lec,n + q a ʔ ʁ a n + l e k,,buckwalter2015b;rosso2010,,,,,221 2138 5404,0,0,_:3sg put _:loc
+Mocovi-39_sit-4,,Mocovi,39_sit,neetashi'me,ne+etashi'me,n e + t a + ʃ i ʔ m + e,,buckwalter2015b;rosso2010,,,,,221 5405,0,0,stay _:asp _:dir _:loc
+Mocovi-39_sit-5,,Mocovi,39_sit,nqa'aamñi,n+qa'aam+ñi,n + q a ʔ aː m + ɲ i,,buckwalter2015b;rosso2010,,,,,5406 2138 221,0,0,_:3sg sit _:dir
+Mocovi-285_fruit-1,,Mocovi,285_fruit,la,la,l a,,buckwalter2015b;rosso2010,,,,,2144,0,0,?
+Mocovi-323_hold-1,,Mocovi,323_hold,icoñita'guit,i+coñi+ta'guit,i + k o ɲ i + t a ʔ + g i t,,buckwalter2015b;rosso2010,,,,,2661 730 4367,0,0,_:3sg hold _:asp _:loc
+Mocovi-323_hold-2,,Mocovi,323_hold,lo'qa'a,lo'qa'a,l o ʔ q a ʔ + a,,buckwalter2015b;rosso2010,,,,,3398,0,0,hold _:loc
+Mocovi-323_hold-3,,Mocovi,323_hold,naqajñi,n+aqaj+ñi,n + a q a h + ɲ i,,buckwalter2015b;rosso2010,,,,,5033 3398 730,0,0,_:3sg hold _:loc
+Mocovi-323_hold-4,,Mocovi,323_hold,necontagui,necon+tagui,n + e k o n + t a + g i,,buckwalter2015b;rosso2010,,,,,730 1427,0,0,_:3sg hold _:asp _:loc
+Mocovi-323_hold-5,,Mocovi,323_hold,icona,i+cona,i + k o n a,,buckwalter2015b;rosso2010,,,,,2661 730,0,0,_:3sg hold
+Mocovi-46_animal-1,,Mocovi,46_animal,lalo,la+lo,l a + l o,,buckwalter2015b;rosso2010,,,,,2663 5409,0,0,_:poss animal
+Mocovi-46_animal-2,,Mocovi,46_animal,isecỹac,isecỹac,i s e k j a k,,buckwalter2015b;rosso2010,,,,,2147,0,0,?
+Mocovi-290_mosquito-1,,Mocovi,290_mosquito,'ỹat,'ỹat,ˀj a t,,buckwalter2015b;rosso2010,,,,,232,0,0,?
+Mocovi-35_spider-1,,Mocovi,35_spider,palachiregaxa,palachiregaxa,p a l a tʃ i r e g a ʁ a,,buckwalter2015b;rosso2010,,,,,2148,0,0,?
+Mocovi-95_claw-1,,Mocovi,95_claw,lenat,le+nat,l e + n a t,,buckwalter2015b;rosso2010,,,,,5036 2150,0,0,_:poss nail
+Mocovi-57_arm-1,,Mocovi,57_arm,lqai'laxat,l+qai'laxat,l + q ai ʔ l + a ʁ a t,,buckwalter2015b;rosso2010,,,,,5410 5411,0,0,_:poss hug _:nmlz
+Mocovi-57_arm-2,,Mocovi,57_arm,laua,l+aua,l + a w a,,buckwalter2015b;rosso2010,,,,,5410 739,0,0,_:poss arm
+Mocovi-102_horn-1,,Mocovi,102_horn,lasote,la+sote,l a + s o t e,,buckwalter2015b;rosso2010,,,,,2154 237,0,0,_:poss horn
+Mocovi-58_beard-1,,Mocovi,58_beard,laqareue,l+aqareue,l + a q a r + e w e,,buckwalter2015b;rosso2010,,,,,2156 239 239,0,0,_:poss chin hair
+Mocovi-254_chest-1,,Mocovi,254_chest,lotogue,l+otogue,l + o t o g e,,buckwalter2015b;rosso2010,,,,,4386 2161,0,0,_:poss chest
+Mocovi-254_chest-2,,Mocovi,254_chest,lo'ueete,l+o'ueete,l + o ʔ u eː t e,,buckwalter2015b;rosso2010,,,,,4386 2160,0,0,_:poss chest
+Mocovi-61_chin-1,,Mocovi,61_chin,laqa',l+aqa',l + a q a ʔ,,buckwalter2015b;rosso2010,,,,,2162 2163,0,0,_:poss chin
+Mocovi-62_lip-1,,Mocovi,62_lip,laapi',l+aapi',l + aː p i ʔ,,buckwalter2015b;rosso2010,,,,,5413 2165,0,0,_:poss lip
+Mocovi-62_lip-2,,Mocovi,62_lip,laqa',l+aqa',l + a q a ʔ,,buckwalter2015b;rosso2010,,,,,5413 2164,0,0,_:poss lip
+Mocovi-62_lip-3,,Mocovi,62_lip,niñip,niñip,n + i ɲ i p,,buckwalter2015b;rosso2010,,,,,1443,0,0,_:poss lip
+Mocovi-64_finger-1,,Mocovi,64_finger,lpalaaqate,l+palaaqate,l + p a l aː q a t e,,buckwalter2015b;rosso2010,,,,,2170 244,0,0,_:poss finger
+Mocovi-281_elbow-1,,Mocovi,281_elbow,lqo'gue,l+qo'gue,l + q o ʔ g e,,buckwalter2015b;rosso2010,,,,,2171 245,0,0,_:poss elbow
+Mocovi-94_fingernail-1,,Mocovi,94_fingernail,lenat,le+nat,l e + n a t,,buckwalter2015b;rosso2010,,,,,2680 2172,0,0,_:poss nail
+Mocovi-299_thunder-1,,Mocovi,299_thunder,nalataxa,nalataxa,n a l a t a ʁ a,,buckwalter2015b;rosso2010,,,,,4119,0,0,?
+Mocovi-299_thunder-2,,Mocovi,299_thunder,soxonaxa,soxonaxa,s o ʁ o n a ʁ a,,buckwalter2015b;rosso2010,,,,,2174,0,0,?
+Mocovi-109_lightning-1,,Mocovi,109_lightning,nqai'legaxa,nqai'legaxa,n + q ai ʔ l e g + a ʁ a,,buckwalter2015b;rosso2010,,,,,255,0,0,_:3sg strike _:nmlz
+Mocovi-126_liedown-1,,Mocovi,126_liedown,nqa'paxanegue,nqa'paxan+egue,n + q a ʔ p a ʁ a n + e g e,,buckwalter2015b;rosso2010,,,,,5417 4397,0,0,_:3sg lie.down _:loc
+Mocovi-126_liedown-2,,Mocovi,126_liedown,nenantañi,nenanta+ñi,n e + n a n + t a + ɲ i,,buckwalter2015b;rosso2010,,,,,5418 259,0,0,_:3sg lie _:asp _:dir
+Mocovi-126_liedown-3,,Mocovi,126_liedown,ladogoỹalec,ladogoỹa+lec,l a d o g + o j a + l e k,,buckwalter2015b;rosso2010,,,,,4397 4396,0,0,long _:vblz _:loc
+Mocovi-126_liedown-4,,Mocovi,126_liedown,icanagui,icana+gui,i + k a n + a g i,,buckwalter2015b;rosso2010,,,,,4395 5419,0,0,_:3sg lie.down _:loc
+Mocovi-72_house-1,,Mocovi,72_house,lauo',la+uo',l a + w o ʔ,,buckwalter2015b;rosso2010,,,,,2179 2699,0,0,_:poss house
+Mocovi-72_house-2,,Mocovi,72_house,la'a',l+a'a',l + a ʔ a ʔ,,buckwalter2015b;rosso2010,,,,,2179 4695,0,0,_:poss house
+Mocovi-101_child-1,,Mocovi,101_child,noctoqui',noctoqui',n o k t o k i ʔ,,buckwalter2015b;rosso2010,,,,,2180,0,0,?
+Mocovi-296_road-1,,Mocovi,296_road,llicyaxac,ll+icyaxac,ʎ + i k + ʒ a ʁ a k,,buckwalter2015b;rosso2010,,,,,5422 2182,0,0,_:poss road ?
+Mocovi-296_road-2,,Mocovi,296_road,nayic,nayic,n a ʒ i k,,buckwalter2015b;rosso2010,,,,,2182,0,0,?
+Mocovi-150_ten-1,,Mocovi,150_ten,diesolqai',dies+olqai',d j e s o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,3441 5423,0,0,?
+Mocovi-132_float-1,,Mocovi,132_float,naỹoxonshiguim,na+ỹoxon+shiguim,n a + j o + ʁ o n + ʃ i g i m,,buckwalter2015b;rosso2010,,,,,2186 2185 2187,0,0,_:3sg fly _:vblz _:dir
+Mocovi-132_float-2,,Mocovi,132_float,ỹaỹoxontac,ỹa+ỹoxon+tac,j a + j o + ʁ o n + t a k,,buckwalter2015b;rosso2010,,,,,2184 2185 1477,0,0,_:3sg fly _:vblz _:asp
+Mocovi-110_fightvb-1,,Mocovi,110_fightvb,iloquin,i+loqui+n,i + l o k i + n,,buckwalter2015b;rosso2010,,,,,1479 273 1480,0,0,_:3sg fight _:asp
+Mocovi-110_fightvb-2,,Mocovi,110_fightvb,nalauat,n+alauat,n + a l a w a t,,buckwalter2015b;rosso2010,,,,,1480 3443,0,0,_:3sg kill
+Mocovi-110_fightvb-3,,Mocovi,110_fightvb,nco'ua,n+co'ua,n + k o ʔ u a,,buckwalter2015b;rosso2010,,,,,1480 2708,0,0,_:3sg fight
+Mocovi-110_fightvb-4,,Mocovi,110_fightvb,nouaxan,nouaxan,n o + w a ʁ a n,,buckwalter2015b;rosso2010,,,,,771,0,0,_:3sg hit
+Mocovi-293_owl-1,,Mocovi,293_owl,quichiguiguit,quichiguiguit,k i tʃ i g i g i t,,buckwalter2015b;rosso2010,,,,,4698,0,0,?
+Mocovi-293_owl-2,,Mocovi,293_owl,chirit,chirit,tʃ i r i t,,buckwalter2015b;rosso2010,,,,,4130,0,0,?
+Mocovi-273_cat-1,,Mocovi,273_cat,regat,regat,r e g a t,,buckwalter2015b;rosso2010,,,,,2192,0,0,?
+Mocovi-273_cat-2,,Mocovi,273_cat,pollo',pollo',p o ʎ o ʔ,,buckwalter2015b;rosso2010,,,,,5426,0,0,?
+Mocovi-55_bee-1,,Mocovi,55_bee,qoñi' lauoic,qoñi' lauoic,q o ɲ i ʔ + l a w oi k,,buckwalter2015b;rosso2010,,,,,1494 283,0,0,honey bee
+Mocovi-55_bee-2,,Mocovi,55_bee,rapic lauoic,rapic lauoic,r a p i k + l a w oi k,,buckwalter2015b;rosso2010,,,,,2718 283,0,0,honey bee
+Mocovi-55_bee-3,,Mocovi,55_bee,rapic lapaxat,rapic lapaxat,r a p i k + l + a p a ʁ a t,,buckwalter2015b;rosso2010,,,,,2718 2718,0,0,honey _:poss insect
+Mocovi-55_bee-4,,Mocovi,55_bee,naqatec lauoic,naqatec lauoic,n a q a t e k + l a w oi k,,buckwalter2015b;rosso2010,,,,,1492 283,0,0,lechiguana/take.out bee
+Mocovi-289_parrot-1,,Mocovi,289_parrot,tallic lase,tallic lase,t a ʎ i k + l a s e,,buckwalter2015b;rosso2010,,,,,5427 2194,0,0,? _:fem
+Mocovi-289_parrot-2,,Mocovi,289_parrot,eele',eele',eː l e ʔ,,buckwalter2015b;rosso2010,,,,,2194,0,0,?
+Mocovi-289_parrot-3,,Mocovi,289_parrot,quillic,quillic,k i ʎ i k,,buckwalter2015b;rosso2010,,,,,284,0,0,?
+Mocovi-128_flea-1,,Mocovi,128_flea,pioq lapaxat,pioq l+apaxat,p j o q + l + a p a ʁ a t,,buckwalter2015b;rosso2010,,,,,287 289 290,0,0,dog _:poss insect
+Mocovi-166_deer-1,,Mocovi,166_deer,peele,peele,p eː l e,,buckwalter2015b;rosso2010,,,,,4410,0,0,?
+Mocovi-118_ant-1,,Mocovi,118_ant,chinaq,chinaq,tʃ i n a q,,buckwalter2015b;rosso2010,,,,,5429 299,0,0,?
+Mocovi-99_palmofhand-1,,Mocovi,99_palmofhand,napoquena lauel,na+poquena la+uel,n a + p o k e n a + l a + w e l,,buckwalter2015b;rosso2010,,,,,300 301 302 303,0,0,_:poss hand _:poss interior
+Mocovi-89_fur-1,,Mocovi,89_fur,loshicmaxa,loshicmaxa,l + o ʃ i k m a ʁ a,,buckwalter2015b;rosso2010,,,,,5430,0,0,_:poss fur
+Mocovi-42_hairhead-1,,Mocovi,42_hairhead,laue,l+aue,l + a w e,,buckwalter2015b;rosso2010,,,,,2207 2208,0,0,_:poss hair
+Mocovi-249_penis-1,,Mocovi,249_penis,nco'ue,n+co'ue,n + k o ˀw e,,buckwalter2015b;rosso2010,,,,,5431,0,0,_:poss penis
+Mocovi-249_penis-2,,Mocovi,249_penis,no'lo,no'lo,n + o ʔ l o,,buckwalter2015b;rosso2010,,,,,5431,0,0,_:poss penis
+Mocovi-88_skull-1,,Mocovi,88_skull,lqahic lpi'nec,l+qahic l+pi'nec,l + q a h i k + l + p i ʔ n e k,,buckwalter2015b;rosso2010,,,,,2210 2211 2212 2213,0,0,_:poss head _:poss bone
+Mocovi-288_lung-1,,Mocovi,288_lung,lachi,l+achi,l + a tʃ i,,buckwalter2015b;rosso2010,,,,,2220 2221,0,0,_:poss lung
+Mocovi-200_testicle-1,,Mocovi,200_testicle,lola,l+ola,l o + l a,,buckwalter2015b;rosso2010,,,,,5437 4711,0,0,_:poss testicle
+Mocovi-124_bed-1,,Mocovi,124_bed,lómala',l+ómala',l + o m a l a ʔ,,buckwalter2015b;rosso2010,,,,,2230 2233,0,0,_:poss bed
+Mocovi-124_bed-2,,Mocovi,124_bed,lo'paxala',l+o'pa+xala',l + o ʔ p + a ʁ a + l a ʔ,,buckwalter2015b;rosso2010,,,,,2230 819 2232 2233,0,0,_:poss ? _:val _:loc
+Mocovi-143_plantvb-1,,Mocovi,143_plantvb,ỹanñi,ỹ+an+ñi,j + a n + ɲ i,,buckwalter2015b;rosso2010,,,,,2767 3494 823,0,0,_:3sg put _:dir
+Mocovi-73_village-1,,Mocovi,73_village,na'a',na'a',n a ʔ a ʔ,,buckwalter2015b;rosso2010,,,,,2774,0,0,?
+Mocovi-60_doorgate-1,,Mocovi,60_doorgate,lasom,lasom,l + a s o m,,buckwalter2015b;rosso2010,,,,,324,0,0,_:poss door
+Mocovi-76_cover-1,,Mocovi,76_cover,nalolec,n+alo+lec,n + a l o + l e k,,buckwalter2015b;rosso2010,,,,,5448 5449,0,0,_:3sg extend _:loc
+Mocovi-76_cover-2,,Mocovi,76_cover,napoñi,n+apo+ñi,n + a p o + ɲ i,,buckwalter2015b;rosso2010,,,,,4718 2783 5448,0,0,_:3sg close _:dir
+Mocovi-76_cover-3,,Mocovi,76_cover,no'qajlec,no'qa+jlec,n o ʔ q a t + l e k,,buckwalter2015b;rosso2010,,,,,5448 5449,0,0,fill _:loc
+Mocovi-76_cover-4,,Mocovi,76_cover,ỹapo'ñigui,ỹa+po'+ñigui,j + a p o ʔ + ɲ i + g i,,buckwalter2015b;rosso2010,,,,,5450 2783 5448,0,0,_:3sg close _:dir _:loc
+Mocovi-278_buy-1,,Mocovi,278_buy,reshiujnaxana,re+shiujn+axan+a,r e + ʃ j u h n + a ʁ a n + a,,buckwalter2015b;rosso2010,,,,,1563 5451 2237 2789,0,0,_:3sg buy _:val _:3O
+Mocovi-123_burnvbintrans-1,,Mocovi,123_burnvbintrans,nachipishiguim,nachipi+shiguim,n a tʃ i p i + ʃ i g i m,,buckwalter2015b;rosso2010,,,,,328 4721,0,0,burn _:dir
+Mocovi-123_burnvbintrans-2,,Mocovi,123_burnvbintrans,ỹavic,ỹ+avic,j + a w i k,,buckwalter2015b;rosso2010,,,,,2790 325,0,0,_:3sg burn
+Mocovi-158_nine-1,,Mocovi,158_nine,nueevolqai',nueevolqai',n w eː w o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,3509 4441,0,0,?
+Mocovi-103_club-1,,Mocovi,103_club,nepon,nepon,n e + p o n,,buckwalter2015b;rosso2010,,,,,334,0,0,_:poss club
+Mocovi-271_sweetpotato-1,,Mocovi,271_sweetpotato,huatáta,huatáta,w a t a t a,,buckwalter2015b;rosso2010,,,,,846,0,0,?
+Mocovi-156_seven-1,,Mocovi,156_seven,sietolqai',siet+olqai',s j e t o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,847 3909,0,0,?
+Mocovi-86_path-1,,Mocovi,86_path,llicyaxac,ll+icyaxac,ʎ + i k + ʒ a ʁ a k,,buckwalter2015b;rosso2010,,,,,5460 2242,0,0,_:poss path ?
+Mocovi-86_path-2,,Mocovi,86_path,nayic,nayic,n a ʒ i k,,buckwalter2015b;rosso2010,,,,,2242,0,0,?
+Mocovi-169_knife-1,,Mocovi,169_knife,lecat,lecat,l + e k a t,,buckwalter2015b;rosso2010,,,,,5462,0,0,_:poss knife
+Mocovi-170_needle-1,,Mocovi,170_needle,na,na,n a,,buckwalter2015b;rosso2010,,,,,1596,0,0,?
+Mocovi-104_soulspirit-1,,Mocovi,104_soulspirit,la'al,l+a'al,l + a ʔ a l,,buckwalter2015b;rosso2010,,,,,2821 344,0,0,_:poss soul
+Mocovi-104_soulspirit-2,,Mocovi,104_soulspirit,lqui'i,l+qui'i,l + k i ʔ i,,buckwalter2015b;rosso2010,,,,,2821 344,0,0,_:poss soul
+Mocovi-277_cryweep-1,,Mocovi,277_cryweep,noỹen,noỹen,n + o j e n,,buckwalter2015b;rosso2010,,,,,4156,0,0,_:3sg cry
+Mocovi-277_cryweep-2,,Mocovi,277_cryweep,naualaxañi,n+aualaxa+ñi,n + a w a l a ʁ a + ɲ i,,buckwalter2015b;rosso2010,,,,,5467 3915 4156,0,0,_:3sg scream _:dir
+Mocovi-155_six-1,,Mocovi,155_six,saisolqai',saisolqai',s ai s o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,5468 5469,0,0,?
+Mocovi-287_maizecorn-1,,Mocovi,287_maizecorn,nasoolec,nasoolec,n a s oː l e k,,buckwalter2015b;rosso2010,,,,,350,0,0,?
+Mocovi-206_oldman-1,,Mocovi,206_oldman,qo'xoic,qo'xoic,q o ʔ ʁ oi + k,,buckwalter2015b;rosso2010,,,,,355,0,0,old _:masc
+Mocovi-300_tobacco-1,,Mocovi,300_tobacco,laseerec,l+aseerec,l + a s eː r e k,,buckwalter2015b;rosso2010,,,,,4736 2248,0,0,_:poss tobacco
+Mocovi-295_ripe-1,,Mocovi,295_ripe,yi,yi,j i,,buckwalter2015b;rosso2010,,,,,5475,0,0,?
+Mocovi-270_tapiocamanioccassava-1,,Mocovi,270_tapiocamanioccassava,mayóca,mayóca,m a ʒ o k a,,buckwalter2015b;rosso2010,,,,,884,0,0,?
+Mocovi-157_eight-1,,Mocovi,157_eight,'oocholqai','oocholqai',ʔ oː tʃ o l q ai ʔ,,buckwalter2015b;rosso2010,,,,,5477 5478,0,0,?
+Mocovi-159_cook-1,,Mocovi,159_cook,ỹanaq,ỹ+anaq,j + a n a q,,buckwalter2015b;rosso2010,,,,,901 1699,0,0,_:3sg cook
+Mocovi-207_oldwoman-1,,Mocovi,207_oldwoman,qo'xoi,qo'xoi,q o ʔ ʁ oi,,buckwalter2015b;rosso2010,,,,,389,0,0,?
+Mocovi-142_sap-1,,Mocovi,142_sap,nate,nate,n a t e,,buckwalter2015b;rosso2010,,,,,906,0,0,?
+Mocovi-36_spiderweb-1,,Mocovi,36_spiderweb,palachiregaxa lala',palachiregaxa la+la',p a l a tʃ i r e g a ʁ a + l a + l a ʔ,,buckwalter2015b;rosso2010,,,,,2271 5490 2876,0,0,spider _:poss ?
+Mocovi-252_cow-1,,Mocovi,252_cow,huaca,huaca,w a k a,,buckwalter2015b;rosso2010,,,,,297,0,0,?
+Mocovi-173_lizard-1,,Mocovi,173_lizard,lecolaxaraic,lecolaxaraic,l e k o l a ʁ a r ai k,,buckwalter2015b;rosso2010,,,,,2274 395 5495 4482 394,0,0,?
+Mocovi-267_nest-1,,Mocovi,267_nest,lauaquiaxaqui,l+auaqu+iaxaqui,l + a w a k + j a ʁ a k i,,buckwalter2015b;rosso2010,,,,,2276 5110 5496 2278,0,0,_:poss hole _:nmlz
+Mocovi-267_nest-2,,Mocovi,267_nest,lco'viichaxaqui,l+co'vii+chaxaqui,l + k o ˀw iː + tʃ a ʁ a k i,,buckwalter2015b;rosso2010,,,,,2276 5496 2278,0,0,_:poss egg _:nmlz
+Mocovi-116_goat-1,,Mocovi,116_goat,quetaq,quetaq,k e t a q,,buckwalter2015b;rosso2010,,,,,1725,0,0,?
+Mocovi-117_hegoat-1,,Mocovi,117_hegoat,quetaq,quetaq,k e t a q,,buckwalter2015b;rosso2010,,,,,1734,0,0,?
+Mocovi-302_pig-1,,Mocovi,302_pig,cos,cos,k o s,,buckwalter2015b;rosso2010,,,,,920,0,0,?
+Mocovi-174_dove-1,,Mocovi,174_dove,cocon,cocon,k o k o n,,buckwalter2015b;rosso2010,,,,,406,0,0,?
+Mocovi-174_dove-2,,Mocovi,174_dove,coviguiñic,coviguiñic,k o w i g i ɲ i k,,buckwalter2015b;rosso2010,,,,,406,0,0,?
+Mocovi-174_dove-3,,Mocovi,174_dove,co'toco',co'toco',k o ʔ t o k o ʔ,,buckwalter2015b;rosso2010,,,,,923,0,0,?
+Mocovi-260_crocodilealligator-1,,Mocovi,260_crocodilealligator,naanoc,naanoc,n aː n o k,,buckwalter2015b;rosso2010,,,,,1747,0,0,?
+Mocovi-186_shell-1,,Mocovi,186_shell,recona,recona,r e k o n a,,buckwalter2015b;rosso2010,,,,,5120,0,0,?
+Mocovi-186_shell-2,,Mocovi,186_shell,naqalligo,naqalligo,n a q a ʎ i g o,,buckwalter2015b;rosso2010,,,,,5509,0,0,?
+Mocovi-245_snail-1,,Mocovi,245_snail,leta'guellic,let+a'guellic,l e t + a ʔ g e + ʎ + i k,,buckwalter2015b;rosso2010,,,,,3623 421,0,0,wet _:loc _:poss path
+Mocovi-160_fox-1,,Mocovi,160_fox,nouaxaỹaxa,nouaxaỹaxa,n o w a ʁ a j a ʁ a,,buckwalter2015b;rosso2010,,,,,940,0,0,?
+Mocovi-113_horseequine-1,,Mocovi,113_horseequine,shipgaq,shipgaq,ʃ i p g a q,,buckwalter2015b;rosso2010,,,,,435,0,0,?
+Mocovi-91_fishscale-1,,Mocovi,91_fishscale,leso,l+eso,l e + s o,,buckwalter2015b;rosso2010,,,,,2938 444,0,0,_:poss fishscale
+Mocovi-2_beehive-1,,Mocovi,2_beehive,le'xona,le'xona,l e ʔ ʁ o n a,,buckwalter2015b;rosso2010,,,,,5535,0,0,?
+Mocovi-115_sheep-1,,Mocovi,115_sheep,qagreta,qagreta,q a g r e t a,,buckwalter2015b;rosso2010,,,,,2311,0,0,?
+Mocovi-96_findorsal-1,,Mocovi,96_findorsal,lelaxase,lelax+ase,l e + l a ʁ a + s e,,buckwalter2015b;rosso2010,,,,,5536 2949,0,0,_:poss back _:?
+Mocovi-256_bull-1,,Mocovi,256_bull,tooro,tooro,t oː r o,,buckwalter2015b;rosso2010,,,,,2312,0,0,?
+Mocovi-255_ox-1,,Mocovi,255_ox,tooro,tooro,t oː r o,,buckwalter2015b;rosso2010,,,,,1805,0,0,?
+Mocovi-255_ox-2,,Mocovi,255_ox,lauegaxanaxala',l+aueg+axan+axala',l + a w e g + a ʁ a n + a ʁ a l a ʔ,,buckwalter2015b;rosso2010,,,,,5540 454 5541 1805 5542,0,0,_:poss carry _:val _:nmlz
+Mocovi-255_ox-3,,Mocovi,255_ox,ñii'lola,ñii'lola,ɲ iː ʔ l o l a,,buckwalter2015b;rosso2010,,,,,5542,0,0,?
+Mocovi-253_bear-1,,Mocovi,253_bear,layoraxai late'e,layoraxai l+ate'e,l a ʒ o r a ʁ ai + l + a t e ʔ e,,buckwalter2015b;rosso2010,,,,,5543 5544 455,0,0,anteater _:poss mother
+Mocovi-242_assdonkey-1,,Mocovi,242_assdonkey,'ashin,'ashin,ʔ a ʃ i n,,buckwalter2015b;rosso2010,,,,,457,0,0,?
+Mocovi-284_hawk-1,,Mocovi,284_hawk,niviguiñic,niviguiñic,n i w i g i ɲ i k,,buckwalter2015b;rosso2010,,,,,5545,0,0,?
+Mocovi-284_hawk-2,,Mocovi,284_hawk,qatañiguit,qatañiguit,q a t a ɲ i g i t,,buckwalter2015b;rosso2010,,,,,458,0,0,?
+Mocovi-257_wasp-1,,Mocovi,257_wasp,rapic,rapic,r a p i k,,buckwalter2015b;rosso2010,,,,,2966,0,0,?
+Mocovi-257_wasp-2,,Mocovi,257_wasp,lauanate' leta'a,laua+nate' le+ta'a,l a w a + n a t e ʔ + l e + t a ʔ a,,buckwalter2015b;rosso2010,,,,,459 2964 460,0,0,earth _:? _:poss father
+Mocovi-70_eyelid-1,,Mocovi,70_eyelid,nqote lapo',n+qote la+po',n + q o t e + l a + p o ʔ,,buckwalter2015b;rosso2010,,,,,2332 986 2334 5550,0,0,_:poss eye _:poss cover
+Mocovi-70_eyelid-2,,Mocovi,70_eyelid,nqote laqa',n+qote la+qa',n + q o t e + l a + q a ʔ,,buckwalter2015b;rosso2010,,,,,2332 986 2334 5550,0,0,_:poss eye _:poss chin
+Mocovi-40_borntobe-1,,Mocovi,40_borntobe,ne'qaañi,ne'qaa+ñi,n e ʔ q aː + ɲ i,,buckwalter2015b;rosso2010,,,,,2990 2339 2338,0,0,be.born _:down
+Mocovi-259_eyelash-1,,Mocovi,259_eyelash,rade,r+ade,r + a d e,,buckwalter2015b;rosso2010,,,,,474 1831,0,0,_:poss eyelash
+Mocovi-121_footprint-1,,Mocovi,121_footprint,lliguiñi,lligui+ñi,ʎ + i g i + ɲ i,,buckwalter2015b;rosso2010,,,,,482 1855,0,0,_:poss path/go _:dir
+Mocovi-258_poison-1,,Mocovi,258_poison,ledoonaxa,le+doon+axa,l e + d oː n + a ʁ a,,buckwalter2015b;rosso2010,,,,,5173 1014 2353,0,0,_:poss poison _:nmlz
+Mocovi-301_urinate-1,,Mocovi,301_urinate,nqo'xon,n+qo'xon,n + q o ʔ ʁ o n,,buckwalter2015b;rosso2010,,,,,5566 3994,0,0,_:3sg urinate
+Mocovi-77_nippleteat-1,,Mocovi,77_nippleteat,lo'ueete lqahic,l+o'ueete l+qahic,l + o ʔ u eː t e + l + q a h i k,,buckwalter2015b;rosso2010,,,,,5567 3032 5568 1023,0,0,_:poss breast _:poss head
+Mocovi-81_spine-1,,Mocovi,81_spine,lelaq lpi'nec,le+laq l+pi'nec,l e + l a q + l + p i ʔ n e k,,buckwalter2015b;rosso2010,,,,,2378 3053 6 54,0,0,_:poss back _:poss bone
+Mocovi-294_pus-1,,Mocovi,294_pus,li'i,l+i'i,l + i ʔ i,,buckwalter2015b;rosso2010,,,,,4944 3067,0,0,_:poss pus
+Mocovi-68_womb-1,,Mocovi,68_womb,lco'oxoqui,l+co'o+xoqui,l + k o ʔ o + ʁ o k i,,buckwalter2015b;rosso2010,,,,,6 4813 1054 497,0,0,_:poss conceive :nmlz
+Mocovi-84_veinartery-1,,Mocovi,84_veinartery,lo'oota,lo'oota,l o + ʔ oː t a,,buckwalter2015b;rosso2010,,,,,498,0,0,_:poss vein
+Mocovi-144_mute-1,,Mocovi,144_mute,moorotec,moorotec,m oː r o t e k,,buckwalter2015b;rosso2010,,,,,1068 5593,0,0,?
+Mocovi-63_thumb-1,,Mocovi,63_thumb,lpalaaqate late'ogue',l+palaaqate l+ate'ogue',l + p a l aː q a t e + l + a t e ʔ o g e ʔ,,buckwalter2015b;rosso2010,,,,,2407 2406 5596 1919,0,0,_:poss finger _:poss big
+Mocovi-80_beak-1,,Mocovi,80_beak,laapi',l+aapi',l + aː p i ʔ,,buckwalter2015b;rosso2010,,,,,5413 2165,0,0,_:poss lip
+Mocovi-134_itch-1,,Mocovi,134_itch,reshiqui,re+shiqui,r e + ʃ i k i,,buckwalter2015b;rosso2010,,,,,5602 2423,0,0,_:3sg itch
+Mocovi-269_wakeup-1,,Mocovi,269_wakeup,nelouec,ne+lo+uec,n e + l o + w e k,,buckwalter2015b;rosso2010,,,,,1933 2426 2427,0,0,_:3sg look _:dir
+Mocovi-269_wakeup-2,,Mocovi,269_wakeup,nqo'xon,n+qo'xon,n + q o ʔ ʁ o n,,buckwalter2015b;rosso2010,,,,,1933 3092,0,0,_:3sg wake.up
+Mocovi-71_window-1,,Mocovi,71_window,nqote,n+qote,n + q o t e,,buckwalter2015b;rosso2010,,,,,1943 1944,0,0,_:poss eye
+Mocovi-127_cousin-1,,Mocovi,127_cousin,lqaỹa liỹa,l+qaỹa l+iỹa,l + q a j a + l + i j a,,buckwalter2015b;rosso2010,,,,,2436 514 5606 2435,0,0,_:poss sibling _:poss other
+Mocovi-87_place-1,,Mocovi,87_place,la'a',l+a'a',l + a ʔ a ʔ,,buckwalter2015b;rosso2010,,,,,5608,0,0,_:poss place
+Mocovi-87_place-2,,Mocovi,87_place,loma',lo+ma',l o + m a ʔ,,buckwalter2015b;rosso2010,,,,,5609 3807,0,0,_:poss place
+Mocovi-87_place-3,,Mocovi,87_place,lo'ueetqa',l+o'ueetqa',l + o ʔ u eː t q a ʔ,,buckwalter2015b;rosso2010,,,,,5609 2439 5610,0,0,_:poss place
+Mocovi-87_place-4,,Mocovi,87_place,laa'yi,l+aa'yi,l + aː ʔ ʒ i,,buckwalter2015b;rosso2010,,,,,5608,0,0,_:poss place
+Mocovi-137_potter-1,,Mocovi,137_potter,cá'maq ỹo'ueetac ano no'xona 'laua,cá'maq ỹo+'uee+tac ana no'xona 'la+ua,k a ʔ m a q + j + o ʔ u eː + t a k + a n a + n o ʔ ʁ o n a + ʔ l a + w a,,buckwalter2015b;rosso2010,,,,,4036 5614 5615 1105 5616 1104 5617 5234,0,0,_:det _:3sg make _:asp _:det clay earth
+Mocovi-105_shadeshadow-1,,Mocovi,105_shadeshadow,la'al,l+a'al,l + a ʔ a l,,buckwalter2015b;rosso2010,,,,,5621 2440,0,0,_:poss shade
+Mocovi-69_parents-1,,Mocovi,69_parents,leta'al,le+ta'al,l e + t a ʔ a l,,buckwalter2015b;rosso2010,,,,,4563 1980,0,0,_:poss father _:pauc
+Mocovi-165_write-1,,Mocovi,165_write,ỹiriñi,ỹi+r+iñi,j i + r + i ɲ i,,buckwalter2015b;rosso2010,,,,,1987 5626 1985,0,0,_:3sg write _:dir
+Mocovi-165_write-2,,Mocovi,165_write,ỹi',ỹi',j i ʔ,,buckwalter2015b;rosso2010,,,,,1987,0,0,?
+Mocovi-165_write-3,,Mocovi,165_write,deraxan,de+r+axan,d e + r + a ʁ a n,,buckwalter2015b;rosso2010,,,,,1983 5626 5240,0,0,_:3sg write _:val
+Mocovi-122_altar-1,,Mocovi,122_altar,ncopatoxolate,n+copat+oxo+late,n + k o p a t + o ʁ o + l a t e,,buckwalter2015b;rosso2010,,,,,1995 5633 4050,0,0,_:poss burn _:val _:loc
+Mocovi-107_summer-1,,Mocovi,107_summer,ñaaxa,ñaaxa,ɲ aː ʁ a,,buckwalter2015b;rosso2010,,,,,5637 1122,0,0,?
 Nivacle-85_blood-1,,Nivacle,85_blood,voiyei,voi+yei,ʋ oi j ei,,seelwische1980,,,,,5638 1124,0,0,?
 Nivacle-59_mouth-1,,Nivacle,59_mouth,ashi,ashi,a ʃ i,,seelwische1980,,,,,2481,0,0,?
 Nivacle-79_head-1,,Nivacle,79_head,shatech,shatech,ʃ a t e tʃ,,seelwische1980,,,,,7,0,0,?
@@ -4734,7 +4734,7 @@ Enlhet-67_lake-5,,Enlhet,67_lake,va'lhvoc,va'lhvoc,w a ʔ ɬ w o k,,unruh1997;ka
 Manjui-109_lightning-2,,Manjui,109_lightning,aa izém',aa izém',aː + i ʃ e m ʔ,,carol2018,,,,,4640 3290,0,0,hit down
 Nivacle-109_lightning-2,,Nivacle,109_lightning,yiclônshicham ca fchinaj,yi+clôn+shicham ca fchinaj,j i + kʟ̥ o n + ʃ i tʃ a m + k a + f tʃ i n a x,,seelwische1980,,,,,0 3314 3500 3501 3499 3501 3314 0 3314 3310 3310 3311 3311 3310,0,0,_:3sg hit down _:det lightning
 Toba-109_lightning-3,,Toba,109_lightning,nhuaxanaxaategueñi aso qasoxonaxa,nhuaxanaxaategueñi aso qasoxonaxa,n + w a ʁ a n + a ʁ aː + t e g e ɲ i + a + s o + q a s o ʁ o n a ʁ a,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,1 6383 6722 6723 2132 6724 6725 255,0,0,_:3sg hit _:val _:dir _:fem _:det lightning
-Mocovi-109_lightning-2,,Mocovi,109_lightning,nouaxañi’ña,nouaxañi’ña,n o + w a ʁ a ɲ + i ʔ ɲ + a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:3sg hit _:dir _:loc
+Mocovi-109_lightning-2,,Mocovi,109_lightning,nouaxañi’ña,nouaxañi’ña,n o + w a ʁ a ɲ + i ʔ ɲ + a,,buckwalter2015b;rosso2010,,,,,,0,0,_:3sg hit _:dir _:loc
 Chorote-109_lightning-2,,Chorote,109_lightning,yej isia'm,yej isia'm,j e x + i s j a ʔ m,,drayson2009;scarpa2010,,,,,,0,0,hit down
 Chorote-112_guitara-1,,Chorote,112_guitara,a’lenta kias ji’wole,a’lenta kias ji’wole,a ˀl e n t a + k j a s + x i + ˀw o l e,,drayson2009;scarpa2010,,,,,0 8074 0,0,0,horse tail _:poss hair
 EnxetSur-219_boerhaviacoccinea-1,,EnxetSur,219_boerhaviacoccinea,Aléwa,aléwa,ʌ l eː w ʌ,,curtis2018,,,,,6735,None,None,?
@@ -4864,9 +4864,9 @@ Toba-322_crotophagamajor-1,,Toba,322_crotophagamajor,tanaxai late'e,tanaxai l+at
 Toba-250_chaunatorquata-1,,Toba,250_chaunatorquata,taqaq,taqaq,t a q a q,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,7188,None,None,?
 Toba-308_dendrocygnabicolor-2,,Toba,308_dendrocygnabicolor,villilli',villilli',ʋ i ʎ i ʎ i ʔ,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,7200,None,None,?
 Toba-220_busarellusnigricollis-2,,Toba,220_busarellusnigricollis,ỹapaxac lqaic,ỹapaxac l+qaic,j a + p a ʁ a k + l + q ai k,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,7204 6916 7036,None,None,_:3sg white _:poss head
-Mocovi-48_schinopsisbalansae-1,,Mocovi,48_schinopsisbalansae,cotapic,cotapic,k o t a p + i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,2903 6081,None,None,autumn tree
-Mocovi-108_prosopisalba-1,,Mocovi,108_prosopisalba,mapic,mapic,m a p i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,6850,None,None,?
-Mocovi-233_heimiasalicifolia-1,,Mocovi,233_heimiasalicifolia,patenanqachic,patenanqachic,p a t e n a n q a tʃ i k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,6997,None,None,?
+Mocovi-48_schinopsisbalansae-1,,Mocovi,48_schinopsisbalansae,cotapic,cotapic,k o t a p + i k,,buckwalter2015b;rosso2010,,,,,2903 6081,None,None,autumn tree
+Mocovi-108_prosopisalba-1,,Mocovi,108_prosopisalba,mapic,mapic,m a p i k,,buckwalter2015b;rosso2010,,,,,6850,None,None,?
+Mocovi-233_heimiasalicifolia-1,,Mocovi,233_heimiasalicifolia,patenanqachic,patenanqachic,p a t e n a n q a tʃ i k,,buckwalter2015b;rosso2010,,,,,6997,None,None,?
 Pilaga-214_aloysiapolystachya-1,,Pilaga,214_aloysiapolystachya,asena,asena,a s e n a,,buckwalter2015;vidal2010;filipov1993,,,,,457,None,None,donkey
 Pilaga-310_hymenachneamplexicaulis-1,,Pilaga,310_hymenachneamplexicaulis,awaqapi poleo,awaqapi poleo,a w a q a + p i + p o l e o,,buckwalter2015;vidal2010;filipov1993,,,,,346 3913 7318,None,None,grass _:pl false
 Pilaga-231_battarreastevenii-1,,Pilaga,231_battarreastevenii,dapichinamo,dapichi+namo,d a p i tʃ i + n + a m o,,buckwalter2015;vidal2010;filipov1993,,,,,7252 7253,None,None,Pleiads _:poss penis
@@ -5773,7 +5773,7 @@ Tapiete-107_summer-1,,Tapiete,107_summer,kwarasɨ-haku,kwarasɨ-haku,k w a r a s
 Tapiete-47_sun-1,,Tapiete,47_sun,kwarasɨ,kwarasɨ,k w a r a s ɨ,,gonzalez2011,,,,,,0,0,?
 Tapiete-271_sweetpotato-1,,Tapiete,271_sweetpotato,yetɨ,yetɨ,dʒ e t ɨ,,gonzalez2011,,,,,,0,0,?
 Tapiete-114_tail-1,,Tapiete,114_tail,huwai,huwai,h + u w ai,,gonzalez2011,,,,,,0,0,_:poss tail
-Tapiete-270_tapiocamanioccassava-1,,Tapiete,270_tapiocamanioccassava,mandiporopɨ,mandiporopɨ,m a ⁿd i p o r o p ɨ,,gonzalez2011,,,,,,0,0,?
+Tapiete-270_tapiocamanioccassava-1,,Tapiete,270_tapiocamanioccassava,mandiporopɨ,mandiporopɨ,m a ⁿd i + p o r o p ɨ,,gonzalez2011,,,,,884 0,0,0,?
 Tapiete-150_ten-1,,Tapiete,150_ten,dies; opa ñandepo,opa ñandepo,o p a + ɲ a ⁿd e + p o,,gonzalez2011,,,,,,0,0,all our hand
 Tapiete-200_testicle-1,,Tapiete,200_testicle,h-api'a,h-api'a,h + a p i ʔ a,,gonzalez2011,,,,,,0,0,_:poss testicle
 Tapiete-153_three-1,,Tapiete,153_three,mbahapɨ,mbahapɨ,ⁿb a h a p ɨ,,gonzalez2011,,,,,,0,0,?
@@ -5990,8 +5990,8 @@ Chamacoco-271_sweetpotato-1,,Chamacoco,271_sweetpotato,ichaato; pã; nowatĩshɨ
 Chamacoco-271_sweetpotato-2,,Chamacoco,271_sweetpotato,ichaato; pã; nowatĩshɨ,pã,p ã,,ciucci2013,,,,,,0,0,?
 Chamacoco-271_sweetpotato-3,,Chamacoco,271_sweetpotato,ichaato; pã; nowatĩshɨ,nowatĩshɨ,n o w a t ĩ ɕ ɨ,,ciucci2013,,,,,,0,0,?
 Chamacoco-114_tail-1,,Chamacoco,114_tail,kolta,kolta,k o l t a,,ciucci2013,,,,,,0,0,?
-Chamacoco-270_tapiocamanioccassava-1,,Chamacoco,270_tapiocamanioccassava,mantijo; ununkɨt (ant),mantijo,m a n t i x o,,ciucci2013,,,,,,0,0,?
-Chamacoco-270_tapiocamanioccassava-2,,Chamacoco,270_tapiocamanioccassava,mantijo; ununkɨt (ant),ununkɨt,u n u ŋ k ɨ t,,ciucci2013,,,,,,0,0,?
+Chamacoco-270_tapiocamanioccassava-1,,Chamacoco,270_tapiocamanioccassava,mantijo; ununkɨt (ant),mantijo,m a n t i x o,,ciucci2013,,,,,884,0,0,?
+Chamacoco-270_tapiocamanioccassava-2,,Chamacoco,270_tapiocamanioccassava,mantijo; ununkɨt (ant),ununkɨt,u n u ŋ k ɨ t,,ciucci2013,,,,,0,0,0,?
 Chamacoco-200_testicle-1,,Chamacoco,200_testicle,itɨ,itɨ,i t ɨ,,ciucci2013,,,,,,0,0,?
 Chamacoco-299_thunder-1,,Chamacoco,299_thunder,nãr,nãr,n ã r,,ciucci2013,,,,,,0,0,?
 Chamacoco-300_tobacco-1,,Chamacoco,300_tobacco,hnantak,hnantak,n̥ a n t a k,,ciucci2013,,,,,,0,0,?
@@ -6271,7 +6271,7 @@ TobaPilaga-269_wakeup-2,,TobaPilaga,269_wakeup,neloyi,neloyi,n e + l o + j i,,ar
 TobaPilaga-140_where-2,,TobaPilaga,140_where,ja'achi,ja'achi,h a ʔ a tʃ i,,arenas1993,,,,,,0,0,?
 TobaPilaga-140_where-3,,TobaPilaga,140_where,haiga',haiga',h ai g a ʔ,,arenas1993,,,,,,0,0,?
 TobaPilaga-140_where-4,,TobaPilaga,140_where,hega',hega',h e g a ʔ,,arenas1993,,,,,,0,0,?
-Mocovi-159_cook-2,,Mocovi,159_cook,reuosetac,re+uose+tac,r e + w o s e + t a k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:3sg cook _:asp
+Mocovi-159_cook-2,,Mocovi,159_cook,reuosetac,re+uose+tac,r e + w o s e + t a k,,buckwalter2015b;rosso2010,,,,,,0,0,_:3sg cook _:asp
 Toba-67_lake-2,,Toba,67_lake,qa'im,qa'im,q a ʔ i m,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,,0,0,?
 TobaPilaga-67_lake-2,,TobaPilaga,67_lake,"cá'em, pîdóna",pîdóna,p e d o n a,,arenas1993,,,,,,0,0,?
 Toba-136_littlequantityfew-4,,Toba,136_littlequantityfew,saqalligueme,sa+qalligueme,s a + q a ʎ i g e m e,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,,0,0,not much
@@ -6286,7 +6286,7 @@ TobaPilaga-173_lizard-7,,TobaPilaga,173_lizard,"navíoc, totóllo, piocolíc, je
 TobaPilaga-173_lizard-8,,TobaPilaga,173_lizard,"navíoc, totóllo, piocolíc, jeuói'i, dadálalacaic, delailí, jelcáic",jelcáic,h e l k ai k,,arenas1993,,,,,,0,0,?
 TobaPilaga-170_needle-2,,TobaPilaga,170_needle,"caná, náicayi",náicayi,n ai k ai j i,,arenas1993,,,,,,0,0,?
 Kadiweo-292_old-3,,Kadiweo,292_old,jotigide,jotigide,dʒ o t i g i d e,,griffiths2002,,,,,,0,0,?
-Mocovi-152_one-2,,Mocovi,152_one,'oonolec,'oon+ole+c,ʔ oː n + o l e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,one _:dim
+Mocovi-152_one-2,,Mocovi,152_one,'oonolec,'oon+ole+c,ʔ oː n + o l e,,buckwalter2015b;rosso2010,,,,,,0,0,one _:dim
 TobaPilaga-249_penis-2,,TobaPilaga,249_penis,"na-mól, ni-coué, ni-coité, nacatacóco, namolatá",ni+coue,n i + k o ˀw e ʔ,,arenas1993,,,,,,0,0,_:poss penis
 TobaPilaga-245_snail-2,,TobaPilaga,245_snail,"najéyo, coníc",coníc,k o n e k,,arenas1993,,,,,,0,0,?
 TobaPilaga-161_wolf-2,,TobaPilaga,161_wolf,"uágayaga lipóllo, uí'im jalá lipóllo",uí'im jalá lipóllo,w i ʔ i m + h a l a + l e + p o l j o,,arenas1993,,,,,,0,0,? fruit _:poss false
@@ -6511,7 +6511,7 @@ Maka-1_honey-1,,Maka,1_honey,-aq,aq,a q,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-1_honey-1,,Manjui,1_honey,'talé','talé',ˀt a l e ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-1_honey-1,,Mapudungun,1_honey,silʸwiɲ kuram,silʸwiɲ kuram,s i lʲ w i ɲ + k u r a m,,catrileo2017;catrileo2015,,,,,,0,0,bee egg
 Mbya-1_honey-1,,Mbya,1_honey,ei,ei,ei,,cadogan1992,,,,,,0,0,?
-Mocovi-1_honey-1,,Mocovi,1_honey,rapic li'i,rapic li'i,r a p i k + l + i ʔ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,wasp _:poss juice
+Mocovi-1_honey-1,,Mocovi,1_honey,rapic li'i,rapic li'i,r a p i k + l + i ʔ i,,buckwalter2015b;rosso2010,,,,,,0,0,wasp _:poss juice
 Nivacle-1_honey-1,,Nivacle,1_honey,"shinvo', tˀuxaʔ, sup'aj, uja', vôcôyech, acôyech, cayech",shinvo',ʃ i n ʋ o ʔ,,seelwische1980,,,,,,0,0,?
 Pilaga-1_honey-1,,Pilaga,1_honey,ma-ʔage l-'iʔi,ma'age li'i,m a ʔ a g e + l + i ʔ i,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,? _:poss liquid
 Quichua-1_honey-1,,Quichua,1_honey,mishqui,mishqui,m i ʃ k i,,bravo1975,,,,,,0,0,?
@@ -6532,7 +6532,7 @@ Maka-3_hit-1,,Maka,3_hit,-lan,lan,l a n,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-3_hit-1,,Manjui,3_hit,"aa, paa, 'towás",aa,aː,,carol2018,,,,,,0,0,?
 Mapudungun-3_hit-1,,Mapudungun,3_hit,kupafɨ,kupafɨ,k u p a f ɨ,,catrileo2017;catrileo2015,,,,,,0,0,?
 Mbya-3_hit-1,,Mbya,3_hit,nupã,nupã,n u p ã,,cadogan1992,,,,,,0,0,?
-Mocovi-3_hit-1,,Mocovi,3_hit,ỹouaxan,ỹouaxan,j + o w a ʁ a n,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:3A hit
+Mocovi-3_hit-1,,Mocovi,3_hit,ỹouaxan,ỹouaxan,j + o w a ʁ a n,,buckwalter2015b;rosso2010,,,,,,0,0,_:3A hit
 Nivacle-3_hit-1,,Nivacle,3_hit,"pôcôj, clôn, t'ijôj, c'ôn, ôjcôj, tôjôj, cocôj",pôcôj,p ɔ k ɔ x,,seelwische1980,,,,,,0,0,?
 Pilaga-3_hit-1,,Pilaga,3_hit,yiw'aʕan,yiw'aʕan,j i + ˀw a ʕ a n,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:3A hit
 Quichua-3_hit-1,,Quichua,3_hit,"máckay, huájtay",máckay,m a q a + j,,bravo1975,,,,,,0,0,hit _:inf
@@ -6551,7 +6551,7 @@ Guarani-4_brother-1,,Guarani,4_brother,tyke'ýra,tyke'ýra,t + ɨ k e ʔ ɨ r a,
 Kadiweo-4_brother-1,,Kadiweo,4_brother,y:ocwa,y:ocwa,j o k w a,,griffiths2002,,,,,,0,0,?
 Lule-4_brother-1,,Lule,4_brother,yahá,yahá,j a ʔ a,,machoni1878,,,,,,0,0,?
 Mapudungun-4_brother-1,,Mapudungun,4_brother,"peñi, lamngen",peñi,p e ɲ i,,catrileo2017;catrileo2015,,,,,,0,0,?
-Mocovi-4_brother-1,,Mocovi,4_brother,lqaỹa,lqaỹa,l + q a j a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss sibling
+Mocovi-4_brother-1,,Mocovi,4_brother,lqaỹa,lqaỹa,l + q a j a,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss sibling
 Pilaga-4_brother-1,,Pilaga,4_brother,naqaya,naqaya,n a + q a j a,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss sibling
 Quichua-4_brother-1,,Quichua,4_brother,"tura, huaucke",tura,t u r a,,bravo1975,,,,,,0,0,?
 Tapiete-4_brother-1,,Tapiete,4_brother,"kɨwɨ, tɨche'ɨ",kɨwɨ,k ɨ w ɨ,,gonzalez2011,,,,,,0,0,?
@@ -6567,7 +6567,7 @@ Kadiweo-5_sister-1,,Kadiweo,5_sister,iwal:o,iwal:o,i w a lː o,,griffiths2002,,,
 Lule-5_sister-1,,Lule,5_sister,yahá,yahá,j a ʔ a,,machoni1878,,,,,,0,0,?
 Mapudungun-5_sister-1,,Mapudungun,5_sister,"θeya, lamŋen",θeya,θ e j a,,catrileo2017;catrileo2015,,,,,,0,0,?
 Mbya-5_sister-1,,Mbya,5_sister,teindy,teindy,t + ei ⁿd ɨ,,cadogan1992,,,,,,0,0,_:poss sister
-Mocovi-5_sister-1,,Mocovi,5_sister,lqaỹa,lqaỹa,l + q a j a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss sibling
+Mocovi-5_sister-1,,Mocovi,5_sister,lqaỹa,lqaỹa,l + q a j a,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss sibling
 Pilaga-5_sister-1,,Pilaga,5_sister,naqaya,naqaya,n a + q a j a,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss sibling
 Quichua-5_sister-1,,Quichua,5_sister,"ñaña, pana",ñaña,ɲ a ɲ a,,bravo1975,,,,,,0,0,?
 Tapiete-5_sister-1,,Tapiete,5_sister,hindɨ,hindɨ,h + i ⁿd ɨ,,gonzalez2011,,,,,,0,0,_:poss sister
@@ -6585,7 +6585,7 @@ Maka-6_olderbrother-1,,Maka,6_olderbrother,mats,mats,m a ts,,gerzenstein1999;are
 Manjui-6_olderbrother-1,,Manjui,6_olderbrother,"ona, kilé'",ona,o n a,,carol2018,,,,,,0,0,?
 Mapudungun-6_olderbrother-1,,Mapudungun,6_olderbrother,"unen peɲi, unen lamŋen",unen peɲi,u n e n + p e ɲ i,,catrileo2017;catrileo2015,,,,,,0,0,older brother
 Mbya-6_olderbrother-1,,Mbya,6_olderbrother,tyke'y,tyke'y,t + ɨ k e ʔ ɨ,,cadogan1992,,,,,,0,0,_:poss older.brother
-Mocovi-6_olderbrother-1,,Mocovi,6_olderbrother,lopiichi,lopiichi,l + o p iː tʃ i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss older.brother
+Mocovi-6_olderbrother-1,,Mocovi,6_olderbrother,lopiichi,lopiichi,l + o p iː tʃ i,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss older.brother
 Nivacle-6_olderbrother-1,,Nivacle,6_olderbrother,checla',checla',tʃ e kʟ̥ a ʔ,,seelwische1980,,,,,,0,0,?
 Pilaga-6_olderbrother-1,,Pilaga,6_olderbrother,choq'olek,choq'olek,tʃ o qˀ o l e k,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Tapiete-6_olderbrother-1,,Tapiete,6_olderbrother,tɨche'ɨ,tɨche'ɨ,t + ɨ tʃ e ʔ ɨ,,gonzalez2011,,,,,,0,0,_:poss older.brother
@@ -6604,7 +6604,7 @@ Lule-8_oldersister-1,,Lule,8_oldersister,ylehp,ylehp,i l e ʔ p,,machoni1878,,,,
 Maka-8_oldersister-1,,Maka,8_oldersister,kuti',kuti',k u t i ʔ,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-8_oldersister-1,,Manjui,8_oldersister,"ta'a, kité'",ta'a,t a ʔ a,,carol2018,,,,,,0,0,?
 Mbya-8_oldersister-1,,Mbya,8_oldersister,tyke,tyke,t + ɨ k e,,cadogan1992,,,,,,0,0,_:poss older.sister
-Mocovi-8_oldersister-1,,Mocovi,8_oldersister,lopilete,lopilete,l + o p i l e t e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss older.sister
+Mocovi-8_oldersister-1,,Mocovi,8_oldersister,lopilete,lopilete,l + o p i l e t e,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss older.sister
 Nivacle-8_oldersister-1,,Nivacle,8_oldersister,chita',chita',tʃ i t a ʔ,,seelwische1980,,,,,,0,0,?
 Pilaga-8_oldersister-1,,Pilaga,8_oldersister,pilo'ole,pilo'ole,p i l o ʔ o l e,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Tapiete-8_oldersister-1,,Tapiete,8_oldersister,tɨ'ɨche,tɨ'ɨche,t + ɨ ʔ ɨ tʃ e,,gonzalez2011,,,,,,0,0,_:poss older.sister
@@ -6621,7 +6621,7 @@ Lule-9_youngersister-1,,Lule,9_youngersister,melup,melup,m e l u p,,machoni1878,
 Maka-9_youngersister-1,,Maka,9_youngersister,-k'inχa',k'inχa',kˀ i n χ a ʔ,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-9_youngersister-1,,Manjui,9_youngersister,'ijne','ijne',ʔ i ʰn e ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-9_youngersister-1,,Mapudungun,9_youngersister,"inan θeya, inan lamŋen",inan θeya,i n a n + θ e j a,,catrileo2017;catrileo2015,,,,,,0,0,younger sister
-Mocovi-9_youngersister-1,,Mocovi,9_youngersister,lano'o,lano'o,l + a n o ʔ o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss younger.sister
+Mocovi-9_youngersister-1,,Mocovi,9_youngersister,lano'o,lano'o,l + a n o ʔ o,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss younger.sister
 Nivacle-9_youngersister-1,,Nivacle,9_youngersister,"sunja, ch'injô",sunxa,s u n x a,,seelwische1980,,,,,,0,0,?
 Pilaga-9_youngersister-1,,Pilaga,9_youngersister,n'ole,n'ole,n ʔ o l e,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Tapiete-9_youngersister-1,,Tapiete,9_youngersister,kɨpɨ'ɨ,kɨpɨ'ɨ,k ɨ p ɨ ʔ ɨ,,gonzalez2011,,,,,,0,0,?
@@ -6643,7 +6643,7 @@ Maka-10_son-1,,Maka,10_son,as,as,a s,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-10_son-1,,Manjui,10_son,as,as,a s,,carol2018,,,,,,0,0,?
 Mapudungun-10_son-1,,Mapudungun,10_son,"fotɨm, wenṭ͡ʀu pɨɲeɲ, yalʸ, pɨɲeɲ",fotɨm,f o t ɨ m,,catrileo2017;catrileo2015,,,,,,0,0,?
 Mbya-10_son-1,,Mbya,10_son,"memby, ta'y",ta'y,t + a ʔ ɨ,,cadogan1992,,,,,,0,0,_:poss son
-Mocovi-10_son-1,,Mocovi,10_son,llaalec,llaalec,lʲ + aː l e + k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss child _:masc
+Mocovi-10_son-1,,Mocovi,10_son,llaalec,llaalec,lʲ + aː l e + k,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss child _:masc
 Nivacle-10_son-1,,Nivacle,10_son,aôs,aôs,a ɔ s,,seelwische1980,,,,,,0,0,?
 Pilaga-10_son-1,,Pilaga,10_son,nk'oʕot,nk'oʕot,n e + kˀ o ʕ o t,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss child
 Quichua-10_son-1,,Quichua,10_son,huaa,huaa,w aː,,bravo1975,,,,,,0,0,?
@@ -6664,7 +6664,7 @@ Maka-11_daughter-1,,Maka,11_daughter,asi',asi',a s + i ʔ,,gerzenstein1999;arena
 Manjui-11_daughter-1,,Manjui,11_daughter,ase',as-e',a s + e ʔ,,carol2018,,,,,,0,0,a s + e ʔ
 Mapudungun-11_daughter-1,,Mapudungun,11_daughter,"ɲawe, θomo pɨɲeɲ, pɨɲeɲ, yalʸ",ɲawe,ɲ a w e,,catrileo2017;catrileo2015,,,,,,0,0,?
 Mbya-11_daughter-1,,Mbya,11_daughter,"tajy, memby",tajy,t + a dʒ ɨ,,cadogan1992,,,,,,0,0,_:poss daughter
-Mocovi-11_daughter-1,,Mocovi,11_daughter,llaale,llaale,lʲ + aː l e,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss child
+Mocovi-11_daughter-1,,Mocovi,11_daughter,llaale,llaale,lʲ + aː l e,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss child
 Nivacle-11_daughter-1,,Nivacle,11_daughter,ôse,ôse,ɔ s + e,,seelwische1980,,,,,,0,0,child _:fem
 Pilaga-11_daughter-1,,Pilaga,11_daughter,nek'oqte,nek'oqte,n e + kˀ o + q t e,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss child _:fem
 Quichua-11_daughter-1,,Quichua,11_daughter,huaa,huaa,w aː,,bravo1975,,,,,,0,0,?
@@ -6685,7 +6685,7 @@ Lule-12_shirt-1,,Lule,12_shirt,talápó,talápó,t a l a p o,,machoni1878,,,,,,0
 Maka-12_shirt-1,,Maka,12_shirt,-wihitxii,wihitxii,w i + h i t + x iː,,gerzenstein1999;arenas1983,,,,,,0,0,enter _:vblz _:loc
 Manjui-12_shirt-1,,Manjui,12_shirt,'ujutiiy','ujutiiy',ʔ u + x u t + iː j ʔ,,carol2018,,,,,,0,0,enter _:vblz _:loc
 Mapudungun-12_shirt-1,,Mapudungun,12_shirt,kamisa,kamisa,k a m i s a,,catrileo2017;catrileo2015,,,,,,0,0,?
-Mocovi-12_shirt-1,,Mocovi,12_shirt,nelamaxaqui,nelamaxaqui,n e + l a m a ʁ a k i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss shirt
+Mocovi-12_shirt-1,,Mocovi,12_shirt,nelamaxaqui,nelamaxaqui,n e + l a m a ʁ a k i,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss shirt
 Nivacle-12_shirt-1,,Nivacle,12_shirt,uijatshi,uijatshi,ui + x a t + ʃ i,,seelwische1980,,,,,,0,0,enter _:vblz _:loc
 Pilaga-12_shirt-1,,Pilaga,12_shirt,somaʕaki,somaʕaki,s o m a ʕ a k i,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Tapiete-12_shirt-1,,Tapiete,12_shirt,kambisa,kambisa,k a ⁿb i s a,,gonzalez2011,,,,,,0,0,?
@@ -6704,7 +6704,7 @@ Lule-13_cupdrinkingvessel-1,,Lule,13_cupdrinkingvessel,"uhucipé, ynpá",uhucip�
 Maka-13_cupdrinkingvessel-1,,Maka,13_cupdrinkingvessel,tekfii,tekfii,t + e k f iː,,gerzenstein1999;arenas1983,,,,,,0,0,? ear
 Manjui-13_cupdrinkingvessel-1,,Manjui,13_cupdrinkingvessel,'uuski','uuski',ʔ uː s k i ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-13_cupdrinkingvessel-1,,Mapudungun,13_cupdrinkingvessel,čaru,čaru,tʃ a r u,,catrileo2017;catrileo2015,,,,,,0,0,?
-Mocovi-13_cupdrinkingvessel-1,,Mocovi,13_cupdrinkingvessel,ne'taxaqui,ne'taxaqui,n + e ʔ t + a ʁ a k i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss drink _:nmlz
+Mocovi-13_cupdrinkingvessel-1,,Mocovi,13_cupdrinkingvessel,ne'taxaqui,ne'taxaqui,n + e ʔ t + a ʁ a k i,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss drink _:nmlz
 Nivacle-13_cupdrinkingvessel-1,,Nivacle,13_cupdrinkingvessel,yôjjatshi,yôjjatshi,j ɔ ʔ + x a t + ʃ i,,seelwische1980,,,,,,0,0,drink _:vblz _:loc
 Pilaga-13_cupdrinkingvessel-1,,Pilaga,13_cupdrinkingvessel,yomaʕaki,yomaʕaki,j o m + a ʕ a + k i,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,drink _:val _:loc
 Quichua-13_cupdrinkingvessel-1,,Quichua,13_cupdrinkingvessel,pucu,pucu,p u k u,,bravo1975,,,,,,0,0,?
@@ -6722,7 +6722,7 @@ Guarani-14_trousers-1,,Guarani,14_trousers,kasõ,kasõ,k a s õ,,guasch1995;seel
 Maka-14_trousers-1,,Maka,14_trousers,-tatkaluhut,tatkaluhut,t a t k a l u h u t,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-14_trousers-1,,Manjui,14_trousers,'azitiiy','azitiiy',ʔ a + ʃ i t + iː j ʔ,,carol2018,,,,,,0,0,? _:vblz _:loc
 Mapudungun-14_trousers-1,,Mapudungun,14_trousers,pantalon,pantalon,p a n t a l o n,,catrileo2017;catrileo2015,,,,,,0,0,?
-Mocovi-14_trousers-1,,Mocovi,14_trousers,nelamaxaso,nelamaxaso,n e + l a + m a ʁ a s o,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss _:/la trousers
+Mocovi-14_trousers-1,,Mocovi,14_trousers,nelamaxaso,nelamaxaso,n e + l a + m a ʁ a s o,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss _:/la trousers
 Nivacle-14_trousers-1,,Nivacle,14_trousers,ôsjatshi,ôsjatshi,ɔ s + x a t + ʃ i,,seelwische1980,,,,,,0,0,? _:vblz _:loc
 Pilaga-14_trousers-1,,Pilaga,14_trousers,k'emaʕaso,k'emaʕaso,kˀ e + m a ʕ a s o,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:/ke trousers
 Tapiete-14_trousers-1,,Tapiete,14_trousers,tɨmbɨ'awo,tɨmbɨ'awo,t ɨ + ⁿb ɨ ʔ + a w o,,gonzalez2011,,,,,,0,0,_:poss ? cloth
@@ -6738,7 +6738,7 @@ Guarani-16_easy-1,,Guarani,16_easy,ndahasýi,ndahasýi,ⁿd a + h + a s ɨ + i,,
 Lule-16_easy-1,,Lule,16_easy,"yaotitilé, yahó",yaotitilé,j a o t i t i l e,,machoni1878,,,,,,0,0,?
 Maka-16_easy-1,,Maka,16_easy,nite' xutsitaχ,nite' xutsitaχ,n i t e ʔ + x u t s i t a χ,,gerzenstein1999;arenas1983,,,,,,0,0,not difficult
 Mapudungun-16_easy-1,,Mapudungun,16_easy,kɨθaw-ŋe-nu-lu,kɨθaw-ŋe-nu-lu,k ɨ θ a w + ŋ e + n u + l u,,catrileo2017;catrileo2015,,,,,,0,0,labour _:vblz _:neg _:inf
-Mocovi-16_easy-1,,Mocovi,16_easy,se qalaq,se qalaq,s e + q a l a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,not difficult
+Mocovi-16_easy-1,,Mocovi,16_easy,se qalaq,se qalaq,s e + q a l a q,,buckwalter2015b;rosso2010,,,,,,0,0,not difficult
 Nivacle-16_easy-1,,Nivacle,16_easy,c'ôôjlha,c'ôôjlha,kˀ ɔː x ɬ a,,seelwische1980,,,,,,0,0,?
 Pilaga-16_easy-1,,Pilaga,16_easy,lewotetelege,le-wot-ete-'lege,l e + w o t + e t e + l e g e,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss ? ? _:dir
 Toba-16_easy-1,,Toba,16_easy,lhuottelec,lhuottelec,l + w o + t e + l e k,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,,0,0,_:poss ? ? _:dir
@@ -6756,7 +6756,7 @@ Lule-17_difficult-1,,Lule,17_difficult,quineuescesuyé,quineuescesuyé,k i n e w
 Maka-17_difficult-1,,Maka,17_difficult,xutsitaχ,xutsitaχ,x u ts i t a χ,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-17_difficult-1,,Manjui,17_difficult,ijyéjtowa,ijyéjtowa,i ʰj e x t o w a,,carol2018,,,,,,0,0,?
 Mapudungun-17_difficult-1,,Mapudungun,17_difficult,kɨθaw-ŋe-n,kɨθaw-ŋe-n,k ɨ θ a w + ŋ e + n,,catrileo2017;catrileo2015,,,,,,0,0,labour _:vblz _:inf
-Mocovi-17_difficult-1,,Mocovi,17_difficult,qalaq,qalaq,q a l a q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,?
+Mocovi-17_difficult-1,,Mocovi,17_difficult,qalaq,qalaq,q a l a q,,buckwalter2015b;rosso2010,,,,,,0,0,?
 Nivacle-17_difficult-1,,Nivacle,17_difficult,"ta'vi'jatay, t'astaai",ta'vi'jatay,t a ʔ ʋ i ʔ x a t ai,,seelwische1980,,,,,,0,0,?
 Pilaga-17_difficult-1,,Pilaga,17_difficult,qalaq,qalaq,q a l a q,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Tapiete-17_difficult-1,,Tapiete,17_difficult,yawai,yawai,dʒ a w ai,,gonzalez2011,,,,,,0,0,?
@@ -6776,7 +6776,7 @@ Maka-18_word-1,,Maka,18_word,-lixey,lixey,l i x + ei,,gerzenstein1999;arenas1983
 Manjui-18_word-1,,Manjui,18_word,amte',amte',a m t e ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-18_word-1,,Mapudungun,18_word,kiɲe wun̯,kiɲe wun̯,k i ɲ e + w u n,,catrileo2017;catrileo2015,,,,,,0,0,one ?
 Mbya-18_word-1,,Mbya,18_word,ayvu,ayvu,aɨ ʋ u,,cadogan1992,,,,,,0,0,?
-Mocovi-18_word-1,,Mocovi,18_word,la'qaatec,la'qaatec,l + a ʔ q aː t + e k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss speak _:nmlz
+Mocovi-18_word-1,,Mocovi,18_word,la'qaatec,la'qaatec,l + a ʔ q aː t + e k,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss speak _:nmlz
 Nivacle-18_word-1,,Nivacle,18_word,cliish,cliish,kʟ̥ iː ʃ,,seelwische1980,,,,,,0,0,?
 Pilaga-18_word-1,,Pilaga,18_word,l-ʔaḳt-ak,l-ʔaḳt-ak,l + ʔ a q t + a k,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss speak _:nmlz
 Quichua-18_word-1,,Quichua,18_word,simi,simi,s i m i,,bravo1975,,,,,,0,0,?
@@ -6797,7 +6797,7 @@ Maka-19_language-1,,Maka,19_language,-lixey,lixey,l i x + e i,,gerzenstein1999;a
 Manjui-19_language-1,,Manjui,19_language,'leij,'leij,ˀl ei x,,carol2018,,,,,,0,0,?
 Mapudungun-19_language-1,,Mapudungun,19_language,θuŋu-n,θuŋu-n,θ u ŋ u + n,,catrileo2017;catrileo2015,,,,,,0,0,speak _:inf
 Mbya-19_language-1,,Mbya,19_language,ayvu,ayvu,aɨ ʋ u,,cadogan1992,,,,,,0,0,?
-Mocovi-19_language-1,,Mocovi,19_language,na-wa l-aʔḳaat-ḳa,na-wa l-aʔḳaat-ḳa,n a + w a + l + a ʔ q aː t + q a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:det _:pl _:poss speak _:nmlz
+Mocovi-19_language-1,,Mocovi,19_language,na-wa l-aʔḳaat-ḳa,na-wa l-aʔḳaat-ḳa,n a + w a + l + a ʔ q aː t + q a,,buckwalter2015b;rosso2010,,,,,,0,0,_:det _:pl _:poss speak _:nmlz
 Nivacle-19_language-1,,Nivacle,19_language,cliish,cliish,kʟ̥ iː ʃ,,seelwische1980,,,,,,0,0,?
 Pilaga-19_language-1,,Pilaga,19_language,na-wa-ʔ l-ʔaḳt-aḳa,nawa' l'aqtaqa,n a + w a ʔ + l + ʔ a q t + a q a,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:det _:pl _:poss speak _:nmlz
 Quichua-19_language-1,,Quichua,19_language,"simi, ckallu, 'rima",simi,s i m i,,bravo1975,,,,,,0,0,?
@@ -6817,7 +6817,7 @@ Maka-20_understand-1,,Maka,20_understand,-epiye',epiye',e p i j e ʔ,,gerzenstei
 Manjui-20_understand-1,,Manjui,20_understand,pe'ye',pe'ye',p e ˀj e ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-20_understand-1,,Mapudungun,20_understand,loŋko-ntuku,loŋko-ntuku,l o ŋ k o + n t u k u,,catrileo2017;catrileo2015,,,,,,0,0,head ?
 Mbya-20_understand-1,,Mbya,20_understand,endu,endu,e ⁿd u,,cadogan1992,,,,,,0,0,?
-Mocovi-20_understand-1,,Mocovi,20_understand,ỹa'yiinchigui,ỹa'yiinchigui,j + a ʔ ʒ iː n + tʃ i + g i,,buckwalter2004;buckwalter2015b;rosso2010,,,,,77,0,0,_:3A know _:? _:loc
+Mocovi-20_understand-1,,Mocovi,20_understand,ỹa'yiinchigui,ỹa'yiinchigui,j + a ʔ ʒ iː n + tʃ i + g i,,buckwalter2015b;rosso2010,,,,,77,0,0,_:3A know _:? _:loc
 Nivacle-20_understand-1,,Nivacle,20_understand,"-tɔy-kˀoya, pe'ya",pe'ya,p e ˀj a,,seelwische1980,,,,,,0,0,?
 Pilaga-20_understand-1,,Pilaga,20_understand,de-ma'či-ya,de-ma'či-ya,d e + m a tʃ i + j a,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:3A understand _:3O
 Quichua-20_understand-1,,Quichua,20_understand,unánchay,unánchay,u n a n tʃ a + j,,bravo1975,,,,,,0,0,understand _:inf
@@ -6835,7 +6835,7 @@ Maka-21_find-1,,Maka,21_find,wen,wen,w e n,,gerzenstein1999;arenas1983,,,,,,0,0,
 Manjui-21_find-1,,Manjui,21_find,'wen,'wen,ˀw e n,,carol2018,,,,,,0,0,?
 Mapudungun-21_find-1,,Mapudungun,21_find,"pe, peθa",peθa,p e θ a,,catrileo2017;catrileo2015,,,,,,0,0,?
 Mbya-21_find-1,,Mbya,21_find,jou,jou,dʒ o u,,cadogan1992,,,,,,0,0,?
-Mocovi-21_find-1,,Mocovi,21_find,ỹanata,ỹanata,j + a n a t + a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:3A find _:obj
+Mocovi-21_find-1,,Mocovi,21_find,ỹanata,ỹanata,j + a n a t + a,,buckwalter2015b;rosso2010,,,,,,0,0,_:3A find _:obj
 Nivacle-21_find-1,,Nivacle,21_find,"van, nfom",van,ʋ a n,,seelwische1980,,,,,,0,0,?
 Pilaga-21_find-1,,Pilaga,21_find,yawana,y-awan-a,j + a w a n + a,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:3A find _:3O
 Quichua-21_find-1,,Quichua,21_find,tíncuy,tíncuy,t i ŋ k u + j,,bravo1975,,,,,,0,0,find _:inf
@@ -6854,7 +6854,7 @@ Kadiweo-22_city-1,,Kadiweo,22_city,gotGa,gotGa,g o t ʁ a,,griffiths2002,,,,,,0,
 Lule-22_city-1,,Lule,22_city,"enu, yauplé",enu,e n u,,machoni1878,,,,,,0,0,?
 Manjui-22_city-1,,Manjui,22_city,izí',izí',i ʃ i ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-22_city-1,,Mapudungun,22_city,waria,waria,w a r ia,,catrileo2017;catrileo2015,,,,,,0,0,?
-Mocovi-22_city-1,,Mocovi,22_city,na'a' lodegaxat,na'a' lodegaxat,n + a ʔ a ʔ + l o d e g a ʁ a t,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss village big
+Mocovi-22_city-1,,Mocovi,22_city,na'a' lodegaxat,na'a' lodegaxat,n + a ʔ a ʔ + l o d e g a ʁ a t,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss village big
 Nivacle-22_city-1,,Nivacle,22_city,uj'ee yitsaat,uj'ee yitsaat,u x ʔ eː + j i t s aː t,,seelwische1980,,,,,,0,0,big village
 Pilaga-22_city-1,,Pilaga,22_city,noikt'adaik,noikt'adaik,n oi k + tˀ a d + ai k,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,village big _:adj
 Tapiete-22_city-1,,Tapiete,22_city,tentawansu,tentawansu,t e n t a + w a n s u,,gonzalez2011,,,,,,0,0,village big
@@ -6873,7 +6873,7 @@ Maka-23_stone-1,,Maka,23_stone,ute,ute,u t e,,gerzenstein1999;arenas1983,,,,,,0,
 Manjui-23_stone-1,,Manjui,23_stone,napóoi',napóoi',n a p oː j ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-23_stone-1,,Mapudungun,23_stone,kura,kura,k u r a,,catrileo2017;catrileo2015,,,,,,0,0,?
 Mbya-23_stone-1,,Mbya,23_stone,ita,ita,i t a,,cadogan1992,,,,,,0,0,?
-Mocovi-23_stone-1,,Mocovi,23_stone,qa',qa',q a ʔ,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,?
+Mocovi-23_stone-1,,Mocovi,23_stone,qa',qa',q a ʔ,,buckwalter2015b;rosso2010,,,,,,0,0,?
 Nivacle-23_stone-1,,Nivacle,23_stone,utej,utej,u t e x,,seelwische1980,,,,,,0,0,?
 Pilaga-23_stone-1,,Pilaga,23_stone,qa',qa',q a ʔ,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Quichua-23_stone-1,,Quichua,23_stone,'rumi,'rumi,r u m i,,bravo1975,,,,,,0,0,?
@@ -6893,7 +6893,7 @@ Lule-24_mountain-1,,Lule,24_mountain,ettuhú,ettuhú,e t u ʔ u,,machoni1878,,,,
 Maka-24_mountain-1,,Maka,24_mountain,utek,utek,u t e + k,,gerzenstein1999;arenas1983,,,,,,0,0,stone _:?
 Manjui-24_mountain-1,,Manjui,24_mountain,takíjnaki',takíjnaki',t a k i ʰn a k i,,carol2018,,,,,,0,0,?
 Mapudungun-24_mountain-1,,Mapudungun,24_mountain,wiŋkul mapu,wiŋkul mapu,w i ŋ k u l + m a p u,,catrileo2017;catrileo2015,,,,,,0,0,mountain land
-Mocovi-24_mountain-1,,Mocovi,24_mountain,soxonaxa,soxonaxa,s o ʁ o n a ʁ a,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,?
+Mocovi-24_mountain-1,,Mocovi,24_mountain,soxonaxa,soxonaxa,s o ʁ o n a ʁ a,,buckwalter2015b;rosso2010,,,,,,0,0,?
 Nivacle-24_mountain-1,,Nivacle,24_mountain,uteyuc,uteyuc,u t e + j u k,,seelwische1980,,,,,,0,0,stone _:tree
 Pilaga-24_mountain-1,,Pilaga,24_mountain,qasoʕonaʕa,qasoʕonaʕa,q a s o ʕ o n a ʕ a,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,?
 Quichua-24_mountain-1,,Quichua,24_mountain,orcko,orcko,o r q o,,bravo1975,,,,,,0,0,?
@@ -6909,7 +6909,7 @@ Guarani-25_sour-1,,Guarani,25_sour,hai,hai,h a i,,guasch1995;seelwische1980;caro
 Maka-25_sour-1,,Maka,25_sour,ek'imiixi',ek'imiixi',e kˀ i m iː x i ʔ,,gerzenstein1999;arenas1983,,,,,,0,0,?
 Manjui-25_sour-1,,Manjui,25_sour,tu'uziy',tu'uziy',t u ʔ u ʃ i j ʔ,,carol2018,,,,,,0,0,?
 Mapudungun-25_sour-1,,Mapudungun,25_sour,koṭ͡ʀɨ,koṭ͡ʀɨ,k o tʳ ɨ,,catrileo2017;catrileo2015,,,,,,0,0,?
-Mocovi-25_sour-1,,Mocovi,25_sour,lochiviaxaic,lochiviaxaic,l o tʃ i w i + a ʁ ai + k,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,sour _:adj _:masc
+Mocovi-25_sour-1,,Mocovi,25_sour,lochiviaxaic,lochiviaxaic,l o tʃ i w i + a ʁ ai + k,,buckwalter2015b;rosso2010,,,,,,0,0,sour _:adj _:masc
 Nivacle-25_sour-1,,Nivacle,25_sour,nivai,nivai,n i ʋ ai,,seelwische1980,,,,,,0,0,?
 Pilaga-25_sour-1,,Pilaga,25_sour,čim-iyi,čim-iyi,tʃ i m + i j i,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,sour _:loc
 Quichua-25_sour-1,,Quichua,25_sour,patalcka,patalcka,p a t a l q a,,bravo1975,,,,,,0,0,?
@@ -7076,7 +7076,7 @@ Vilela-7_youngerbrother-1,,Vilela,7_youngerbrother,ikele,ikele,i k e l e,,gollus
 Lule-7_youngerbrother-1,,Lule,7_youngerbrother,enyp,enyp,e n i p,,machoni1878,,,,,,0,0,?
 Lule-7_youngerbrother-2,,Lule,7_youngerbrother,cuvèp,cuvèp,k u w e p,,machoni1878,,,,,,0,0,?
 Toba-7_youngerbrother-1,,Toba,7_youngerbrother,lanoq,lanoq,l + a n o q,,buckwalter1980;martinez2009;cuneo2009;buckwalter2015c,,,,,,0,0,_:poss younger.brother
-Mocovi-7_youngerbrother-1,,Mocovi,7_youngerbrother,lanoq,lanoq,l + a n o q,,buckwalter2004;buckwalter2015b;rosso2010,,,,,,0,0,_:poss younger.brother
+Mocovi-7_youngerbrother-1,,Mocovi,7_youngerbrother,lanoq,lanoq,l + a n o q,,buckwalter2015b;rosso2010,,,,,,0,0,_:poss younger.brother
 Pilaga-7_youngerbrother-1,,Pilaga,7_youngerbrother,lanoqolek,lanoqolek,l + a n o q + o l e + k,,buckwalter2015;vidal2010;filipov1993,,,,,,0,0,_:poss younger.brother _:dim _:masc
 Kadiweo-7_youngerbrother-1,,Kadiweo,7_youngerbrother,ocotegi,ocotegi,o ts o t e g i,,griffiths2002,,,,,,0,0,?
 Cerriteno-7_youngerbrother-1,,Cerriteno,7_youngerbrother,yanoqlek,yanoqlek,j + a n o q + l e k,,messineo2009,,,,,,0,0,_:poss younger.brother _:dim

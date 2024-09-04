@@ -114,7 +114,6 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 113	j a k a t e g e	53 147 148	know	1410	Abipon	i+akat+ege		Guaicuruan	j a k a t e g e	iakatege			
 114	j a r e n	53 149	know	1410	Abipon	i+aren		Guaicuruan	j a r e n	iaren			
 115	ɲ e t o n	107 149	know	1410	Abipon	ñ+eton		Guaicuruan	ɲ e t o n	ñeton			
-116	a h a ɲ i + h e g e m	150 151 89	stand	1442	Abipon	ahañi+hegem	stand _:dir	Guaicuruan	a h a ɲ i + h e g e m	ahañihegem			
 117	None	152	ashes	646	Abipon	aci		Guaicuruan	a tʃ i	aci			Controversial
 118	l aː	153	large, big	1202	Abipon	laa		Guaicuruan	l aː	laa			
 119	l a t e ŋ k a	154 155	large, big	1202	Abipon	latenka		Guaicuruan	l a t e ŋ k a	latenka			
@@ -1545,7 +1544,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 1599	None	1657	man (vs. woman)	1554	Ayoreo	jani		Zamucoan	n̥ a n i	jani			
 1600	None	1658	roof	769	Ayoreo	ojo		Zamucoan	o n̥ o	ojo; guiguijnai ojo			
 1601	g i g i n̥ ai + o n̥ o	1659 1658	roof	769	Ayoreo	guiguijnai ojo		Zamucoan	g i g i n̥ ai + o n̥ o	ojo; guiguijnai ojo			
-1602	b a k a o d e	1660	tapioca, manioc, cassava	925	Ayoreo	bacaode		Zamucoan	b a k a o d e	bacaode; pejei			Benz
+1602	b a k a o d e	0	tapioca, manioc, cassava	925	Ayoreo	bacaode		Zamucoan	b a k a o d e	bacaode; pejei			Benz
 1603	p e h ei	1661	tapioca, manioc, cassava	925	Ayoreo	pejei		Zamucoan	p e h ei	bacaode; pejei			IDS. Probably a xenologue of Maká peXeyek, among others.
 1604	tʃ + a n̥ ai	871 1662	climb	1102	Ayoreo	ch+ajai	:3sg ?	Zamucoan	tʃ + a n̥ ai	chajai			
 1605	None	871 1663 1664	climb	1102	Ayoreo	ch+o+ru	:3sg ? ?	Zamucoan	tʃ + o + ɹ u	choru; eru; oru			
@@ -2394,8 +2393,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 2465	i + n j u + x ʔ l i	1001 1304 2100	fall	1280	Chorote	i+niu+j'li	_:3sg go _:appl	Matacoan	i + n j u + x ʔ l i	iniuj-'li, iniuj-we'n			
 2466	i + n j u x + w e ʔ n	1001 1304 2590	fall	1280	Chorote	i+niuj+we'n	_:3sg go _:appl	Matacoan	i + n j u x + w e ʔ n	iniuj-'li, iniuj-we'n			
 2467	ˀj i + x e n e	2591 1307	know	1410	Chorote	'yi+jene	_:3sg know	Matacoan	ˀj i + x e n e	'yijene			ts'ajane, 'najane
-2468	t a + k a s i t	2592 2593	stand	1442	Chorote	ta+kasit	_:3sg stand	Matacoan	t a + k a s i t	takasit, 'yit'i-sia'm			
-2469	j i tˀ + i s j a ʔ m	2594 2595	stand	1442	Chorote	yit'i+sia'm	make.firm _:up	Matacoan	j i tˀ + i s j a ʔ m	takasit, 'yit'i-sia'm			
+2468	t a + k a s i t	2592 2593	stand	1442	Chorote	ta+kasit	_:3sg stand	Matacoan	t a + k a s i t	takasit			
 2470	x i + l j o ʔ	8074 152	ashes	646	Chorote	ji+lio'	_:poss ashes	Matacoan	x i + l j o ʔ	jilio', tijlat			
 2471	t i ʱl a t	1311	ashes	646	Chorote	tijlat		Matacoan	t i ʱl a t	jilio', tijlat			
 2472	w u x	2597	large, big	1202	Chorote	wuj		Matacoan	w u x	wuj			pay: big thing, jlet: much, big
@@ -3091,10 +3089,6 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 3166	n e ŋ + j e k p e l k eː m oː	3161 3293 148	know	1410	Enlhet	neng+yecpel+queemoo	_:1pl know	Enlhet-Enenlhet	n e ŋ + j e k p e l k eː m oː	nengmovaan; nengya'ascamcoo; nengyecpelqueemoo; angyaap			
 3168	n e ŋ + e n + m ai k a m ʔ	3161 3294 1309	stand	1442	Enlhet	neng+enm+aycam'	_:1pl stand _:inf	Enlhet-Enenlhet	n e ŋ + e n + m ai k a m ʔ	nengenmaycam'; nenga'neeycam'; acyeena'teem; ayemhoom; ayenmoom; acyetnama			
 3169	n e ŋ + a ʔ n e + ei k a m ʔ	3161 3295 1309	stand	1442	Enlhet	neng+a'ne+eycam'	_:1pl stand _:inf	Enlhet-Enenlhet	n e ŋ + a ʔ n e + ei k a m ʔ	nengenmaycam'; nenga'neeycam'; acyeena'teem; ayemhoom; ayenmoom; acyetnama			
-3170	a k + j eː n a + ʔ t eː m	2101 2594 2595	stand	1442	Enlhet	ac+yeena+'teem	_:fem stand _:inf	Enlhet-Enenlhet	a k + j eː n a + ʔ t eː m	nengenmaycam'; nenga'neeycam'; acyeena'teem; ayemhoom; ayenmoom; acyetnama			
-3171	a + j e m + h oː m	3296 3294 2595	stand	1442	Enlhet	ay+em+hoom	_:fem stand _:inf	Enlhet-Enenlhet	a + j e m + h oː m	nengenmaycam'; nenga'neeycam'; acyeena'teem; ayemhoom; ayenmoom; acyetnama			
-3172	a + j e n + m oː m	3296 151 2595	stand	1442	Enlhet	ay+en+moom	_:fem stand _:inf	Enlhet-Enenlhet	a + j e n + m oː m	nengenmaycam'; nenga'neeycam'; acyeena'teem; ayemhoom; ayenmoom; acyetnama			
-3173	None	2101 3252 3160	stand	1442	Enlhet	ac+yetna+ma	_:fem lie _:inf	Enlhet-Enenlhet	a k + j e t n a + m a	nengenmaycam'; nenga'neeycam'; acyeena'teem; ayemhoom; ayenmoom; acyetnama			
 3174	t aː h a p	3297	ashes	646	Enlhet	taahap		Enlhet-Enenlhet	t aː h a p	taahap			
 3175	a k + j e w ei ʔ	2101 2597 3298	large, big	1202	Enlhet	ac+yevey'	_:fem big	Enlhet-Enenlhet	a k + j e w ei ʔ	acyevey'; acmelay'; acya'yeem; ayeelhahaycam'			
 3176	a k + m e l ai ʔ	2101 3299 3298	large, big	1202	Enlhet	ac+melay'	_:fem big	Enlhet-Enenlhet	a k + m e l ai ʔ	acyevey'; acmelay'; acya'yeem; ayeelhahaycam'			
@@ -5045,7 +5039,6 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 5128	j e w l ai + ts	4314 1306	fall	1280	Lule	yeulái+ç	fall _:inf	Lule-Vilela	j e w l ai + ts	yeuláiç			From a wall or a tree
 5129	None	1304 4316 1306	fall	1280	Lule	ne+cililis+ç	? fall _:inf	Lule-Vilela	n e + ts i l i l i s + ts	necililisç			Fruit eaten by birds
 5130	None	148 4317	know	1410	Lule	oalecí+ç	know _:inf	Lule-Vilela	o a l e k i + ts	oalecíç			
-5131	None	1308 4318	stand	1442	Lule	qui+ç	stand _:inf	Lule-Vilela	k i + ts	quiç			
 5132	a ts u p u	4319	ashes	646	Lule	azupú		Lule-Vilela	a ts u p u	azupú			
 5133	None	660 2101	large, big	1202	Lule	ayé+p	big _:adj	Lule-Vilela	a e + p	ayép			
 5134	None	3300	large, big	1202	Lule	pulum		Lule-Vilela	p u l u m	pulum			
@@ -5189,10 +5182,10 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 5278	w i l a p i p	2714	cat	1208	Lule	uylapíp		Lule-Vilela	w i l a p i p	uylapíp			colorado
 5279	j a n a + a k w a	1494 1492	bee	665	Lule	yana acuá	? ?	Lule-Vilela	j a n a + a k w a	yana acuá			Black or 'mestiza' bee
 5280	j a l a m + a k w a	2193 1492	bee	665	Lule	yalám acuá	? ?	Lule-Vilela	j a l a m + a k w a	yalám acuá			moro moro
-5281	None	1494 1492	bee	665	Lule	ané acuá	? ?	Lule-Vilela	a n e + a k u a	ané acuá			Its beehive is under the ground
-5282	None	4407 2193 1492	bee	665	Lule	cués umué acuá	? ?	Lule-Vilela	k u e s + u m u e + a k u a	cués umué acuá			Big black bee, its honey lacks wax
+5281	a n e + a k w a	1494 1492	bee	665	Lule	ané acuá	? ?	Lule-Vilela	a n e + a k w a	ané acuá			Its beehive is under the ground
+5282	k u e s + u m u e + a k w a	4407 2193 1492	bee	665	Lule	cués umué acuá	? ?	Lule-Vilela	k u e s + u m u e + a k w a	cués umué acuá			Big black bee, its honey lacks wax
 5283	None	4408 1492	bee	665	Lule	coalecs+acua	? ?	Lule-Vilela	k o a l e k s + a k w a	coalecs acua			Lechiguana (it hangs from trees)
-5284	None	2193 1492	bee	665	Lule	amil acuá	? ?	Lule-Vilela	a m i l + a k u a	amil acuá			Lechiguana (it grows in the grass)
+5284	a m i l + a k w a	2193 1492	bee	665	Lule	amil acuá	? ?	Lule-Vilela	a m i l + a k w a	amil acuá			Lechiguana (it grows in the grass)
 5285	None	2194	parrot	882	Lule	ele		Lule-Vilela	e l e	ele			
 5286	None	3457	flea	232	Lule	pinpin		Lule-Vilela	p i n p i n	pinpin			
 5287	k u n ai ts	4409	fly	1504	Lule	cunayç		Lule-Vilela	k u n ai ts	cunayç			
@@ -7550,7 +7543,6 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 7650	t aː + ɲ i + g i	3289 1304	fall	1280	Mocovi	taa+ñigui	go _:dir _:loc	Guaicuruan	t aː + ɲ i + g i	taañigui			
 7651	j + o d oː + tʃ i g i + ɲ i	3289 1305 1304	fall	1280	Mocovi	ỹodoo+chigui+ñi	_:3sg fall _:asp _:dir	Guaicuruan	j + o d oː + tʃ i g i + ɲ i	ỹodoochiguiñi			
 7652	None	149	know	1410	Mocovi	ỹa'den		Guaicuruan	j a ʔ d e n	ỹa'den			
-7653	None	2593 2592 1308	stand	1442	Mocovi	co'uee+ta+lec	stand _:asp _:loc	Guaicuruan	k o ʔ u eː + t a + l e k	co'ueetalec			
 7654	n a tʃ a t + ɲ i	2592 151	stand	1442	Mocovi	nachajñi	stand _:dir	Guaicuruan	n a tʃ a t + ɲ i	nachajñi			
 7655	a l o	1311	ashes	646	Mocovi	alo		Guaicuruan	a l o	alo			
 7656	None	153	large, big	1202	Mocovi	lo		Guaicuruan	l o	lo			
@@ -10607,7 +10599,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 11445	None	1298 652	drink	1401	Vilela	man+a	drink _:3sg	Lule-Vilela	m a n + a	mana			
 11446	None	6490	water	948	Vilela	ma		Lule-Vilela	m a	ma			
 11447	None	1305 4652	fall	1280	Vilela	gu+he	fall _:3sg	Lule-Vilela	g u + h e	guhe			Golluscio
-11448	None	3294	stand	1442	Vilela	pim		Lule-Vilela	p i m	pim			
+11448	l a + p i m	3294	stand	1442	Vilela	lapim	? standing	Lule-Vilela	l a + p i m	lapim			
 11449	s u k e l	3873 1311	ashes	646	Vilela	sukel		Lule-Vilela	s u k e l	sukel			Viegas Barros
 11450	None	6491	large, big	1202	Vilela	umbap		Lule-Vilela	u m b a p	umbap			
 11451	None	3300	large, big	1202	Vilela	olem		Lule-Vilela	o l e m	olem			
@@ -14465,7 +14457,7 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 15329	m ɪ l ʌ n m ʌ		spider		EnxetSur	melanma		Enlhet-Enenlhet	m ɪ l ʌ n m ʌ	Latsáhaktek apwokmo’; Melanma; yaweyke			
 15330	j ʌ w ei k ɪ		spider		EnxetSur	yaweyke		Enlhet-Enenlhet	j ʌ w ei k ɪ	Latsáhaktek apwokmo’; Melanma; yaweyke			
 15331	n ɪ ŋ + k ɪ n + m ei k h ʌ		stand		EnxetSur	negkenmeykha	_:1pl stand _:inf	Enlhet-Enenlhet	n ɪ ŋ + k ɪ n + m ei k h ʌ	Negkenmeykha; Nenchaqneykha			
-15332	n ɪ n + tʃ ʌ q n + ei k h ʌ	105	stand		EnxetSur	nenchaqneykha	_:1pl stand _:inf	Enlhet-Enenlhet	n ɪ n + tʃ ʌ q n + ei k h ʌ	Negkenmeykha; Nenchaqneykha			
+15332	n ɪ ŋ + ʌ q n + ei k h ʌ	105	stand		EnxetSur	negaqneykha	_:1pl stand _:inf	Enlhet-Enenlhet	n ɪ ŋ + ʌ q n + ei k h ʌ	Negkenmeykha; Nenchaqneykha			
 15333	j ɑu ʔ ʌ		star		EnxetSur	yaw'a		Enlhet-Enenlhet	j ɑu ʔ ʌ	yaw'a			
 15334	ɪ k + m ɪ ɬ ʌ n + m + ʌ k ɬ ʌ + ɪ k h ɪ m		summer		EnxetSur	ekmexanmakxa ekhem	_:pred hot _:ind _:nmlz sun	Enlhet-Enenlhet	ɪ k + m ɪ ɬ ʌ n + m + ʌ k ɬ ʌ + ɪ k h ɪ m	Ekmexanmakxa ekhem; Ekmexanmakxaxma			
 15335	ɪ k + m ɪ ɬ ʌ n + m + ʌ k ɬ ʌ + ɬ m ʌ		summer		EnxetSur	ekmexanmakxaxma	_:pred hot _:ind _:nmlz _:loc	Enlhet-Enenlhet	ɪ k + m ɪ ɬ ʌ n + m + ʌ k ɬ ʌ + ɬ m ʌ	Ekmexanmakxa ekhem; Ekmexanmakxaxma			
@@ -14698,13 +14690,12 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 15563	t ẽ ʔ ã		soul, spirit		Tapiete	të'ä		Tupian	t ẽ ʔ ã	rä; të'ä (t. foto)			Also photo
 15564	ɲ a ⁿd u + t i		spider		Tapiete	ñanduti	spider _:?	Tupian	ɲ a ⁿd u + t i	ñanduti			
 15565	t u k u p e + r a n t i		spine		Tapiete	tukupe-ranti	back _:poss horn	Tupian	t u k u p e + r a n t i	tukupe-ranti			The term 'tiranti' in the dictionary is defined as 'vagina', though
-15566	ⁿb o ʔ ɨ		stand		Tapiete	mbo'ɨ		Tupian	ⁿb o ʔ ɨ	mbo'ɨ			
 15567	dʒ a s ɨ + t a t a		star		Tapiete	yasɨtata	moon fire	Tupian	dʒ a s ɨ + t a t a	yasɨtata			
 15568	k w a r a s ɨ + h a k u		summer		Tapiete	kwarasɨ-haku	sun hot	Tupian	k w a r a s ɨ + h a k u	kwarasɨ-haku			
 15569	k w a r a s ɨ		sun		Tapiete	kwarasɨ		Tupian	k w a r a s ɨ	kwarasɨ			
 15570	dʒ e t ɨ		sweet potato		Tapiete	yetɨ		Tupian	dʒ e t ɨ	yetɨ			
 15571	h + u w ai		tail		Tapiete	huwai	_:poss tail	Tupian	h + u w ai	huwai			
-15572	m a ⁿd i p o r o p ɨ		tapioca, manioc, cassava		Tapiete	mandiporopɨ		Tupian	m a ⁿd i p o r o p ɨ	mandiporopɨ			
+15572	m a ⁿd i + p o r o p ɨ	884 0	tapioca, manioc, cassava		Tapiete	mandiporopɨ		Tupian	m a ⁿd i + p o r o p ɨ	mandiporopɨ			
 15573	o p a + ɲ a ⁿd e + p o		ten		Tapiete	opa ñandepo	all our hand	Tupian	o p a + ɲ a ⁿd e + p o	dies; opa ñandepo			
 15574	h + a p i ʔ a		testicle		Tapiete	h-api'a	_:poss testicle	Tupian	h + a p i ʔ a	h-api'a			Also h-api'a-hä'ɨ̃
 15575	ⁿb a h a p ɨ		three		Tapiete	mbahapɨ		Tupian	ⁿb a h a p ɨ	mbahapɨ			
@@ -14922,8 +14913,8 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 15790	p ã		sweet potato		Chamacoco	pã		Zamucoan	p ã	ichaato; pã; nowatĩshɨ			
 15791	n o w a t ĩ ɕ ɨ		sweet potato		Chamacoco	nowatĩshɨ		Zamucoan	n o w a t ĩ ɕ ɨ	ichaato; pã; nowatĩshɨ			
 15792	k o l t a		tail		Chamacoco	kolta		Zamucoan	k o l t a	kolta			
-15793	m a n t i x o		tapioca, manioc, cassava		Chamacoco	mantijo		Zamucoan	m a n t i x o	mantijo; ununkɨt (ant)			
-15795	u n u ŋ k ɨ t		tapioca, manioc, cassava		Chamacoco	ununkɨt		Zamucoan	u n u ŋ k ɨ t	mantijo; ununkɨt (ant)			archaic
+15793	m a n t i x o	884	tapioca, manioc, cassava		Chamacoco	mantijo		Zamucoan	m a n t i x o	mantijo; ununkɨt (ant)			
+15795	u n u ŋ k ɨ t	0	tapioca, manioc, cassava		Chamacoco	ununkɨt		Zamucoan	u n u ŋ k ɨ t	mantijo; ununkɨt (ant)			archaic
 15796	i t ɨ		testicle		Chamacoco	itɨ		Zamucoan	i t ɨ	itɨ			
 15797	n ã r		thunder		Chamacoco	nãr		Zamucoan	n ã r	nãr			
 15798	n̥ a n t a k		tobacco		Chamacoco	hnantak		Zamucoan	n̥ a n t a k	hnantak			
@@ -15157,7 +15148,6 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 16047	w a tʃ i d i j a ʁ a		spider		TobaPilaga	uachidíyaga		Guaicuruan	w a tʃ i d i j a ʁ a	uachidíyaga			
 16048	w a tʃ i d i j a ʁ a + l + a l a ʔ		spider web		TobaPilaga	uachidíyaga lála	spider _:poss ?	Guaicuruan	w a tʃ i d i j a ʁ a + l + a l a ʔ	uachidíyaga lála			
 16049	w i + l i + p i n e k		spine		TobaPilaga	vi li+pinic	body _:poss bone	Guaicuruan	w i + l i + p i n e k	ví lipiníc			
-16050	tʃ a t + e t a + i ɲ i		stand		TobaPilaga	chatétaiñi	stand _:asp _:dir	Guaicuruan	tʃ a t + e t a + i ɲ i	chatétaiñi			
 16051	w a q a tʃ i ɲ i		star		TobaPilaga	uácachiñi		Guaicuruan	w a q a tʃ i ɲ i	uácachiñi			
 16052	n e t a p		summer		TobaPilaga	netap		Guaicuruan	n e t a p	netáp			
 16053	a h e w a		sun		TobaPilaga	ahewa		Guaicuruan	a h e w a	ajéua			
@@ -16009,29 +15999,29 @@ ID	ALIGNMENT	COGIDS	CONCEPT	CONCEPTICON	DOCULECT	FORM	MORPHEMES	SUBGROUP	TOKENS	
 17197	e n + t aː w a n		son		Enlhet	entaavan	_:1pl offspring	Enlhet-Enenlhet	e n + t aː w a n	entaavan			Vt: entawana
 17198	p e h e n ɣʷ e		brother		Guarani	pehengue		Tupian	p e h e n ɣʷ e	pehengue			
 17199	m e ᵐb ɨ		son		Ava	t-aɨ; meᵐbɨ		Tupian	m e ᵐb ɨ	t-aɨ; meᵐbɨ			
-17200	tʃˀ i n i x		younger brother		Wichi	ch'inij			tʃˀ i n i x	ch'inij			
-17201	d + e s aː + i		younger brother		Ayoreo	desaai	_:poss younger.brother _:masc		d + e s aː + i	desaai			IDS
-17202	o n a x		younger brother		Nivacle	onaj			o n a x	onaj			
-17203	kˀ i n i x		younger brother		Maka	k'inix			kˀ i n i x	k'inix			
-17204	x i + j i n i		younger brother		Chorote	ji'yini	_:poss younger.brother		x i + j i n i	ji'yini			
-17205	t + ɨ w ɨ		younger brother		Ava	tɨwɨ	_:poss younger.brother		t + ɨ w ɨ	tɨwɨ			
-17206	t + ɨ ʋ ɨ r a		younger brother		Guarani	tyvýra	_:poss younger.brother		t + ɨ ʋ ɨ r a	tyvýra			Said by brother
-17208	k ɨ ʋ ɨ + m i ʃ i + ʋ e + ʋ a		younger brother		Guarani	kyvy michivéva	brother little _:comp _:nmlz		k ɨ ʋ ɨ + m i ʃ i + ʋ e + ʋ a	kyvy michivéva			Said by sister
-17209	t + ɨ w ɨ		younger brother		Tapiete	tɨwɨ	_:poss younger.brother		t + ɨ w ɨ	tɨwɨ			Relative to males
-17210	t + ɨ ʋ ɨ		younger brother		Mbya	tyvy	_:poss younger.brother		t + ɨ ʋ ɨ	tyvy			Relative to males
-17212	l e ʃ p aː b ɨ t		younger brother		Chamacoco	leshpaabɨt			l e ʃ p aː b ɨ t	leshpaabɨt			
-17213	i k e l e		younger brother		Vilela	ikele			i k e l e	ikele			
-17214	e n i p		younger brother		Lule	enyp			e n i p	enyp			
-17215	k u w e p		younger brother		Lule	cuvèp			k u w e p	cuvèp			Said by sisters
-17216	l + a n o q		younger brother		Toba	lanoq	_:poss younger.brother		l + a n o q	lanoq			
-17217	l + a n o q		younger brother		Mocovi	lanoq	_:poss younger.brother		l + a n o q	lanoq			
-17218	l + a n o q + o l e + k		younger brother		Pilaga	lanoqolek	_:poss younger.brother _:dim _:masc		l + a n o q + o l e + k	lanoqolek			
-17219	o ts o t e g i		younger brother		Kadiweo	ocotegi			o ts o t e g i	ocotegi			
-17220	j + a n o q + l e k		younger brother		Cerriteno	yanoqlek	_:poss younger.brother _:dim		j + a n o q + l e k	yanoqlek			
-17221	e n a q		younger brother		Abipon	enaq			e n a q	enaq			
-17222	e ŋ + j aː ɬ e ŋˀ		younger brother		Enlhet	engyaalheng'	_:poss younger.brother		e ŋ + j aː ɬ e ŋˀ	engyaalheng'			
-17223	ɪ ŋ + j ɑː ɬ ɪ ŋ		younger brother		EnxetSur	egyáxeg	_:poss younger.brother		ɪ ŋ + j ɑː ɬ ɪ ŋ	egyáxeg			
-17224	i n a n + p e ɲ i		younger brother		Mapudungun	inan peñi	younger brother		i n a n + p e ɲ i	inan peñi			
-17225	i n a n + l a m ŋ e n		younger brother		Mapudungun	inan lamngen	younger sibling		i n a n + l a m ŋ e n	inan lamngen			
-17226	j + i s a + b ai		younger brother		Ayoreo	yisabai	_:poss younger.brother _:suff/bai		j + i s a + b ai	yisabai			Benz and Picanerai
-17227	tʃˀ i n i ʃ		younger brother		Nivacle	ch'inish			tʃˀ i n i ʃ	ch'inish			
+17200	tʃˀ i n i x		younger brother		Wichi	ch'inij		Matacoan	tʃˀ i n i x	ch'inij			
+17201	d + e s aː + i		younger brother		Ayoreo	desaai	_:poss younger.brother _:masc	Zamucoan	d + e s aː + i	desaai			IDS
+17202	o n a x		younger brother		Nivacle	onaj		Matacoan	o n a x	onaj			
+17203	kˀ i n i x		younger brother		Maka	k'inix		Matacoan	kˀ i n i x	k'inix			
+17204	x i + j i n i		younger brother		Chorote	ji'yini	_:poss younger.brother	Matacoan	x i + j i n i	ji'yini			
+17205	t + ɨ w ɨ		younger brother		Ava	tɨwɨ	_:poss younger.brother	Tupian	t + ɨ w ɨ	tɨwɨ			
+17206	t + ɨ ʋ ɨ r a		younger brother		Guarani	tyvýra	_:poss younger.brother	Tupian	t + ɨ ʋ ɨ r a	tyvýra			Said by brother
+17208	k ɨ ʋ ɨ + m i ʃ i + ʋ e + ʋ a		younger brother		Guarani	kyvy michivéva	brother little _:comp _:nmlz	Tupian	k ɨ ʋ ɨ + m i ʃ i + ʋ e + ʋ a	kyvy michivéva			Said by sister
+17209	t + ɨ w ɨ		younger brother		Tapiete	tɨwɨ	_:poss younger.brother	Tupian	t + ɨ w ɨ	tɨwɨ			Relative to males
+17210	t + ɨ ʋ ɨ		younger brother		Mbya	tyvy	_:poss younger.brother	Tupian	t + ɨ ʋ ɨ	tyvy			Relative to males
+17212	l e ʃ p aː b ɨ t		younger brother		Chamacoco	leshpaabɨt		Zamucoan	l e ʃ p aː b ɨ t	leshpaabɨt			
+17213	i k e l e		younger brother		Vilela	ikele		Lule-Vilela	i k e l e	ikele			
+17214	e n i p		younger brother		Lule	enyp		Lule-Vilela	e n i p	enyp			
+17215	k u w e p		younger brother		Lule	cuvèp		Lule-Vilela	k u w e p	cuvèp			Said by sisters
+17216	l + a n o q		younger brother		Toba	lanoq	_:poss younger.brother	Guaicuruan	l + a n o q	lanoq			
+17217	l + a n o q		younger brother		Mocovi	lanoq	_:poss younger.brother	Guaicuruan	l + a n o q	lanoq			
+17218	l + a n o q + o l e + k		younger brother		Pilaga	lanoqolek	_:poss younger.brother _:dim _:masc	Guaicuruan	l + a n o q + o l e + k	lanoqolek			
+17219	o ts o t e g i		younger brother		Kadiweo	ocotegi		Guaicuruan	o ts o t e g i	ocotegi			
+17220	j + a n o q + l e k		younger brother		Cerriteno	yanoqlek	_:poss younger.brother _:dim	Guaicuruan	j + a n o q + l e k	yanoqlek			
+17221	e n a q		younger brother		Abipon	enaq		Guaicuruan	e n a q	enaq			
+17222	e ŋ + j aː ɬ e ŋˀ		younger brother		Enlhet	engyaalheng'	_:poss younger.brother	Enlhet-Enenlhet	e ŋ + j aː ɬ e ŋˀ	engyaalheng'			
+17223	ɪ ŋ + j ɑː ɬ ɪ ŋ		younger brother		EnxetSur	egyáxeg	_:poss younger.brother	Enlhet-Enenlhet	ɪ ŋ + j ɑː ɬ ɪ ŋ	egyáxeg			
+17224	i n a n + p e ɲ i		younger brother		Mapudungun	inan peñi	younger brother	Araucanian	i n a n + p e ɲ i	inan peñi			
+17225	i n a n + l a m ŋ e n		younger brother		Mapudungun	inan lamngen	younger sibling	Araucanian	i n a n + l a m ŋ e n	inan lamngen			
+17226	j + i s a + b ai		younger brother		Ayoreo	yisabai	_:poss younger.brother _:suff/bai	Zamucoan	j + i s a + b ai	yisabai			Benz and Picanerai
+17227	tʃˀ i n i ʃ		younger brother		Nivacle	ch'inish		Matacoan	tʃˀ i n i ʃ	ch'inish			
